@@ -1,0 +1,327 @@
+Rank	Gene	ProteinChange	Neopeptide_9mer	WT_9mer	MutPos	AF	Reads	TPM	MT_IC50_nM	WT_IC50_nM	Agretopicity	Score	ClinicalTier	Action
+1	AP4B1	G525V	LLLVVIDEV	LLLVGIDEV	5	0.654	34/52	325.28	3.42	4.41	1.29	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+2	TRIM28	R492C	SLECLDLDL	SLERLDLDL	4	0.449	22/49	24147.60	26.29	22.18	0.84	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+3	NRAS	G12R	LVVVGARGV	LVVVGAGGV	7	0.758	116/153	3601.36	40.20	40.20	1.00	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+4	MTHFD1	P843H	LLHEAQHKA	LLPEAQHKA	3	0.312	5/16	1374.83	66.92	156.28	2.34	100.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+5	DYNC2H1	S590P	RQLPALGFV	RQLSALGFV	4	0.371	13/35	438.39	156.28	364.11	2.33	87.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+6	TMEM245	G754W	FLWTYWAAV	FLGTYWAAV	3	0.148	4/27	1634.31	2.05	9.48	4.62	81.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+7	ZNF669	V232I	KFFISVPGV	KFFVSVPGV	4	0.932	137/147	136.10	282.62	282.62	1.00	78.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+8	NBR1	Q353K	LLKSNTLML	LLQSNTLML	3	0.176	3/17	5585.60	12.24	12.24	1.00	77.7	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+9	PCNX3	L1607I	SLEPFIYGL	SLEPFLYGL	6	0.182	4/22	1194.84	4.41	5.23	1.19	75.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+10	TRIM9	R655G	VLLDLNGKN	VLLDLNRKN	7	0.287	49/171	1023.28	121.19	121.19	1.00	73.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+11	ITPR3	D961Y	YIVVMETKL	DIVVMETKL	1	0.162	19/117	3762.92	40.20	219.29	5.45	71.3	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+12	RNF2	Y120H	KIYPSRDEH	KIYPSRDEY	9	0.453	29/64	1078.44	1638.38	1638.38	1.00	66.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+13	FANCD2	M197I	DLTTKIIQL	DLTTKIMQL	7	0.246	16/65	343.84	36.93	51.87	1.40	65.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+14	UBE2M	R169W	SMWGGYIGS	SMRGGYIGS	3	0.219	14/64	1949.14	219.29	996.89	4.55	65.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+15	PKN1	R623L	GLGHFGKVL	GRGHFGKVL	2	0.125	4/32	3655.80	43.77	27305.93	623.85	57.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+16	MARCHF7	S303Y	YLNTRSLNS	SLNTRSLNS	1	0.247	19/77	1683.38	510.06	917.14	1.80	54.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+17	GPR158	L535F	RMLAVILFV	RMLAVILLV	8	0.133	6/45	2328.59	3.42	2.89	0.85	52.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+18	CHD8	R1992H	LLHQQYTSH	LLHQQYTSR	9	0.250	5/20	1703.80	1508.90	24125.36	15.99	52.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+19	PTBP1	P67H	HIRKLHIDV	HIRKLPIDV	6	0.148	4/27	6402.58	111.34	170.10	1.53	50.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+20	ZNF532	P454Q	TAFLQVSAV	TAFLPVSAV	5	0.138	4/29	2710.24	51.87	121.19	2.34	50.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+21	FHIP2B	Q706K	TLLKGVVVL	TLLQGVVVL	4	0.129	4/31	522.92	2.43	2.89	1.19	50.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+22	SFT2D1	W137L	FLSMTLYSL	FLSMTWYSL	6	0.130	3/23	353.87	6.20	14.50	2.34	46.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+23	PARP6	R559L	SLNLNCIAL	SRNLNCIAL	2	0.114	4/35	565.90	22.18	18935.82	853.73	44.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+24	TTN	G14543A	ASRIKGYIV	GSRIKGYIV	1	0.506	124/245	39.91	1177.27	1778.56	1.51	44.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+25	TNFRSF10B	R145L	FLEEDSPEM	FREEDSPEM	2	0.200	3/15	879.66	843.67	47965.05	56.85	44.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+26	GCN1	G2528W	RIPIAVSWV	RIPIAVSGV	8	0.182	4/22	2742.12	334.64	334.64	1.00	44.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+27	LRRC40	R506M	NMFKMLPEV	NRFKMLPEV	2	0.114	5/44	349.21	14.50	10334.45	712.72	43.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+28	CDK5	A196G	ELGNAGRPL	ELANAGRPL	3	0.214	15/70	650.43	364.11	364.11	1.00	41.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+29	RNF123	F211L	SLCLNGVSL	SFCLNGVSL	2	0.095	4/42	1218.12	22.18	996.89	44.95	41.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+30	CHPF	E696Q	AASQQEEEL	AASEQEEEL	4	0.273	33/121	7691.62	1930.26	1279.04	0.66	40.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+31	OSBPL8	S147Y	YVIVMADWL	SVIVMADWL	1	0.129	4/31	883.95	40.20	72.84	1.81	40.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+32	RELCH	P908H	VLTKATVHI	VLTKATVPI	8	0.133	4/30	412.61	24.15	47.65	1.97	40.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+33	CDC42BPB	M1444I	LLCFSHIGL	LLCFSHMGL	7	0.111	4/36	1757.88	24.15	33.92	1.40	40.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+34	TBC1D9B	W87L	HLEWLENNL	HWEWLENNL	2	0.111	4/36	3125.00	185.13	18935.82	102.28	40.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+35	UBE4B	P66T	NMTPATSTI	NMTPATSPI	8	0.111	3/27	1707.02	61.47	238.65	3.88	39.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+36	DOP1B	R1239L	RLVLYAFSV	RRVLYAFSV	2	0.098	5/51	147.56	2.65	3393.11	1280.42	38.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+37	SMC1A	A382G	GSKRAATLA	ASKRAATLA	1	0.824	14/17	2151.15	7277.12	5010.02	0.69	38.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+38	POLR1A	G76V	SVHLGHIEL	SGHLGHIEL	2	0.104	5/48	1981.02	121.19	6282.39	51.84	38.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+39	PML	S388Y	RLQDLSYCI	RLQDLSSCI	7	0.120	3/25	1176.58	66.92	156.28	2.34	37.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+40	SYDE1	R453L	ELDSAAVCL	ERDSAAVCL	2	0.121	4/33	325.93	66.92	32397.04	484.12	37.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+41	C2CD2	E314D	LMWEDEFTF	LMWEEEFTF	5	0.158	3/19	486.03	111.34	111.34	1.00	36.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+42	RRP12	S774Y	AISKLYYTI	AISKLYSTI	7	0.114	4/35	1735.67	86.32	201.49	2.33	36.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+43	UBR4	R2353L	VMTGMLIQI	VMTGMRIQI	6	0.091	3/33	2762.54	28.62	66.92	2.34	36.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+44	SETBP1	G1334W	WMPSPHLKV	GMPSPHLKV	1	0.150	3/20	226.72	51.87	79.30	1.53	35.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+45	TRMT2B	W80L	SLQERLADV	SWQERLADV	2	0.105	4/38	227.79	20.38	3133.95	153.78	35.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+46	MRPL41	P58Q	VQEFVVPDL	VPEFVVPDL	2	0.207	6/29	412.97	1389.36	19945.61	14.36	35.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+47	HNRNPA3	H122N	NLTVKKIFV	HLTVKKIFV	1	0.102	5/49	6652.58	79.30	79.30	1.00	35.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+48	TRMT9B	G356C	FLDSTNTCV	FLDSTNTGV	8	0.156	5/32	307.67	79.30	79.30	1.00	35.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+49	PRR12	P242Q	HLQTQFNLL	HLPTQFNLL	3	0.115	3/26	2298.71	156.28	364.11	2.33	34.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+50	SENP6	P105Q	TLKGNQIGL	TLKGNPIGL	6	0.100	4/40	1039.40	22.18	33.92	1.53	34.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+51	RAF1	R143L	FALKTFLKL	FARKTFLKL	3	0.083	3/36	1654.73	20.38	72.84	3.57	34.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+52	EFHD1	F99L	LIKDLESML	LIKDLESMF	9	0.088	3/34	3745.34	143.58	4639.65	32.31	34.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+53	CHKA	G173V	FQVAEAMVL	FQGAEAMVL	3	0.148	4/27	525.43	219.29	510.06	2.33	33.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+54	CINP	R133L	YHYGEESKL	YHYGEESKR	9	0.111	4/36	423.71	102.28	34284.01	335.20	33.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+55	TUBGCP6	G875W	AVWAGGRGL	AVGAGGRGL	3	0.101	7/69	751.07	61.47	282.62	4.60	33.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+56	HSPG2	Q1699K	GSHSLRCKV	GSHSLRCQV	8	0.125	3/24	8987.70	775.99	2094.33	2.70	32.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+57	BAZ2A	P1483H	FLQEVCLRH	FLQEVCLRP	9	0.079	3/38	3399.99	93.96	2670.17	28.42	32.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+58	RAD51	S106Y	TGYKELDKL	TGSKELDKL	3	0.200	3/15	113.90	554.81	2893.35	5.22	31.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+59	RCE1	R157S	VLAPRSWAS	VLAPRSWAR	9	0.176	3/17	210.60	775.99	16041.07	20.67	31.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+60	CORO2B	Q467K	QLKLELKNL	QLQLELKNL	3	0.093	4/43	4440.90	79.30	79.30	1.00	30.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+61	PRIM2	M125I	FIQQEIDLL	FIQQEMDLL	6	0.125	5/40	250.36	79.30	219.29	2.77	30.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+62	LTN1	P142H	QLAHYLKSL	QLAPYLKSL	4	0.111	4/36	1003.22	18.72	8.00	0.43	30.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+63	SERTAD3	R48L	SLGPLAPSL	SLGPRAPSL	5	0.088	3/34	348.14	6.75	13.32	1.97	30.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+64	SNTB1	G24W	RSWLLEVLV	RSGLLEVLV	3	0.094	3/32	2601.36	185.13	843.67	4.56	30.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+65	ADGRV1	R3087I	LIEPTALYV	LREPTALYV	2	0.125	4/32	57.66	31.16	7277.12	233.54	30.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+66	KIFC3	G384W	TLTNDYNWL	TLTNDYNGL	8	0.109	5/46	1338.83	93.96	93.96	1.00	30.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+67	SULF2	A242T	RLFPNTSQH	RLFPNASQH	6	0.143	10/70	2451.29	282.62	219.29	0.78	30.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+68	TRAPPC11	L517I	YITYSIELL	YITYSLELL	6	0.121	4/33	677.29	121.19	143.58	1.18	29.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+69	SLC43A3	G77W	TLWSFMNNF	TLGSFMNNF	3	0.111	4/36	1026.17	259.71	1177.27	4.53	29.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+70	SEPTIN9	E567D	RLNDGSSAM	RLNEGSSAM	4	0.143	3/21	18269.30	917.14	713.66	0.78	29.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+71	MEGF8	W2744C	LLTGAGGPC	LLTGAGGPW	9	0.143	3/21	5277.94	1930.26	9009.95	4.67	29.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+72	MITD1	F241L	ILHKKHTKN	IFHKKHTKN	2	0.172	10/58	174.43	843.67	22014.32	26.09	29.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+73	GCN1	G1376V	VMIQRLMQQ	GMIQRLMQQ	1	0.114	4/35	2742.12	334.64	510.06	1.52	29.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+74	PATZ1	G298C	GILPCGLCC	GILPCGLCG	9	0.111	3/27	2016.12	713.66	5406.43	7.58	28.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+75	GBA2	G198W	CLRREWQTV	CLRREGQTV	6	0.100	3/30	798.37	61.47	61.47	1.00	27.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+76	SLC45A2	R299S	SAMTLKSLL	RAMTLKSLL	1	0.111	4/36	3138.97	431.01	713.66	1.66	27.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+77	KIF1B	K1302N	IIHENGSEL	IIHEKGSEL	5	0.116	5/43	1446.99	259.71	259.71	1.00	27.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+78	ZSCAN22	W108L	ALPPEIQAL	ALPPEIQAW	9	0.079	3/38	231.73	18.72	3393.11	181.26	27.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+79	HUWE1	H3871N	SNDQHAVLV	SHDQHAVLV	2	0.133	4/30	4963.11	996.89	996.89	1.00	27.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+80	CNTRL	Q698H	SLQQTHGDL	SLQQTQGDL	6	0.115	6/52	442.69	93.96	93.96	1.00	27.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+81	DIS3	R638L	VLFHMDSET	VRFHMDSET	2	0.081	3/37	2213.82	219.29	42907.45	195.67	27.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+82	ABCE1	G464C	LSCGELQRV	LSGGELQRV	3	0.111	5/45	2160.10	282.62	282.62	1.00	27.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+83	CARNMT1	H347N	LLYNFENLA	LLYHFENLA	4	0.111	4/36	169.41	24.15	24.15	1.00	26.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+84	DHX34	Q476H	RLHEFWISQ	RLQEFWISQ	3	0.118	4/34	1450.93	307.54	307.54	1.00	26.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+85	DYNC1I2	H536N	VMWSPTNPA	VMWSPTHPA	7	0.121	7/58	2491.76	510.06	510.06	1.00	26.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+86	CMTM6	E95D	YCTPFYDRV	YCTPFYERV	7	0.086	3/35	2758.95	121.19	185.13	1.53	26.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+87	ZC3H14	S333Y	GSISSSVYV	GSISSSVSV	8	0.174	4/23	661.89	554.81	364.11	0.66	26.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+88	ACP2	E380D	ASGPADTDV	ASGPADTEV	8	0.150	3/20	926.58	775.99	775.99	1.00	26.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+89	EPS15L1	Q514K	RLQQEETKL	RLQQEETQL	8	0.083	3/36	820.20	56.47	156.28	2.77	26.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+90	CAMTA1	P1178H	AQLGQNHRI	AQLGQNPRI	7	0.176	6/34	209.17	554.81	554.81	1.00	26.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+91	PLAA	Q679K	LMMSKRESL	LMMSQRESL	5	0.094	3/32	612.82	43.77	43.77	1.00	26.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+92	LGI4	G419V	RHFQAGVDV	RHFQAGGDV	7	0.088	3/34	2974.93	238.65	656.27	2.75	25.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+93	TECTA	V1642I	PVISSVVLA	PVVSSVVLA	3	0.366	48/131	10.03	468.88	554.81	1.18	25.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+94	PRKX	P107Q	VSHQFLIRL	VSHPFLIRL	4	0.143	4/28	260.75	86.32	36.93	0.43	25.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+95	KANK1	K54N	QNGNTIKRL	QKGNTIKRL	2	0.114	4/35	1890.76	1279.04	22014.32	17.21	25.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+96	ZDHHC3	L217I	TTVILIILL	TTVILLILL	6	0.083	3/36	1540.47	66.92	79.30	1.18	25.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+97	FBN1	D1280Y	CVYVNECDL	CVDVNECDL	3	0.098	4/41	250.00	143.58	1508.90	10.51	25.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+98	VPS26B	P245Q	SIQIRLFLA	SIPIRLFLA	3	0.114	4/35	1111.75	468.88	1083.41	2.31	25.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+99	GPR108	P373H	KVFGIVIHM	KVFGIVIPM	8	0.093	4/43	376.79	51.87	102.28	1.97	25.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
+100	HSPE1	P34Q	LQEKSQGKV	LPEKSQGKV	2	0.095	4/42	6056.23	1177.27	17946.63	15.24	24.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+101	ZNF532	H954N	LMMDNIKSM	LMMDHIKSM	5	0.083	3/36	2710.24	111.34	111.34	1.00	24.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+102	SORL1	S432Y	YMNEENMRS	SMNEENMRS	1	0.097	3/31	3268.62	396.16	713.66	1.80	24.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+103	COL6A3	G227V	SSVSPERAV	SSVSPERAG	9	0.104	7/67	11245.30	2094.33	47187.35	22.53	24.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+104	GARIN2	L170I	TLFSQWVAI	TLFSQWVAL	9	0.158	3/19	36.17	9.48	4.05	0.43	24.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+105	MAP3K1	R270S	VSRKRVSPV	VRRKRVSPV	2	0.136	3/22	737.82	1638.38	25187.50	15.37	24.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+106	CYP27A1	R323L	LASGQLSPL	LASGQLSPR	9	0.082	6/73	4114.26	603.43	46428.74	76.94	24.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+107	DMPK	D204Y	ILLYRCGHI	ILLDRCGHI	4	0.098	4/41	924.07	51.87	43.77	0.84	24.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+108	MYCBP	P38Q	VLVALYEEQ	VLVALYEEP	9	0.119	5/42	529.37	917.14	17946.63	19.57	23.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+109	SDHA	L469M	VVFGRACAM	VVFGRACAL	9	0.109	6/55	2684.81	170.10	13.32	0.08	23.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+110	ABCA2	Q298K	DVAKVSQKL	DVAKVSQQL	8	0.120	3/25	218.12	238.65	656.27	2.75	23.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+111	AMBRA1	G1083W	WLMNAIGLQ	GLMNAIGLQ	1	0.103	3/29	801.22	238.65	364.11	1.53	23.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+112	GRM7	R434L	DLCADYLGV	DLCADYRGV	7	0.111	4/36	86.68	61.47	219.29	3.57	23.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+113	PELP1	L72I	CILRLHGSV	CLLRLHGSV	2	0.086	3/35	3724.57	56.47	11.24	0.20	23.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+114	PAXX	L89M	TMQEDRASL	TLQEDRASL	2	0.129	4/31	196.28	61.47	40.20	0.65	23.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+115	DTX3L	L727M	YMKRVKEEL	YLKRVKEEL	2	0.121	4/33	414.04	102.28	66.92	0.65	23.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+116	SEMA3E	G579W	FVWDALDKT	FVGDALDKT	3	0.111	4/36	69.84	61.47	282.62	4.60	23.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+117	DNTTIP2	R123M	SSVMKKPKV	SSVRKKPKV	4	0.143	5/35	1595.99	775.99	656.27	0.85	23.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+118	PTPRN2	R927S	SLLDFSRKV	SLLDFRRKV	6	0.120	3/25	21.51	2.24	2.24	1.00	23.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+119	LRCH1	L148M	YMNLSRNQL	YLNLSRNQL	2	0.100	3/30	991.76	79.30	51.87	0.65	22.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+120	PCDHGA3	R403C	SIDQYYCLV	SIDQYYRLV	7	0.317	20/63	7.52	219.29	219.29	1.00	22.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+121	CWF19L2	G208C	CLPPEDCSV	GLPPEDCSV	1	0.125	4/32	259.31	93.96	61.47	0.65	22.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+122	PERP	G101V	ILSFFALCV	ILSFFALCG	9	0.107	3/28	13.97	3.14	1177.27	374.93	22.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+123	PTPN2	T261N	GLIQNPDQL	GLIQTPDQL	5	0.097	3/31	301.93	66.92	66.92	1.00	22.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+124	ZNF510	G596V	RVHQRIHTV	RVHQRIHTG	9	0.086	3/35	176.22	93.96	20972.88	223.21	22.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+125	SLMAP	R11L	SALAIFTCL	SALAIFTCR	9	0.079	3/38	652.58	219.29	41209.52	187.92	22.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+126	SYN3	G400V	KMSQLPMPV	KMSQLPMPG	9	0.089	5/56	157.59	111.34	23066.37	207.17	22.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+127	POFUT3	R269M	YMIIAQYKF	YRIIAQYKF	2	0.085	4/47	181.59	102.28	32397.04	316.75	22.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+128	TLN1	G2039W	VLVQNAAWS	VLVQNAAGS	8	0.089	5/56	8409.74	603.43	603.43	1.00	21.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+129	ZNF32	G258W	FTQRWSLAV	FTQRGSLAV	5	0.121	4/33	430.16	185.13	156.28	0.84	21.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+130	EIF6	G69C	CVGNRHCLL	CVGNRHGLL	7	0.098	4/41	4184.46	656.27	656.27	1.00	21.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+131	NDUFB4	Q42K	KLKREYLLQ	QLKREYLLQ	1	0.118	4/34	926.58	843.67	1279.04	1.52	21.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+132	NAA30	P20Q	PAPPAQAAV	PAPPAPAAV	6	0.182	4/22	342.76	2271.69	3393.11	1.49	21.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+133	UBR4	L994F	VTAFEACAL	VTALEACAL	4	0.103	3/29	2762.54	775.99	775.99	1.00	20.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+134	SBK1	F244L	AFGVLILCV	AFGVLIFCV	7	0.093	4/43	371.06	143.58	219.29	1.53	20.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+135	SAMD9L	E830K	DLRYKKTLV	DLRYEKTLV	5	0.155	23/148	61.25	282.62	282.62	1.00	20.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+136	RSF1	G438W	ALGHEWKQL	ALGHEGKQL	6	0.082	4/49	512.89	79.30	79.30	1.00	20.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+137	FBXL18	G651W	HLFTWESLA	HLFTGESLA	5	0.097	3/31	1192.34	185.13	156.28	0.84	20.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+138	TJP1	Q70H	GQLHENDRV	GQLQENDRV	4	0.097	3/31	1253.94	431.01	431.01	1.00	20.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+139	MID2	H198N	CLDNENEKV	CLDHENEKV	4	0.121	4/33	104.23	156.28	156.28	1.00	20.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+140	UBXN11	G224V	TQVTPVPGV	TQVTPVPGG	9	0.125	3/24	164.76	996.89	44322.59	44.46	20.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+141	TENT5B	G230C	LLFCQCSST	LLFGQCSST	4	0.148	4/27	75.21	121.19	79.30	0.65	19.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+142	FICD	R87S	TSSGATLLV	TSRGATLLV	3	0.129	4/31	93.48	219.29	219.29	1.00	19.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+143	NALCN	W556C	QILTQEGCV	QILTQEGWV	8	0.130	3/23	78.44	201.49	201.49	1.00	19.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+144	XIAP	G204C	QCFCCCGKL	QCFCCGGKL	6	0.108	4/37	618.20	554.81	554.81	1.00	19.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+145	CFLAR	Y119D	LIFLMKDDM	LIFLMKDYM	8	0.139	5/36	400.07	1177.27	1177.27	1.00	19.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+146	UNC13D	L605M	AMARVQRAV	ALARVQRAV	2	0.086	3/35	340.62	33.92	22.18	0.65	18.8	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+147	MMP24	W449C	YCVFKEVTV	YWVFKEVTV	2	0.079	3/38	266.12	143.58	510.06	3.55	18.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+148	SUGP1	H148N	KSYSNAKQL	KSYSHAKQL	5	0.108	4/37	412.97	510.06	510.06	1.00	18.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+149	ZEB2	G51C	LHIAEDDCI	LHIAEDDGI	8	0.122	6/49	3270.77	2463.30	2463.30	1.00	18.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+150	UHRF2	W606L	GFLVLRYLL	GFLVWRYLL	5	0.094	3/32	283.67	282.62	554.81	1.96	18.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+151	SPTBN2	H1720N	EVVAASNEL	EVVAASHEL	7	0.098	5/51	413.68	334.64	334.64	1.00	18.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+152	CNDP1	W342C	MHLCRYPSL	MHLWRYPSL	4	0.087	4/46	3292.62	775.99	775.99	1.00	18.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+153	RNF38	P453H	QLPSYRFNH	QLPSYRFNP	9	0.116	5/43	526.86	2271.69	29391.48	12.94	18.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+154	SHC1	G362V	LGVVVDMRL	LGGVVDMRL	3	0.081	3/37	4375.36	996.89	2271.69	2.28	17.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+155	CAPN3	W373L	WNGSWSDRL	WNGSWSDRW	9	0.091	4/44	1047.28	1508.90	42907.45	28.44	17.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+156	CTR9	A292S	YSKVQHLSL	YSKVQHLAL	8	0.079	3/38	2063.40	431.01	431.01	1.00	17.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+157	FMR1	L421M	VLLDYHMNY	VLLDYHLNY	7	0.089	4/45	525.43	121.19	66.92	0.55	17.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+158	GALC	G104C	HILKVEIGC	HILKVEIGG	9	0.105	4/38	554.80	1778.56	11797.62	6.63	17.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+159	PDCD4	P420T	DVTHSYSVL	DVPHSYSVL	3	0.086	3/35	2516.04	1177.27	2670.17	2.27	16.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+160	IGF1R	P1304H	HLDPSASSS	PLDPSASSS	1	0.088	3/34	5119.27	1778.56	3971.93	2.23	16.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+161	KDM4A	P887H	CFRHKIHNL	CFRHKIPNL	7	0.125	4/32	2164.40	2893.35	2893.35	1.00	16.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+162	PHKA2	R62S	GLGMAYSKN	GLGMAYRKN	7	0.105	4/38	753.45	996.89	996.89	1.00	16.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+163	LRFN1	R363M	TLMDSGTFT	TLRDSGTFT	3	0.093	4/43	324.14	510.06	1177.27	2.31	16.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+164	ABRAXAS2	P352H	GLKYHGSGA	GLKYPGSGA	5	0.102	5/49	327.01	775.99	1778.56	2.29	16.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+165	MYBBP1A	E612D	LLKSPADSC	LLKSPAESC	7	0.091	3/33	5023.73	1778.56	2670.17	1.50	16.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+166	ASXL2	G1324W	QIWPSYRGM	QIGPSYRGM	3	0.086	3/35	933.38	1083.41	4639.65	4.28	16.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+167	BBS12	K347N	SNNPVINEL	SNNPVIKEL	7	0.130	3/23	67.34	431.01	431.01	1.00	16.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+168	PTPRE	H173N	ILPNDNSRV	ILPNDHSRV	6	0.097	3/31	55.52	61.47	61.47	1.00	16.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+169	SYNE1	R8700L	PLGKCSLSQ	PRGKCSLSQ	2	0.098	4/41	746.42	2271.69	49246.60	21.68	16.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+170	MYO7B	G2034W	AINRHWVLL	AINRHGVLL	6	0.333	5/15	2.51	102.28	102.28	1.00	15.9	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
+171	CDC37L1	G79C	KLCSLALHN	KLGSLALHN	3	0.115	3/26	80.95	307.54	307.54	1.00	15.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+172	PEX10	E263D	RASLDERAV	RASLEERAV	5	0.111	5/45	579.65	1279.04	1279.04	1.00	15.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+173	EXT2	H623N	NMNCEDIAM	HMNCEDIAM	1	0.083	3/36	1899.00	843.67	843.67	1.00	15.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+174	KMT2A	S1384Y	TLNILSTLY	TLNILSTLS	9	0.104	5/48	984.96	1389.36	1389.36	1.00	15.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+175	PLIN2	P336Q	NIQGVQQNI	NIQGVPQNI	6	0.083	3/36	1570.56	917.14	1389.36	1.51	15.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+176	RDH13	S249Y	GSTFYSTTL	GSTFSSTTL	5	0.094	5/53	497.13	996.89	2670.17	2.68	15.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+177	MT2A	C33R	KSRCSCCPV	KSCCSCCPV	3	0.208	10/48	546.92	7277.12	7277.12	1.00	15.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+178	IRAK2	R566L	LLVIVGREA	LRVIVGREA	2	0.079	3/38	54.08	121.19	38470.65	317.44	15.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+179	UTP15	P32H	NNYKTHVQI	NNYKTPVQI	6	0.103	4/39	412.97	1083.41	1638.38	1.51	15.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+180	PRDM4	R382S	TLCDSAYPS	TLCDRAYPS	5	0.103	4/39	614.61	1177.27	1177.27	1.00	15.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+181	ITGAX	H990N	VSNPQNPSL	VSHPQNPSL	3	0.115	3/26	208.45	996.89	996.89	1.00	14.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+182	NBEAL2	P1907Q	ELAELETQM	ELAELETPM	8	0.102	5/49	340.26	1177.27	2271.69	1.93	14.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+183	PLCH2	R531L	SLIKESKIL	SLIKESKIR	9	0.129	4/31	5.37	28.62	18935.82	661.63	14.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+184	MAST1	Q618K	ALPTEAKLL	ALPTEAQLL	7	0.101	8/79	34.38	79.30	79.30	1.00	14.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+185	UGT8	L55I	FILSEGRDI	FLLSEGRDI	2	0.125	4/32	58.74	170.10	33.92	0.20	14.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+186	RAPGEF2	R233S	AQQDYCSIL	AQQDYCRIL	7	0.091	3/33	611.39	917.14	917.14	1.00	14.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+187	GRHL3	P551T	FTEENIYKV	FPEENIYKV	2	0.138	4/29	6.45	86.32	2463.30	28.54	14.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+188	DUSP9	G285V	ALSQNCVVL	ALSQNCGVL	7	0.086	3/35	23.28	28.62	79.30	2.77	14.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+189	NKAIN1	G112W	WMENWPGCL	WMENGPGCL	5	0.125	4/32	74.86	364.11	307.54	0.84	14.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+190	TUBGCP2	E597D	AIETKQDKA	AIETKQEKA	7	0.094	3/32	1089.43	1778.56	2670.17	1.50	14.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+191	SLC7A2	P648H	NLSSHFIFH	NLSSPFIFH	5	0.089	4/45	2051.58	2271.69	5010.02	2.21	14.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+192	ZNF462	R1709S	YTNPISKGL	YTNPIRKGL	6	0.079	3/38	311.96	334.64	334.64	1.00	13.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+193	SDK2	K863N	NFTEYFTSV	KFTEYFTSV	1	0.083	3/36	3873.93	996.89	656.27	0.66	13.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+194	ITGAE	G558C	CSFSLARIL	GSFSLARIL	1	0.103	7/68	205.23	396.16	259.71	0.66	13.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+195	NPR2	G265C	SLRACPTRA	SLRAGPTRA	5	0.097	3/31	259.31	396.16	334.64	0.84	13.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+196	NFIX	G147V	GIPLESTDV	GIPLESTDG	9	0.148	4/27	19.34	1083.41	44736.53	41.29	13.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+197	USP2	L71I	RTYGPSSIL	RTYGPSSLL	8	0.119	5/42	395.77	1279.04	1083.41	0.85	13.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+198	HP1BP3	P417H	FQLCFPYYH	FQLCFPYYP	9	0.094	3/32	1688.75	4294.04	36894.21	8.59	13.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+199	ETV5	G3W	MDWFYDQQV	MDGFYDQQV	3	0.107	3/28	8422.64	6764.35	20972.88	3.10	13.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+200	KANSL3	R111M	HVIFAMTDA	HVIFARTDA	6	0.081	3/37	1117.84	1177.27	1177.27	1.00	13.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+201	UTRN	L1567F	LSATETEFV	LSATETELV	8	0.129	4/31	460.96	2271.69	1930.26	0.85	12.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+202	ATP6V1B2	G466C	AQCPYENRT	AQGPYENRT	3	0.098	5/51	1823.07	2893.35	2893.35	1.00	12.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+203	ACACB	P540T	PATIATLAI	PATIAPLAI	6	0.081	3/37	604.59	1279.04	2893.35	2.26	12.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+204	AOC3	E628D	SWDRYQLAV	SWERYQLAV	3	0.100	4/40	265.04	1279.04	1279.04	1.00	12.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+205	SUGT1	L99I	KNYAAAIET	KNYAAALET	7	0.105	4/38	972.06	1778.56	1389.36	0.78	12.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+206	CDC42EP1	W351C	VLPQARASC	VLPQARASW	9	0.083	3/36	1056.59	2670.17	11797.62	4.42	12.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+207	RPL4	W67C	ESCGTGRAV	ESWGTGRAV	3	0.086	3/35	95410.10	3971.93	917.14	0.23	12.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+208	NOX5	A216T	AAHWLTAPT	AAHWLTAPA	9	0.684	26/38	20.14	10334.45	5010.02	0.48	12.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+209	ZNF839	P785H	ILSHPGTIV	ILSPPGTIV	4	0.081	3/37	157.24	143.58	61.47	0.43	12.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+210	POLQ	L1982F	LLLSCGISF	LLLSCGISL	9	0.086	3/35	146.85	156.28	4.41	0.03	11.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+211	ACAD11	P196T	AAAHQDITA	AAAHQDIPA	8	0.081	3/37	369.27	1508.90	5406.43	3.58	11.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+212	NAA30	P118H	ATHDGGPRA	ATPDGGPRA	3	0.125	3/24	342.76	4294.04	9009.95	2.10	11.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+213	SLIT2	Q1042K	KLDFCAKDL	KLDFCAQDL	7	0.100	3/30	22.92	121.19	121.19	1.00	11.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+214	CETN2	M10I	SNFKKANIA	SNFKKANMA	8	0.093	4/43	654.01	2094.33	2094.33	1.00	11.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+215	KATNIP	G564W	QLWDFHLAK	QLGDFHLAK	3	0.079	3/38	678.01	2271.69	9009.95	3.97	11.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+216	ERCC5	P909H	KIRPNHHDT	KIRPNPHDT	6	0.098	4/41	1106.38	3672.03	5406.43	1.47	11.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+217	CENPE	P620T	YSLESIEDT	YSLESIEDP	9	0.102	5/49	167.26	3393.11	41808.48	12.32	11.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+218	STIL	G82C	SSCFLLCSL	SSCFLLGSL	7	0.083	4/48	144.34	603.43	603.43	1.00	11.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+219	ZFP90	L325I	KAFQRSSSI	KAFQRSSSL	9	0.079	3/38	448.78	554.81	238.65	0.43	10.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+220	ATP8B1	G457W	KTWTLTQNI	KTGTLTQNI	3	0.090	6/67	43.34	603.43	2670.17	4.42	10.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+221	PDLIM2	H24N	NTPIMVTKV	HTPIMVTKV	1	0.103	3/29	104.58	1279.04	1279.04	1.00	10.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+222	TICAM1	G424W	ALGVPDWAT	ALGVPDGAT	7	0.100	3/30	198.78	1778.56	1778.56	1.00	10.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+223	ARHGEF37	G259W	QLLKQEAWL	QLLKQEAGL	8	0.118	4/34	7.16	43.77	43.77	1.00	10.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+224	RANBP10	Q564H	PIHREPVCA	PIQREPVCA	3	0.111	3/27	1527.22	5830.15	5830.15	1.00	10.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+225	PCDH1	G1007W	FVGTWDTTS	FVGTGDTTS	5	0.104	5/48	1706.30	3672.03	3133.95	0.85	10.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+226	MACROD2	Q59K	ENTKETSQV	ENTQETSQV	4	0.121	4/33	429.44	5010.02	5830.15	1.16	10.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+227	KIF26A	G448W	CSWTVADVL	CSGTVADVL	3	0.100	4/40	23.28	603.43	2670.17	4.42	10.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+228	MEI1	G898E	RLLVEHEAS	RLLVEHGAS	7	0.246	17/69	8.95	1508.90	996.89	0.66	10.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+229	MYO5C	E43D	LLLDDGTEL	LLLEDGTEL	4	0.083	3/36	16.83	15.79	12.24	0.78	10.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+230	UBTD1	Q205H	LLTDRTRLH	LLTDRTRLQ	9	0.081	3/37	195.56	1083.41	1083.41	1.00	10.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+231	PRKAA1	E205D	DVDIWSSGV	EVDIWSSGV	1	0.077	3/39	574.50	1778.56	1778.56	1.00	10.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+232	REPS2	G211C	PLSHCYSKL	PLSHGYSKL	5	0.088	3/34	37.61	156.28	131.91	0.84	9.8	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+233	ADHFE1	D390N	ILGANTRTA	ILGADTRTA	5	0.097	23/238	16.83	170.10	170.10	1.00	9.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+234	EXOC1	S490Y	SQSYSLLDM	SQSSSLLDM	4	0.103	3/29	783.31	5010.02	5010.02	1.00	9.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+235	EEA1	G51V	KSLVSADEL	KSLGSADEL	4	0.079	3/38	278.30	775.99	510.06	0.66	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+236	MYLIP	Q429K	HVKHVYLPT	HVQHVYLPT	3	0.083	3/36	1495.34	3971.93	3971.93	1.00	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+237	ZFP41	R104H	HIHHQRVHT	HIRHQRVHT	3	0.092	16/174	1236.87	4639.65	4639.65	1.00	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+238	FBLN5	G175C	YCYCQQLCA	YGYCQQLCA	2	0.091	4/44	25.07	775.99	3971.93	5.12	9.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+239	TLE1	L203M	LMVPDSLRG	LLVPDSLRG	2	0.097	3/31	67.34	656.27	431.01	0.66	9.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+240	TTN	P6820H	TVQEPHSFV	TVQEPPSFV	6	0.081	3/37	39.91	468.88	713.66	1.52	9.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+241	ZFHX4	T2889R	RFRRQMSNL	RFRTQMSNL	4	0.098	11/112	585.96	5406.43	6282.39	1.16	8.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+242	NEFH	P815Q	IQKKEEVKS	IPKKEEVKS	2	0.083	4/48	6092.41	9654.93	42374.18	4.39	8.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+243	LRP3	P207H	PASEHPGSL	PASEPPGSL	5	0.079	3/38	823.95	4294.04	9009.95	2.10	8.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+244	FXR2	E339D	KNPRDEGMV	KNPREEGMV	5	0.100	3/30	1469.91	7277.12	7277.12	1.00	8.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+245	GBP3	L348I	ETIQELLDL	ETLQELLDL	3	0.100	4/40	25.43	364.11	282.62	0.78	8.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+246	NIPBL	M1480I	DIDGEPMYI	DMDGEPMYI	2	0.088	3/34	1006.81	3133.95	996.89	0.32	8.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+247	PCDHA11	P620Q	IQFRVGLYT	IPFRVGLYT	2	0.080	4/50	33.00	1279.04	18935.82	14.80	8.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+248	TRIM52	G36W	WHNFCRGCV	GHNFCRGCV	1	0.097	3/31	94.91	2670.17	3971.93	1.49	8.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+249	FOXG1	P216H	FIMKNFHYY	FIMKNFPYY	7	0.105	4/38	98.85	3133.95	3133.95	1.00	8.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+250	NABP2	P171H	HSHPPSTRI	PSHPPSTRI	1	0.088	3/34	1530.44	7277.12	14247.89	1.96	8.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+251	NPHP4	W1153L	AIRLPPLHT	AIRLPPWHT	7	0.095	4/42	268.27	5406.43	15129.44	2.80	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+252	TPD52L1	P170H	HNGGSFEEV	PNGGSFEEV	1	0.098	5/51	345.99	5830.15	11797.62	2.02	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+253	CATSPERT	G72W	GTWHRLLNM	GTGHRLLNM	3	0.083	3/36	31.88	1177.27	5010.02	4.26	7.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+254	KMT2D	G78W	PSLHWQREL	PSLHGQREL	5	0.077	3/39	4169.01	5010.02	4294.04	0.86	7.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+255	RGS20	A193S	AAQDTPGSA	AAQDTPGAA	8	0.086	3/35	1157.59	6282.39	6282.39	1.00	7.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+256	TSC1	G305W	NSYWCATST	NSYGCATST	4	0.111	3/27	719.91	6764.35	4639.65	0.69	7.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+257	TBX18	G556V	FLVSSPSGT	FLGSSPSGT	3	0.087	4/46	15.76	510.06	1177.27	2.31	7.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+258	SFI1	P1070Q	GALSSAPGQ	GALSSAPGP	9	0.103	3/29	237.82	8399.08	42907.45	5.11	7.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+259	ZCCHC10	P4H	MATHMHRLI	MATPMHRLI	4	0.097	3/31	204.87	2893.35	1279.04	0.44	7.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+260	GRK5	H576N	NHNINSNHV	NHHINSNHV	3	0.098	4/41	317.69	5830.15	5830.15	1.00	7.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+261	PNLDC1	R476L	YLDHPTLCI	YRDHPTLCI	2	0.143	3/21	1.79	102.28	36894.21	360.72	7.3	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
+262	FNBP1L	E570D	VLYIIEDDK	VLYIIEEDK	7	0.081	3/37	972.06	6764.35	9654.93	1.43	7.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+263	UPF3A	S356Y	EYEAQRYHV	ESEAQRYHV	2	0.093	4/43	570.92	7277.12	7277.12	1.00	7.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+264	PLXNA1	G408W	CWQDFNQPL	CGQDFNQPL	2	0.091	3/33	9007.88	13397.97	17946.63	1.34	6.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+265	ABCA4	G1886W	WVVYFLLTL	GVVYFLLTL	1	0.107	3/28	1.79	3.14	4.81	1.53	6.8	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
+266	CAMK4	P205T	LMKTVCGTT	LMKTVCGTP	9	0.083	3/36	8.24	510.06	20972.88	41.12	6.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+267	DMRTA1	L248I	ISKSHQLYI	ISKSHQLYL	9	0.111	3/27	49.79	2271.69	996.89	0.44	6.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+268	PSTK	M258I	PVKYAEDNI	PVKYAEDNM	9	0.091	3/33	31.52	2670.17	11797.62	4.42	6.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+269	PACS1	P383T	MYNPSDSGT	MYNPSDSGP	9	0.130	3/23	1429.80	17946.63	48757.82	2.72	6.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+270	MRC2	G922C	PVCKDKKCV	PVGKDKKCV	3	0.081	3/37	50.86	1778.56	1778.56	1.00	6.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+271	ZEB1	G281V	HSVSYSSHI	HSGSYSSHI	3	0.077	3/39	87.39	2893.35	6282.39	2.17	6.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+272	TRPM6	G821V	GLESVHQHL	GLESGHQHL	5	0.081	3/37	7.88	156.28	201.49	1.29	6.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+273	PCDHA11	R742S	PTLVCSSAV	PTLVCSRAV	7	0.088	3/34	33.00	1778.56	1778.56	1.00	6.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+274	SRPX	G136C	GGFKCVDCA	GGFKCVDGA	8	0.081	3/37	1916.91	9009.95	9009.95	1.00	6.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+275	EBF1	P148Q	KNQEMCRVL	KNPEMCRVL	3	0.097	3/31	34.74	3393.11	7277.12	2.14	6.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+276	KAT5	R510M	FTPKDWSKM	FTPKDWSKR	9	0.088	3/34	565.58	11048.69	47965.05	4.34	6.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+277	SHROOM4	P1270H	GIHTSYSAY	GIPTSYSAY	3	0.103	4/39	376.07	11048.69	19945.61	1.81	6.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+278	DHX15	Q395K	LYSTLPPKQ	LYSTLPPQQ	8	0.125	4/32	2179.44	18935.82	31415.81	1.66	6.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+279	ASH2L	Q212K	TTRKRPGKM	TTRQRPGKM	4	0.103	3/29	751.43	12580.91	14247.89	1.13	5.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+280	MTCL1	G929W	PIGNLWKEL	PIGNLGKEL	6	0.083	4/48	18.27	1083.41	1083.41	1.00	5.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+281	MED15	Q732K	ADYPAKSPL	ADYPAQSPL	6	0.098	4/41	3733.52	12580.91	9009.95	0.72	5.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+282	ZNF2	W93R	ESVSLDRET	ESVSLDWET	7	0.222	22/99	213.11	23066.37	23066.37	1.00	5.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+283	KLHDC1	L306F	ACFGKENEI	ACLGKENEI	3	0.091	3/33	10.03	996.89	1508.90	1.51	5.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+284	JAM2	P226H	RCHGKRMQV	RCPGKRMQV	3	0.107	3/28	7.52	1778.56	3971.93	2.23	5.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+285	PAK3	E385D	AVCRDCLQA	AVCRECLQA	5	0.174	4/23	1.79	510.06	510.06	1.00	5.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+286	HCCS	P26Q	QMHEGKMKG	PMHEGKMKG	1	0.091	3/33	205.23	10334.45	18935.82	1.83	5.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+287	REPS2	Q186H	THSPTMSPL	TQSPTMSPL	2	0.094	3/32	37.61	3393.11	2893.35	0.85	4.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+288	PRMT7	P288H	SWWDIEMDH	SWWDIEMDP	9	0.085	4/47	1552.65	16980.87	46953.03	2.77	4.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+289	CUBN	G2753W	SVTVRNGWS	SVTVRNGGS	8	0.115	3/26	59.46	11048.69	11048.69	1.00	4.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+290	EIF2S2	G3V	SVDEMIFDP	SGDEMIFDP	2	0.182	4/22	3059.10	31415.81	49504.87	1.58	4.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+291	ABCA4	Q1475H	QLFHKQKWT	QLFQKQKWT	4	0.150	3/20	1.79	510.06	510.06	1.00	4.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+292	GATA1	G86W	PLLNCMEWI	PLLNCMEGI	8	0.103	3/29	2.87	431.01	431.01	1.00	4.1	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
+293	ZNF559	P324Q	RVHTGEKQY	RVHTGEKPY	8	0.094	3/32	209.88	14247.89	22014.32	1.55	4.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+294	GLIS3	P708H	CLVHTSMGQ	CLVPTSMGQ	4	0.129	4/31	4.30	1389.36	603.43	0.43	3.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+295	TRPM6	P1748H	SHLNLDKSM	SPLNLDKSM	2	0.097	3/31	7.88	4639.65	33353.91	7.19	3.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+296	PPP1R36	H61N	WLLKHHPNF	WLLKHHPHF	8	0.083	3/36	4.66	656.27	656.27	1.00	3.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+297	XPNPEP2	P582Q	KTKYQGSYL	KTKYPGSYL	5	0.100	3/30	6.81	3393.11	7277.12	2.14	3.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+298	GDF9	L281I	QAYHSWYSI	QAYHSWYSL	9	0.081	3/37	5.01	364.11	156.28	0.43	3.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
+299	TMEM121B	H268N	HHNHAAPPL	HHHHAAPPL	3	0.120	3/25	7.52	5010.02	5010.02	1.00	3.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+300	ZNF33A	G502W	WKTFYHKSL	GKTFYHKSL	1	0.088	3/34	376.07	16980.87	22014.32	1.30	3.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+301	SMARCD3	H300N	KTNRLQDSN	KTNRLQDSH	9	0.100	3/30	806.59	20972.88	20972.88	1.00	3.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+302	SPTBN5	R1961S	ASVRQDLQV	ARVRQDLQV	2	0.083	3/36	1.79	282.62	7277.12	25.75	3.5	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
+303	PDE1C	G181V	SLNEASVDH	SLNEASGDH	7	0.107	6/56	1.79	510.06	1389.36	2.72	3.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+304	FBN1	G470W	RCIPTPWSY	RCIPTPGSY	7	0.125	4/32	250.00	22014.32	22014.32	1.00	3.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+305	USP43	E202D	RVHEDLDGS	RVHEDLEGS	7	0.111	3/27	7.88	5830.15	8399.08	1.44	3.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+306	CHST12	P115Q	SQDQGRQQA	SPDQGRQQA	2	0.099	7/71	487.46	22014.32	47404.65	2.15	3.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+307	GPRIN1	A697P	SLGKADSPP	SLGKADSAP	8	0.245	12/49	1140.04	34284.01	20972.88	0.61	3.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+308	PCDHGA9	L200M	AMDREEATA	ALDREEATA	2	0.097	3/31	3.39	656.27	431.01	0.66	3.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+309	XIRP1	P876H	DMDHELQQL	DMDPELQQL	4	0.091	3/33	2.87	364.11	156.28	0.43	3.0	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
+310	NRG3	P519Q	QQLEESRIQ	QQLEESRIP	9	0.100	4/40	498.93	24125.36	48272.19	2.00	3.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+311	ITGB7	G600V	CSVDMDSCI	CSGDMDSCI	3	0.079	3/38	13.25	6282.39	12580.91	2.00	2.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+312	CFAP251	L530M	KFYDHTMSI	KFYDHTLSI	7	0.114	4/35	1.79	431.01	238.65	0.55	2.8	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
+313	PCDHGB6	P160H	PATDHDINI	PATDPDINI	5	0.086	3/35	7.16	4639.65	9654.93	2.08	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+314	NDUFS2	P64Q	AHWKPQPWN	AHWKPPPWN	6	0.083	3/36	4765.76	26248.96	31415.81	1.20	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+315	PLCH1	Q886H	RQLHGLKGL	RQLQGLKGL	4	0.111	3/27	1.43	603.43	603.43	1.00	2.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+316	RYR1	P2001Q	SQPQEQINM	SPPQEQINM	2	0.100	3/30	131.45	22014.32	47404.65	2.15	2.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+317	TEX11	G695W	EQWRKASTA	EQGRKASTA	3	0.129	4/31	1.43	3133.95	11797.62	3.76	2.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+318	CACNA1A	G411W	ILAEDETDW	ILAEDETDG	9	0.115	3/26	4.66	8399.08	11797.62	1.40	2.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+319	HYAL3	H362N	RCNGHGRCA	RCHGHGRCA	3	0.089	4/45	65.76	18935.82	18935.82	1.00	2.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+320	PIGV	P444T	LAEDSTPGQ	LAEDSPPGQ	6	0.083	3/36	183.74	23066.37	33353.91	1.45	2.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+321	MAOB	P277T	TLPMMRNQM	PLPMMRNQM	1	0.100	3/30	1.43	2670.17	10334.45	3.87	1.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+322	HECW1	P790T	SPEGLESTV	SPEGLESPV	8	0.100	3/30	5.73	15129.44	31415.81	2.08	1.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+323	CIMIP2B	K140N	RNDTEKDQV	RKDTEKDQV	2	0.106	5/47	1.79	12580.91	45485.09	3.62	1.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+324	COL4A6	P812Q	GTPGQVGQQ	GTPGQVGQP	9	0.079	3/38	5.37	29391.48	48856.73	1.66	0.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+325	ABCA4	D915Y	HYSFFEREH	HDSFFEREH	2	0.079	3/38	1.79	34284.01	49246.60	1.44	0.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+326	BEND3	P691H	PLPHERSSK	PLPPERSSK	4	0.086	3/35	215.26	46700.55	42907.45	0.92	0.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
