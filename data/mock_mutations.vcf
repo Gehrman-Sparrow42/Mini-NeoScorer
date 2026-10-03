@@ -1,0 +1,19 @@
+##fileformat=VCFv4.2
+##fileDate=20261003
+##source=MiniNeoScorerSyntheticVCF
+##reference=GRCh38
+##INFO=<ID=GENE,Number=1,Type=String,Description="HUGO Gene Symbol">
+##INFO=<ID=HGVSp,Number=1,Type=String,Description="HGVS protein sequence alteration">
+##INFO=<ID=HGVSc,Number=1,Type=String,Description="HGVS coding sequence alteration">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Tumor Variant Allele Frequency (0.0 to 1.0)">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total read depth at variant locus">
+##INFO=<ID=TIER,Number=1,Type=String,Description="Somatic classification tier (Clonal_Driver, Subclonal, Passenger, Passenger_Silenced)">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype call">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths for REF and ALT alleles">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	TUMOR
+chr7	140753336	.	T	A	1500	PASS	GENE=BRAF;HGVSp=p.Val600Glu;HGVSc=c.1799T>A;AF=0.48;DP=110;TIER=Clonal_Driver	GT:AD:DP	0/1:57,53:110
+chr12	25245350	.	C	T	1200	PASS	GENE=KRAS;HGVSp=p.Gly12Asp;HGVSc=c.35G>A;AF=0.42;DP=95;TIER=Clonal_Driver	GT:AD:DP	0/1:55,40:95
+chr3	179218303	.	G	A	350	PASS	GENE=PIK3CA;HGVSp=p.Glu545Lys;HGVSc=c.1633G>A;AF=0.07;DP=120;TIER=Subclonal	GT:AD:DP	0/1:112,8:120
+chr2	178550100	.	C	T	850	PASS	GENE=TTN;HGVSp=p.Pro1234Leu;HGVSc=c.3701C>T;AF=0.36;DP=80;TIER=Passenger	GT:AD:DP	0/1:51,29:80
+chr9	36993350	.	C	T	920	PASS	GENE=PAX5;HGVSp=p.Pro80Leu;HGVSc=c.239C>T;AF=0.45;DP=88;TIER=Passenger_Silenced	GT:AD:DP	0/1:48,40:88
