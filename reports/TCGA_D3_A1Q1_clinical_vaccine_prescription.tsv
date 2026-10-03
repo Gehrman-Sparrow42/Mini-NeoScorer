@@ -1,25 +1,25 @@
 Rank	Gene	ProteinChange	Neopeptide_9mer	WT_9mer	MutPos	AF	Reads	TPM	MT_IC50_nM	WT_IC50_nM	Agretopicity	Score	ClinicalTier	Action
-1	AP4B1	G525V	LLLVVIDEV	LLLVGIDEV	5	0.654	34/52	325.28	3.42	4.41	1.29	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
-2	TRIM28	R492C	SLECLDLDL	SLERLDLDL	4	0.449	22/49	24147.60	26.29	22.18	0.84	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
-3	NRAS	G12R	LVVVGARGV	LVVVGAGGV	7	0.758	116/153	3601.36	40.20	40.20	1.00	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+1	AP4B1	G525V	LLLVVIDEV	LLLVGIDEV	5	0.654	34/52	325.28	3.42	4.41	1.29	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
+2	TRIM28	R492C	SLECLDLDL	SLERLDLDL	4	0.449	22/49	24147.60	26.29	22.18	0.84	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
+3	NRAS	G12R	LVVVGARGV	LVVVGAGGV	7	0.758	116/153	3601.36	40.20	40.20	1.00	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 4	MTHFD1	P843H	LLHEAQHKA	LLPEAQHKA	3	0.312	5/16	1374.83	66.92	156.28	2.34	100.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
 5	DYNC2H1	S590P	RQLPALGFV	RQLSALGFV	4	0.371	13/35	438.39	156.28	364.11	2.33	87.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-6	TMEM245	G754W	FLWTYWAAV	FLGTYWAAV	3	0.148	4/27	1634.31	2.05	9.48	4.62	81.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+6	TMEM245	G754W	FLWTYWAAV	FLGTYWAAV	3	0.148	4/27	1634.31	2.05	9.48	4.62	81.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 7	ZNF669	V232I	KFFISVPGV	KFFVSVPGV	4	0.932	137/147	136.10	282.62	282.62	1.00	78.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-8	NBR1	Q353K	LLKSNTLML	LLQSNTLML	3	0.176	3/17	5585.60	12.24	12.24	1.00	77.7	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
-9	PCNX3	L1607I	SLEPFIYGL	SLEPFLYGL	6	0.182	4/22	1194.84	4.41	5.23	1.19	75.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+8	NBR1	Q353K	LLKSNTLML	LLQSNTLML	3	0.176	3/17	5585.60	12.24	12.24	1.00	77.7	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
+9	PCNX3	L1607I	SLEPFIYGL	SLEPFLYGL	6	0.182	4/22	1194.84	4.41	5.23	1.19	75.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 10	TRIM9	R655G	VLLDLNGKN	VLLDLNRKN	7	0.287	49/171	1023.28	121.19	121.19	1.00	73.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-11	ITPR3	D961Y	YIVVMETKL	DIVVMETKL	1	0.162	19/117	3762.92	40.20	219.29	5.45	71.3	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+11	ITPR3	D961Y	YIVVMETKL	DIVVMETKL	1	0.162	19/117	3762.92	40.20	219.29	5.45	71.3	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 12	RNF2	Y120H	KIYPSRDEH	KIYPSRDEY	9	0.453	29/64	1078.44	1638.38	1638.38	1.00	66.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-13	FANCD2	M197I	DLTTKIIQL	DLTTKIMQL	7	0.246	16/65	343.84	36.93	51.87	1.40	65.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+13	FANCD2	M197I	DLTTKIIQL	DLTTKIMQL	7	0.246	16/65	343.84	36.93	51.87	1.40	65.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 14	UBE2M	R169W	SMWGGYIGS	SMRGGYIGS	3	0.219	14/64	1949.14	219.29	996.89	4.55	65.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-15	PKN1	R623L	GLGHFGKVL	GRGHFGKVL	2	0.125	4/32	3655.80	43.77	27305.93	623.85	57.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+15	PKN1	R623L	GLGHFGKVL	GRGHFGKVL	2	0.125	4/32	3655.80	43.77	27305.93	623.85	57.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 16	MARCHF7	S303Y	YLNTRSLNS	SLNTRSLNS	1	0.247	19/77	1683.38	510.06	917.14	1.80	54.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-17	GPR158	L535F	RMLAVILFV	RMLAVILLV	8	0.133	6/45	2328.59	3.42	2.89	0.85	52.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+17	GPR158	L535F	RMLAVILFV	RMLAVILLV	8	0.133	6/45	2328.59	3.42	2.89	0.85	52.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 18	CHD8	R1992H	LLHQQYTSH	LLHQQYTSR	9	0.250	5/20	1703.80	1508.90	24125.36	15.99	52.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
 19	PTBP1	P67H	HIRKLHIDV	HIRKLPIDV	6	0.148	4/27	6402.58	111.34	170.10	1.53	50.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
 20	ZNF532	P454Q	TAFLQVSAV	TAFLPVSAV	5	0.138	4/29	2710.24	51.87	121.19	2.34	50.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-21	FHIP2B	Q706K	TLLKGVVVL	TLLQGVVVL	4	0.129	4/31	522.92	2.43	2.89	1.19	50.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 fit.
+21	FHIP2B	Q706K	TLLKGVVVL	TLLQGVVVL	4	0.129	4/31	522.92	2.43	2.89	1.19	50.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
 22	SFT2D1	W137L	FLSMTLYSL	FLSMTWYSL	6	0.130	3/23	353.87	6.20	14.50	2.34	46.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
 23	PARP6	R559L	SLNLNCIAL	SRNLNCIAL	2	0.114	4/35	565.90	22.18	18935.82	853.73	44.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
 24	TTN	G14543A	ASRIKGYIV	GSRIKGYIV	1	0.506	124/245	39.91	1177.27	1778.56	1.51	44.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
