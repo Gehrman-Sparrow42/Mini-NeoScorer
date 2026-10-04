@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>NeoScorer · Precision Immuno-Oncology</title><link rel="icon" href="data:,"><link rel="stylesheet" href="/static/styles.css"><script defer src="/static/vendor/chart.umd.js"></script><script type="module" src="/static/app.js"></script></head>
+<body>
+<aside class="rail">
+ <a class="brand" href="#"><span class="brand-mark">N<span>•</span></span><span>NeoScorer<small>PRECISION IMMUNO-ONCOLOGY</small></span></a>
+ <div class="workspace-tag"><span class="live-dot"></span> LOCAL RESEARCH WORKSPACE</div>
+ <div class="nav-label">ANALYSIS</div>
+ <a class="nav-link active" href="#overview"><span>◈</span> Patient overview</a>
+ <a class="nav-link" href="#candidates"><span>▤</span> Candidate explorer</a>
+ <button class="nav-link" id="open-run"><span>＋</span> Run new patient</button>
+ <div class="rail-note"><span class="small-label">THE WORKFLOW</span><h3>From variants<br>to vaccine targets.</h3><p>Explore expression, HLA affinity and model agreement in one patient workspace.</p><div class="mini-flow">DNA <span>→</span> RNA <span>→</span> HLA</div></div>
+ <div class="rail-bottom"><span class="live-dot"></span> Loopback only<small>NeoScorer / Research predictions</small></div>
+</aside>
+<main id="overview">
+ <header class="topbar"><div class="breadcrumb">Workspace <span>/</span> Patient analysis</div><div class="patient-controls"><label class="sr-only" for="patient">Active patient</label><select id="patient" aria-label="Active patient"><option>Discovering patients…</option></select><button id="refresh" class="icon-button" title="Refresh patient reports" aria-label="Refresh patient reports">↻</button></div></header>
+ <div class="heading"><div><div class="eyebrow">PERSONALIZED VACCINE EXPLORER</div><h1>Precision starts with a target<span>.</span></h1><p>Patient-specific evidence. Transparent prioritization.</p></div><button class="primary" id="new-run">＋ Run new patient</button></div>
+ <div id="notice" role="status" class="notice" hidden></div>
+ <div id="loading" class="empty">Loading patient reports…</div>
+ <div id="dashboard" hidden>
+ <section class="patient-strip"><div><span class="small-label">ACTIVE PATIENT</span><h2 id="patient-name"></h2></div><div><span class="small-label">TARGET HLA ALLELE</span><strong id="hla"></strong><small id="hla-source"></small></div><div class="report-info"><span class="small-label">REPORT UPDATED</span><strong id="updated"></strong><small id="source"></small></div><span class="outline-badge">In silico analysis</span></section>
+ <section class="kpis" aria-label="Patient summary">
+ <article class="kpi"><div class="kpi-top">Alterations screened <span>01</span></div><strong id="total">—</strong><small>Evaluated rows in this report</small></article>
+ <article class="kpi"><div class="kpi-top">Strong binders <span>02</span></div><strong id="strong">—</strong><small id="strong-note">IC50 ≤ 50 nM or rank ≤ 0.5%</small></article>
+ <article class="kpi accent"><div class="kpi-top">Tier 1 payload <span>03</span></div><strong id="tier1">—</strong><small>High priority candidates <span>↗</span></small></article>
+ <article class="kpi"><div class="kpi-top">Secondary candidates <span>04</span></div><strong id="tier2">—</strong><small>Tier 2 / backup targets</small></article>
+ </section>
+ <section class="visuals">
+ <article class="panel scatter-panel"><div class="panel-heading"><div><span class="small-label">EXPRESSION × PRESENTATION</span><h2>Candidate landscape</h2></div><span class="subtle-chip" id="plot-count"></span></div><div class="legend"><span><i class="t1"></i>Tier 1</span><span><i class="t2"></i>Tier 2</span><span><i class="t3"></i>Tier 3</span><span class="legend-note">Bubble size = VAF · Click to inspect</span></div><div class="chart-wrap"><canvas id="scatter" aria-label="Expression versus HLA affinity bubble chart" role="img"></canvas></div><p class="chart-caption" id="scatter-note">Reference gates: TPM 5 and IC50 50 nM. Upper-right: higher expression and affinity.</p></article>
+ <article class="panel foreign-panel"><div class="panel-heading"><div><span class="small-label">MUTANT / WILD TYPE</span><h2>Agretopicity & foreignness</h2></div><span class="subtle-chip">Top Tier 1</span></div><div class="legend"><span><i class="t1"></i>Mutant IC50</span><span><i class="wt"></i>Wild-type IC50</span></div><div class="chart-wrap"><canvas id="foreign" aria-label="Mutant versus wild-type IC50 for top Tier 1 candidates" role="img"></canvas><div class="chart-empty" id="foreign-empty" hidden>No Tier 1 candidates in this view.</div></div><p class="chart-caption">Log scale · Lower IC50 = stronger predicted binding.<br>Affinity gain alone does not establish immunogenicity.</p></article>
+ </section>
+ <section class="panel candidate-panel" id="candidates"><div class="panel-heading"><div><span class="small-label">CLINICAL VACCINE PRESCRIPTION</span><h2>Candidate explorer <span id="result-count" class="count-pill"></span></h2></div><div class="export-group"><button id="export-tsv">↓ Export TSV</button><button id="export-csv">CSV</button></div></div>
+ <div class="filters"><label class="search"><span>⌕</span><input id="search" placeholder="Search gene, mutation or peptide…" aria-label="Search gene, mutation or peptide"></label><label><span class="sr-only">Clinical tier</span><select id="tier" aria-label="Clinical tier"><option value="0">All clinical tiers</option><option value="1">Tier 1 · Vaccine payload</option><option value="2">Tier 2 · Secondary / backup</option><option value="3">Tier 3 · Deprioritized</option></select></label><label><span class="sr-only">Primary sort</span><select id="sort" aria-label="Primary sort"><option value="Score:desc">Score: high → low</option><option value="MT_IC50_nM:asc">IC50: low → high</option><option value="Agretopicity:desc">Agretopicity: high → low</option></select></label><button id="reset">Reset</button></div>
+ <div class="table-tip">Select a gene to inspect model consensus. Click a heading to sort; Shift-click adds a sorting level. <span id="sort-description"></span></div>
+ <div class="table-wrap" tabindex="0" role="region" aria-label="Scrollable candidate table"><table><thead><tr id="columns"></tr></thead><tbody id="rows"></tbody></table></div><div id="empty-results" class="empty" hidden>No candidates match these filters. Try another gene or reset the filters.</div>
+ <div class="table-footer"><span id="page-info"></span><div><button id="previous" aria-label="Previous page">←</button><span id="page-number"></span><button id="next" aria-label="Next page">→</button></div></div>
+ </section>
+ <section class="lower-grid"><article class="panel consensus" id="consensus"><div class="panel-heading"><div><span class="small-label">MODEL-LEVEL EVIDENCE</span><h2>Prediction consensus</h2></div><span class="subtle-chip">Selected candidate</span></div><div id="consensus-content"></div></article><article class="panel provenance"><span class="small-label">REPORT PROVENANCE</span><h2>Know the evidence</h2><div id="provenance"></div><p>Clinical tiers are pipeline-assigned research priorities. Review predictions and source data before clinical interpretation.</p></article></section>
+ <footer><span>NEOSCORER <span class="footer-dot">/</span> Multi-patient analysis workspace</span><span>Local data · Transparent evidence</span></footer>
+ </div>
+</main>
+<dialog id="run-dialog"><form id="run-form"><div class="panel-heading"><div><span class="small-label">NEW ANALYSIS</span><h2>Run a patient pipeline</h2></div><button type="button" id="close-run" aria-label="Close run panel">×</button></div><p class="muted">Select local inputs or upload a matched JSON pair. Each completed patient appears in the selector.</p>
+<label class="form-field">Patient identifier<input id="run-patient" placeholder="Inferred from mutation patientId if present" maxlength="80"></label>
+<label class="form-field">Mutation JSON in data/<select id="mutation-file"></select><input id="mutation-upload" type="file" accept=".json,application/json" aria-label="Upload mutation JSON"><small>An uploaded file takes precedence over the local selection.</small></label>
+<label class="form-field">Expression JSON in data/<select id="expression-file"></select><input id="expression-upload" type="file" accept=".json,application/json" aria-label="Upload expression JSON"><small>Object mapping Entrez gene IDs to non-negative TPM values.</small></label>
+<div class="form-grid"><label class="form-field">Predictor<select id="predictor"><option value="ensemble">Ensemble consensus</option><option value="mhcflurry">MHCflurry</option><option value="netmhcpan">NetMHCpan / IEDB</option><option value="pwm">PWM baseline</option></select></label><label class="form-field">HLA allele<input id="run-hla" value="HLA-A*02:01" required pattern="HLA-[ABC]\*\d{2,3}:\d{2,3}"></label><label class="form-field">RNA threshold (TPM)<input id="run-tpm" type="number" min="0" max="1000000" step="0.1" value="1" required></label><label class="form-field">Top candidates in log<input id="run-top" type="number" min="1" max="1000" value="12" required></label></div>
+<p class="run-disclosure">Ensemble and NetMHCpan send peptide sequences and the HLA allele to NIH IEDB. Protein resolution may query UniProt. MHCflurry requires installed model weights. PWM is an HLA-A*02:01 baseline. Existing reports are never overwritten here.</p>
+<button class="primary full-width" id="run-submit" type="submit">Start analysis →</button><div id="run-status" role="status"></div><details id="log-details"><summary>Pipeline log</summary><pre id="run-log">No active run.</pre></details>
+</form></dialog>
+</body></html>

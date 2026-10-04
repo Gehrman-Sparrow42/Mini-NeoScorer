@@ -1,5 +1,10 @@
 # Neoantigen-Prioritization-Pipeline
 
+## Multi-patient web dashboard
+
+Launch `C:\Tools\LAUNCHERS\Launch_NeoScorer_Dashboard.bat` to open the local dashboard at `http://localhost:8520`. It discovers patient reports, supports interactive charts and filtered exports, and runs new patients in the background. See [DASHBOARD.md](DASHBOARD.md) for usage, input format, architecture, and validation.
+
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Field: Computational Immuno-Oncology](https://img.shields.io/badge/Field-Computational%20Immuno--Oncology-purple.svg)]()

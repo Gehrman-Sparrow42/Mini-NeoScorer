@@ -4,3 +4,7 @@ mhcflurry>=2.3.0
 torch>=2.0.0
 scikit-learn>=1.4.0
 mhcgnomes>=3.33.0
+
+# Local dashboard
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
