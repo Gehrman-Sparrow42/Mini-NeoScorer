@@ -173,11 +173,13 @@ Neoantigen-Prioritization-Pipeline/
 ├── src/                                     # Core scientific engine
 │   ├── __init__.py
 │   ├── data_models.py                       # Dataclasses and coordinate conversions
+│   ├── dnn_predictor.py                     # Deep Neural Network engine (MHCflurry + NetMHCpan Consensus)
 │   ├── protein_resolver.py                  # Multi-threaded UniProt REST API sequence resolver
 │   ├── hla_scorer.py                        # 9-mer sliding window & HLA-A*02:01 PWM model
 │   ├── prioritizer.py                       # Multi-parametric scoring mathematics
 │   └── scale_hla_screener.py                # Exome screening funnel orchestrator
 ├── run_pipeline.py                          # Master CLI entrypoint
+├── requirements.txt                         # Pipeline dependencies (torch, mhcflurry, requests)
 ├── .gitignore
 └── README.md
 ```
@@ -201,6 +203,11 @@ python run_pipeline.py --hla HLA-A*02:01 --tpm-threshold 5.0 --top 15
 ```
 
 ### Options
+* `--predictor`: HLA binding affinity & antigen presentation engine:
+  * `ensemble` (Default): Consensus combining local PyTorch **MHCflurry 2.0** and official NIH IEDB **NetMHCpan-4.1** via geometric mean IC50 and mean percentile rank.
+  * `mhcflurry`: Local deep neural network modeling groove affinity and antigen presentation (proteasome cleavage + TAP transport).
+  * `netmhcpan`: Official NIH IEDB REST API for NetMHCpan-4.1 pan-allele artificial neural network.
+  * `pwm`: Ultra-fast position weight matrix baseline.
 * `--hla`: Target patient HLA Class I allele (default: `HLA-A*02:01`).
 * `--tpm-threshold`: Minimum RNA expression cutoff gate in TPM (default: `1.0`).
 * `--top`: Number of top-ranked vaccine candidates to display in the clinical report (default: `12`).
@@ -211,7 +218,11 @@ python run_pipeline.py --hla HLA-A*02:01 --tpm-threshold 5.0 --top 15
 
 1. **TCGA PanCancer Atlas**:
    * Hoadley, K. A. et al. *Cell-of-Origin Patterns Dominate the Molecular Classification of 10,000 Tumors from 33 Types of Cancer*. **Cell** 173, 291–304.e6 (2018). [doi:10.1016/j.cell.2018.03.022](https://doi.org/10.1016/j.cell.2018.03.022).
-2. **cBioPortal for Cancer Genomics**:
+2. **MHCflurry 2.0**:
+   * O'Donnell, T. J. et al. *MHCflurry 2.0: Improved Pan-Allele Prediction of MHC Class I-Presented Peptides by Incorporating Antigen Processing*. **Cell Systems** 11, 42–48.e7 (2020). [doi:10.1016/j.cels.2020.06.010](https://doi.org/10.1016/j.cels.2020.06.010).
+3. **NetMHCpan-4.1 (IEDB)**:
+   * Reynisson, B. et al. *NetMHCpan-4.1 and NetMHCIIpan-4.0: Improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS eluted ligand data*. **Nucleic Acids Research** 48, W449–W454 (2020). [doi:10.1093/nar/gkaa379](https://doi.org/10.1093/nar/gkaa379).
+4. **cBioPortal for Cancer Genomics**:
    * Cerami, E. et al. *The cBio Cancer Genomics Portal: An Open Platform for Exploring Multidimensional Cancer Genomics Data*. **Cancer Discovery** 2, 401–404 (2012). [doi:10.1158/2159-8290.CD-12-0095](https://doi.org/10.1158/2159-8290.CD-12-0095).
-3. **UniProtKB / Swiss-Prot**:
+5. **UniProtKB / Swiss-Prot**:
    * The UniProt Consortium. *UniProt: the Universal Protein Knowledgebase in 2023*. **Nucleic Acids Research** 51, D523–D531 (2023). [doi:10.1093/nar/gkac1052](https://doi.org/10.1093/nar/gkac1052).

@@ -1,0 +1,6464 @@
+{
+  "HLA-A*02:01_LVVVGAVGV": {
+    "ic50": 552.52,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4475,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLDSTNTCV": {
+    "ic50": 6.52,
+    "percentile_rank": 0.05,
+    "presentation_score": 0.9935,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MLAVILFVV": {
+    "ic50": 16.78,
+    "percentile_rank": 0.16,
+    "presentation_score": 0.9832,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VMTGMLIQI": {
+    "ic50": 29.12,
+    "percentile_rank": 0.27,
+    "presentation_score": 0.9709,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLQERLADV": {
+    "ic50": 33.79,
+    "percentile_rank": 0.31,
+    "presentation_score": 0.9662,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LMMDNIKSM": {
+    "ic50": 43.35,
+    "percentile_rank": 0.39,
+    "presentation_score": 0.9567,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VMWSPTNPA": {
+    "ic50": 48.54,
+    "percentile_rank": 0.42,
+    "presentation_score": 0.9515,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLLKGVVVL": {
+    "ic50": 49.79,
+    "percentile_rank": 0.42,
+    "presentation_score": 0.9502,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FTQRWSLAV": {
+    "ic50": 89.47,
+    "percentile_rank": 0.67,
+    "presentation_score": 0.9105,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALCGPQMLV": {
+    "ic50": 114.24,
+    "percentile_rank": 0.83,
+    "presentation_score": 0.8858,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALPPEIQAL": {
+    "ic50": 135.43,
+    "percentile_rank": 0.93,
+    "presentation_score": 0.8646,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLNEGSSAM": {
+    "ic50": 178.32,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8217,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YITYSLELL": {
+    "ic50": 190.64,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8094,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILPNDHSRV": {
+    "ic50": 218.25,
+    "percentile_rank": 1.4,
+    "presentation_score": 0.7817,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RQLGDFHLA": {
+    "ic50": 251.81,
+    "percentile_rank": 1.6,
+    "presentation_score": 0.7482,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TQVTPVPGV": {
+    "ic50": 266.47,
+    "percentile_rank": 1.6,
+    "presentation_score": 0.7335,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALCVPQMLV": {
+    "ic50": 282.58,
+    "percentile_rank": 1.7,
+    "presentation_score": 0.7174,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALSQNCVVL": {
+    "ic50": 356.44,
+    "percentile_rank": 1.9,
+    "presentation_score": 0.6436,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YLLCFSHIG": {
+    "ic50": 366.78,
+    "percentile_rank": 1.9,
+    "presentation_score": 0.6332,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLFTGESLA": {
+    "ic50": 374.04,
+    "percentile_rank": 2.0,
+    "presentation_score": 0.626,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YMNLSRNQL": {
+    "ic50": 420.48,
+    "percentile_rank": 2.1,
+    "presentation_score": 0.5795,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLLKSNTLM": {
+    "ic50": 457.66,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.5423,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TMSIVNWYS": {
+    "ic50": 488.97,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.511,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FSWERYQLA": {
+    "ic50": 495.96,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.504,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLPALGFVI": {
+    "ic50": 518.49,
+    "percentile_rank": 2.3,
+    "presentation_score": 0.4815,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GMPSPHLKV": {
+    "ic50": 574.97,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.425,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLAPRSWAS": {
+    "ic50": 593.0,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.407,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLFCQCSST": {
+    "ic50": 593.1,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.4069,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RIPIAVSGV": {
+    "ic50": 636.63,
+    "percentile_rank": 2.6,
+    "presentation_score": 0.3634,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLIFTLWSF": {
+    "ic50": 796.69,
+    "percentile_rank": 2.9,
+    "presentation_score": 0.2033,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MSASLEPFI": {
+    "ic50": 881.15,
+    "percentile_rank": 3.0,
+    "presentation_score": 0.1189,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FALCGPQML": {
+    "ic50": 920.2,
+    "percentile_rank": 3.1,
+    "presentation_score": 0.0798,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SIDQYYRLV": {
+    "ic50": 940.8,
+    "percentile_rank": 3.1,
+    "presentation_score": 0.0592,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FAMVVEGVV": {
+    "ic50": 1056.16,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SIPIRLFLA": {
+    "ic50": 1064.12,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLIEPTALY": {
+    "ic50": 1094.06,
+    "percentile_rank": 3.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FIMKNFHYY": {
+    "ic50": 1151.49,
+    "percentile_rank": 3.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YSHAKQLPV": {
+    "ic50": 1230.68,
+    "percentile_rank": 3.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MSASLEPFL": {
+    "ic50": 1232.8,
+    "percentile_rank": 3.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSQNCVVLV": {
+    "ic50": 1276.3,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TVPIYATGV": {
+    "ic50": 1455.22,
+    "percentile_rank": 4.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AVWAGGRGL": {
+    "ic50": 1673.23,
+    "percentile_rank": 4.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLPVSAVKT": {
+    "ic50": 1674.66,
+    "percentile_rank": 4.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MMSQRESLM": {
+    "ic50": 1875.39,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DLDDGTLSL": {
+    "ic50": 1919.44,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PVATAFLPV": {
+    "ic50": 1953.89,
+    "percentile_rank": 4.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALAIFTCLP": {
+    "ic50": 2028.34,
+    "percentile_rank": 4.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLDLNGKNL": {
+    "ic50": 2057.2,
+    "percentile_rank": 4.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLWSFMNNF": {
+    "ic50": 2394.44,
+    "percentile_rank": 5.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLGPLDGSL": {
+    "ic50": 2451.08,
+    "percentile_rank": 5.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CVPQMLVFL": {
+    "ic50": 2512.22,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MMSKRESLM": {
+    "ic50": 2524.64,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ITDPSVIVM": {
+    "ic50": 2525.49,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GTWHRLLNM": {
+    "ic50": 2546.18,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KSIDQYYCL": {
+    "ic50": 2732.96,
+    "percentile_rank": 5.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ELDSAAVCL": {
+    "ic50": 2854.21,
+    "percentile_rank": 5.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YTNPISKGL": {
+    "ic50": 3193.56,
+    "percentile_rank": 6.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALDREEATA": {
+    "ic50": 3362.97,
+    "percentile_rank": 6.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KQDKAMAHA": {
+    "ic50": 3590.9,
+    "percentile_rank": 6.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLWDFHLAK": {
+    "ic50": 3618.98,
+    "percentile_rank": 6.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IIHENGSEL": {
+    "ic50": 3628.31,
+    "percentile_rank": 6.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NFTEYFTSV": {
+    "ic50": 3915.44,
+    "percentile_rank": 6.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQLHENDRV": {
+    "ic50": 4356.34,
+    "percentile_rank": 7.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LTTKIMQLI": {
+    "ic50": 4451.5,
+    "percentile_rank": 7.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIQIGTQAI": {
+    "ic50": 5089.33,
+    "percentile_rank": 8.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IPMQVLANV": {
+    "ic50": 5221.63,
+    "percentile_rank": 8.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YCVFKEVTV": {
+    "ic50": 5356.62,
+    "percentile_rank": 8.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YGYPDPSYM": {
+    "ic50": 5367.36,
+    "percentile_rank": 8.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_STNTGVNCV": {
+    "ic50": 5567.16,
+    "percentile_rank": 8.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PALGFVIPA": {
+    "ic50": 6034.89,
+    "percentile_rank": 9.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YIFSDKTGT": {
+    "ic50": 6119.44,
+    "percentile_rank": 9.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEVSHQFLI": {
+    "ic50": 6761.84,
+    "percentile_rank": 9.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YLQPYDSRR": {
+    "ic50": 6764.25,
+    "percentile_rank": 9.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YGYCQQLCA": {
+    "ic50": 6908.48,
+    "percentile_rank": 9.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLQQTHGDL": {
+    "ic50": 7063.04,
+    "percentile_rank": 10.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQSYSLLDM": {
+    "ic50": 7553.11,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEVSHPFLI": {
+    "ic50": 7878.82,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FFALCGPQM": {
+    "ic50": 8340.94,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPPEIQALV": {
+    "ic50": 9839.83,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QTLLKGVVV": {
+    "ic50": 10729.14,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DLCADYRGV": {
+    "ic50": 10735.64,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KAFQRSSSL": {
+    "ic50": 10803.35,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FGQCSSTPM": {
+    "ic50": 10859.83,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEMVQEFVV": {
+    "ic50": 11053.18,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQDQDTIPC": {
+    "ic50": 11643.66,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQERLADVV": {
+    "ic50": 11830.58,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLKSPADSC": {
+    "ic50": 12353.17,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQQKLGSLA": {
+    "ic50": 12685.29,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MATHMHRLI": {
+    "ic50": 12710.7,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SWQERLADV": {
+    "ic50": 13074.48,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QQKLGSLAL": {
+    "ic50": 13517.53,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HFNPTLPMM": {
+    "ic50": 14262.32,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ISKSHQLYI": {
+    "ic50": 15995.9,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AAHQDIPAM": {
+    "ic50": 16444.09,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLMVPDSLR": {
+    "ic50": 16639.71,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CGQDFNQPL": {
+    "ic50": 16920.76,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALGVPDGAT": {
+    "ic50": 17391.85,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEYLDHPTL": {
+    "ic50": 17578.58,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VQRSLGPLA": {
+    "ic50": 18225.25,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AASEQEEEL": {
+    "ic50": 18673.37,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_REEGMVPFI": {
+    "ic50": 18696.62,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GAAPGQPGA": {
+    "ic50": 18742.19,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TDVIVALAV": {
+    "ic50": 19120.92,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EAPATIATL": {
+    "ic50": 19386.11,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_REVRQLSAL": {
+    "ic50": 19618.63,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ATHDGGPRA": {
+    "ic50": 20797.91,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQSRFLQSR": {
+    "ic50": 21617.92,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGHFGKVLL": {
+    "ic50": 21668.74,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPTEAKLLI": {
+    "ic50": 23249.55,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPCGLCGKV": {
+    "ic50": 24817.01,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APATIAPLA": {
+    "ic50": 25983.43,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PMPVGTAPS": {
+    "ic50": 25996.35,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EAQLLISSL": {
+    "ic50": 26809.04,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TQVTPVPGG": {
+    "ic50": 27431.38,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LRDSGTFTC": {
+    "ic50": 27691.11,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPREAMGSL": {
+    "ic50": 27770.62,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PLDPSASSS": {
+    "ic50": 27940.01,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SGQLSPLEA": {
+    "ic50": 28365.23,
+    "percentile_rank": 38.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VSSQGSFLG": {
+    "ic50": 28814.37,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SNNPVIKEL": {
+    "ic50": 28981.33,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PVGTAPSPL": {
+    "ic50": 28985.42,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NHAAPPLHL": {
+    "ic50": 29116.79,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IEMDHEGKI": {
+    "ic50": 29242.46,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DPDININSI": {
+    "ic50": 30296.59,
+    "percentile_rank": 42.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEPPLGGVV": {
+    "ic50": 31660.9,
+    "percentile_rank": 45.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MRIQIGTQA": {
+    "ic50": 32297.53,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ARVRQDLQV": {
+    "ic50": 32324.1,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HPEGIHYSF": {
+    "ic50": 32346.49,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QDIPAMQQL": {
+    "ic50": 32866.85,
+    "percentile_rank": 48.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQKENEFQG": {
+    "ic50": 33103.1,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPATSPIGA": {
+    "ic50": 33280.16,
+    "percentile_rank": 50.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EASKRAATL": {
+    "ic50": 33341.78,
+    "percentile_rank": 50.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QDITAMQQL": {
+    "ic50": 33723.46,
+    "percentile_rank": 51.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ERLAIRAKL": {
+    "ic50": 34011.48,
+    "percentile_rank": 52.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PEMEETESI": {
+    "ic50": 34641.75,
+    "percentile_rank": 54.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NPSDSGPEM": {
+    "ic50": 34701.02,
+    "percentile_rank": 54.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APRSWARCL": {
+    "ic50": 36342.61,
+    "percentile_rank": 59.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPAPPAPAA": {
+    "ic50": 37198.35,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPPAPPAPA": {
+    "ic50": 37518.88,
+    "percentile_rank": 63.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KDLRYKKTL": {
+    "ic50": 37667.36,
+    "percentile_rank": 64.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPQEQINML": {
+    "ic50": 38449.73,
+    "percentile_rank": 67.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GGTAPSPLR": {
+    "ic50": 39675.28,
+    "percentile_rank": 72.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGKEPPLGV": {
+    "ic50": 40424.49,
+    "percentile_rank": 75.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EDCLVPTSM": {
+    "ic50": 40445.51,
+    "percentile_rank": 75.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HENEKVNMY": {
+    "ic50": 40942.14,
+    "percentile_rank": 77.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ARTDADAPP": {
+    "ic50": 41409.04,
+    "percentile_rank": 79.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPTQIGPSY": {
+    "ic50": 41722.95,
+    "percentile_rank": 80.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPGVRRKRV": {
+    "ic50": 42087.95,
+    "percentile_rank": 82.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPWNDVDPP": {
+    "ic50": 42864.16,
+    "percentile_rank": 85.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LYGSPTQIG": {
+    "ic50": 43173.22,
+    "percentile_rank": 87.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TEENIYKVY": {
+    "ic50": 44764.38,
+    "percentile_rank": 93.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NMFKMLPEV": {
+    "ic50": 5.8,
+    "percentile_rank": 0.04,
+    "presentation_score": 0.9942,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLDYHLNYL": {
+    "ic50": 7.7,
+    "percentile_rank": 0.06,
+    "presentation_score": 0.9923,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILSFFALCV": {
+    "ic50": 12.59,
+    "percentile_rank": 0.12,
+    "presentation_score": 0.9874,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLSFCLNGV": {
+    "ic50": 13.99,
+    "percentile_rank": 0.14,
+    "presentation_score": 0.986,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLQDLSYCI": {
+    "ic50": 14.51,
+    "percentile_rank": 0.14,
+    "presentation_score": 0.9855,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILQFLSMTL": {
+    "ic50": 19.91,
+    "percentile_rank": 0.18,
+    "presentation_score": 0.9801,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SMDADGFYM": {
+    "ic50": 22.95,
+    "percentile_rank": 0.21,
+    "presentation_score": 0.977,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FTEENIYKV": {
+    "ic50": 34.59,
+    "percentile_rank": 0.32,
+    "presentation_score": 0.9654,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MLAVILLVV": {
+    "ic50": 37.2,
+    "percentile_rank": 0.33,
+    "presentation_score": 0.9628,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILFVVFWFL": {
+    "ic50": 47.04,
+    "percentile_rank": 0.41,
+    "presentation_score": 0.953,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RQLPALGFV": {
+    "ic50": 57.44,
+    "percentile_rank": 0.46,
+    "presentation_score": 0.9426,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQRSWLLEV": {
+    "ic50": 169.04,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.831,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLPGLMCLL": {
+    "ic50": 183.93,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8161,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLYGLHALF": {
+    "ic50": 184.83,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8152,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WMPSPHLKV": {
+    "ic50": 197.92,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8021,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALARVQRAV": {
+    "ic50": 221.78,
+    "percentile_rank": 1.4,
+    "presentation_score": 0.7782,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LMMSKRESL": {
+    "ic50": 232.36,
+    "percentile_rank": 1.5,
+    "presentation_score": 0.7676,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLPEAQHKA": {
+    "ic50": 311.34,
+    "percentile_rank": 1.8,
+    "presentation_score": 0.6887,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLTKATVHI": {
+    "ic50": 321.59,
+    "percentile_rank": 1.8,
+    "presentation_score": 0.6784,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FQVAEAMVL": {
+    "ic50": 325.44,
+    "percentile_rank": 1.8,
+    "presentation_score": 0.6746,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KTWTLTQNI": {
+    "ic50": 427.07,
+    "percentile_rank": 2.1,
+    "presentation_score": 0.5729,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YLKRVKEEL": {
+    "ic50": 456.11,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.5439,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FVWDALDKT": {
+    "ic50": 457.08,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.5429,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KLDFCAQDL": {
+    "ic50": 503.62,
+    "percentile_rank": 2.3,
+    "presentation_score": 0.4964,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NQHFGLESV": {
+    "ic50": 587.05,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.413,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLTNDYNWL": {
+    "ic50": 605.62,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.3944,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLIQNPDQL": {
+    "ic50": 612.92,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.3871,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FSWDRYQLA": {
+    "ic50": 624.06,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.3759,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLQTQFNLL": {
+    "ic50": 782.43,
+    "percentile_rank": 2.9,
+    "presentation_score": 0.2176,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CIFAELGNA": {
+    "ic50": 785.25,
+    "percentile_rank": 2.9,
+    "presentation_score": 0.2147,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILSHPGTIV": {
+    "ic50": 802.24,
+    "percentile_rank": 2.9,
+    "presentation_score": 0.1978,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQSRFLQSL": {
+    "ic50": 999.17,
+    "percentile_rank": 3.2,
+    "presentation_score": 0.0008,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FQGAEAMVL": {
+    "ic50": 1043.99,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLPTQFNLL": {
+    "ic50": 1121.6,
+    "percentile_rank": 3.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WMENWPGCL": {
+    "ic50": 1144.01,
+    "percentile_rank": 3.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RQLHGLKGL": {
+    "ic50": 1258.5,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NMTPATSTI": {
+    "ic50": 1556.47,
+    "percentile_rank": 4.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TVQEPHSFV": {
+    "ic50": 1643.92,
+    "percentile_rank": 4.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQQFVWDAL": {
+    "ic50": 1720.28,
+    "percentile_rank": 4.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIAINRHGV": {
+    "ic50": 1750.6,
+    "percentile_rank": 4.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KLDFCAKDL": {
+    "ic50": 1848.21,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AISKLYSTI": {
+    "ic50": 2094.78,
+    "percentile_rank": 4.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FTGESLATC": {
+    "ic50": 2308.25,
+    "percentile_rank": 5.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLFGQCSS": {
+    "ic50": 2357.19,
+    "percentile_rank": 5.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QTINLSFNM": {
+    "ic50": 2507.3,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLKGNQIGL": {
+    "ic50": 2599.85,
+    "percentile_rank": 5.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DMDGEPMYI": {
+    "ic50": 2631.66,
+    "percentile_rank": 5.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_STNTCVNCV": {
+    "ic50": 3196.3,
+    "percentile_rank": 6.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KSNTLMLPL": {
+    "ic50": 3642.99,
+    "percentile_rank": 6.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WMENGPGCL": {
+    "ic50": 3952.52,
+    "percentile_rank": 6.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSATETEFV": {
+    "ic50": 4160.74,
+    "percentile_rank": 7.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RTYGPSSIL": {
+    "ic50": 4627.05,
+    "percentile_rank": 7.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLSEGRDIA": {
+    "ic50": 4754.34,
+    "percentile_rank": 7.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YCLVTATSL": {
+    "ic50": 4835.05,
+    "percentile_rank": 7.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLKNFTEYF": {
+    "ic50": 4963.54,
+    "percentile_rank": 8.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MGLMNAIGL": {
+    "ic50": 4966.66,
+    "percentile_rank": 8.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TSSGATLLV": {
+    "ic50": 5129.18,
+    "percentile_rank": 8.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLQEFWISQ": {
+    "ic50": 5235.89,
+    "percentile_rank": 8.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLSEQDCSF": {
+    "ic50": 5260.59,
+    "percentile_rank": 8.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AAISKLYST": {
+    "ic50": 5809.11,
+    "percentile_rank": 8.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AMTDADAPP": {
+    "ic50": 5891.91,
+    "percentile_rank": 8.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQSRNLNCI": {
+    "ic50": 5899.5,
+    "percentile_rank": 8.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TTVILLILL": {
+    "ic50": 5932.53,
+    "percentile_rank": 8.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VVIDEVKRI": {
+    "ic50": 5987.67,
+    "percentile_rank": 9.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TTVILIILL": {
+    "ic50": 6723.1,
+    "percentile_rank": 9.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LWDFHLAKI": {
+    "ic50": 6730.01,
+    "percentile_rank": 9.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YRLEESSPL": {
+    "ic50": 7164.96,
+    "percentile_rank": 11.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILQFLSMTW": {
+    "ic50": 7217.01,
+    "percentile_rank": 11.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSATETELV": {
+    "ic50": 7672.29,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPPEIQAWV": {
+    "ic50": 7985.58,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SISCWHNFC": {
+    "ic50": 8970.19,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FYSTTLGPI": {
+    "ic50": 10069.88,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSCGELQRV": {
+    "ic50": 10279.26,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DIDGEPMYI": {
+    "ic50": 10463.63,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KTGTLTQNI": {
+    "ic50": 10547.62,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CWQDFNQPL": {
+    "ic50": 10875.23,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLKGVVVLE": {
+    "ic50": 11266.41,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KAFQRSSSI": {
+    "ic50": 11943.64,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLDPSASSS": {
+    "ic50": 12405.95,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLDERAVSR": {
+    "ic50": 13092.74,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MHLWRYPSL": {
+    "ic50": 13314.75,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLPQARASC": {
+    "ic50": 13938.14,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HILKVEIGC": {
+    "ic50": 14110.06,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLRDSGTFT": {
+    "ic50": 15055.8,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KDLESMLKL": {
+    "ic50": 15402.81,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YRDHPTLCI": {
+    "ic50": 16203.19,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILAEDETDW": {
+    "ic50": 16899.53,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SISCGHNFC": {
+    "ic50": 16972.65,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TEVIVALAV": {
+    "ic50": 17367.22,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ASVRQDLQV": {
+    "ic50": 17580.67,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_THPALFACV": {
+    "ic50": 18320.75,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QCMKSLGSA": {
+    "ic50": 18636.83,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TQNSYGCAT": {
+    "ic50": 19435.04,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQLPMPGGT": {
+    "ic50": 20094.72,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GSAPGQPGA": {
+    "ic50": 20290.47,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MLPEKSQGK": {
+    "ic50": 20539.63,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SHDQHAVLV": {
+    "ic50": 21171.17,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLLVPDSLR": {
+    "ic50": 21958.32,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPTQFNLLA": {
+    "ic50": 22852.01,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SRVEHVKHV": {
+    "ic50": 24223.55,
+    "percentile_rank": 31.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TTVDIFHKK": {
+    "ic50": 24313.09,
+    "percentile_rank": 31.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GEGRLLVIV": {
+    "ic50": 24420.92,
+    "percentile_rank": 31.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GAGGPCGPM": {
+    "ic50": 24939.75,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RDEGMVPFI": {
+    "ic50": 25260.48,
+    "percentile_rank": 33.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HILKVEIGG": {
+    "ic50": 25346.17,
+    "percentile_rank": 33.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DVAKVSQKL": {
+    "ic50": 26712.32,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RCPGKRMQV": {
+    "ic50": 26943.09,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGHEGKQLV": {
+    "ic50": 26959.13,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AASQQEEEL": {
+    "ic50": 27330.65,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KYPGSYLTF": {
+    "ic50": 27400.82,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DDIELLPEA": {
+    "ic50": 27474.15,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SGAPGIPTS": {
+    "ic50": 27745.1,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NEASGDHAL": {
+    "ic50": 27750.2,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ASPPSGCQM": {
+    "ic50": 28675.04,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RPNPHDTKV": {
+    "ic50": 29133.51,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SGAPGIHTS": {
+    "ic50": 30017.27,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IEMDPEGKI": {
+    "ic50": 30625.49,
+    "percentile_rank": 43.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SSSHGFLVW": {
+    "ic50": 31158.27,
+    "percentile_rank": 44.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LEESSHLNL": {
+    "ic50": 31380.55,
+    "percentile_rank": 45.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KPTLVCSRA": {
+    "ic50": 31586.64,
+    "percentile_rank": 45.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPGMPSPHL": {
+    "ic50": 31895.04,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LDGSSRGPV": {
+    "ic50": 32092.35,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPEGLESTV": {
+    "ic50": 32146.56,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KENKNVTAF": {
+    "ic50": 32637.57,
+    "percentile_rank": 48.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EAKLLISSL": {
+    "ic50": 33913.38,
+    "percentile_rank": 52.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VPRVSLERL": {
+    "ic50": 34116.16,
+    "percentile_rank": 52.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GPYENRTVF": {
+    "ic50": 34775.8,
+    "percentile_rank": 54.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DAGVMIQRL": {
+    "ic50": 35697.25,
+    "percentile_rank": 57.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GEESKRPPL": {
+    "ic50": 37064.16,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PNGGSFEEV": {
+    "ic50": 38036.35,
+    "percentile_rank": 65.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EETQLEQSI": {
+    "ic50": 38560.95,
+    "percentile_rank": 67.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PASEHPGSL": {
+    "ic50": 39080.94,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SAPGPKQPP": {
+    "ic50": 39159.25,
+    "percentile_rank": 70.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GTGDTTSTG": {
+    "ic50": 39555.71,
+    "percentile_rank": 71.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPTQIWPSY": {
+    "ic50": 40232.06,
+    "percentile_rank": 74.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RKDTEKDQV": {
+    "ic50": 40979.81,
+    "percentile_rank": 77.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TAPTPRPRP": {
+    "ic50": 41312.38,
+    "percentile_rank": 79.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPPAPPAQA": {
+    "ic50": 41321.76,
+    "percentile_rank": 79.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HPRNLSSHF": {
+    "ic50": 41432.34,
+    "percentile_rank": 79.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGPKQPPTA": {
+    "ic50": 43040.75,
+    "percentile_rank": 86.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPNITQLFH": {
+    "ic50": 43305.15,
+    "percentile_rank": 87.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGSGADLPP": {
+    "ic50": 43943.29,
+    "percentile_rank": 90.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GPHPPHTHS": {
+    "ic50": 44272.09,
+    "percentile_rank": 91.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPPPPRHLP": {
+    "ic50": 44335.86,
+    "percentile_rank": 91.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGQKQPPTA": {
+    "ic50": 44498.77,
+    "percentile_rank": 92.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPPGQKVPR": {
+    "ic50": 44606.75,
+    "percentile_rank": 92.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPAQAAVEP": {
+    "ic50": 44682.58,
+    "percentile_rank": 93.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VERSQEQEY": {
+    "ic50": 44702.41,
+    "percentile_rank": 93.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APGKPRPVG": {
+    "ic50": 45129.58,
+    "percentile_rank": 94.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PEENIYKVY": {
+    "ic50": 47483.39,
+    "percentile_rank": 100.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLSMTLYSL": {
+    "ic50": 4.27,
+    "percentile_rank": 0.03,
+    "presentation_score": 0.9957,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLGTYWAAV": {
+    "ic50": 5.12,
+    "percentile_rank": 0.04,
+    "presentation_score": 0.9949,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLSMTWYSL": {
+    "ic50": 6.06,
+    "percentile_rank": 0.05,
+    "presentation_score": 0.9939,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KMSQLPMPV": {
+    "ic50": 6.1,
+    "percentile_rank": 0.05,
+    "presentation_score": 0.9939,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLVGIDEV": {
+    "ic50": 8.3,
+    "percentile_rank": 0.08,
+    "presentation_score": 0.9917,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLEEDSPEM": {
+    "ic50": 18.93,
+    "percentile_rank": 0.17,
+    "presentation_score": 0.9811,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLLQGVVVL": {
+    "ic50": 54.65,
+    "percentile_rank": 0.45,
+    "presentation_score": 0.9454,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILLVVFWFL": {
+    "ic50": 55.08,
+    "percentile_rank": 0.45,
+    "presentation_score": 0.9449,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LMDSGTFTC": {
+    "ic50": 161.11,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8389,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLCFSHIGL": {
+    "ic50": 165.52,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8345,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RQLWDFHLA": {
+    "ic50": 219.23,
+    "percentile_rank": 1.4,
+    "presentation_score": 0.7808,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLHEAQHKA": {
+    "ic50": 320.0,
+    "percentile_rank": 1.8,
+    "presentation_score": 0.68,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AISKLYYTI": {
+    "ic50": 343.92,
+    "percentile_rank": 1.9,
+    "presentation_score": 0.6561,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILSPPGTIV": {
+    "ic50": 353.46,
+    "percentile_rank": 1.9,
+    "presentation_score": 0.6465,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RSWLLEVLV": {
+    "ic50": 499.92,
+    "percentile_rank": 2.3,
+    "presentation_score": 0.5001,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GVVYFLLTL": {
+    "ic50": 552.09,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4479,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLKSNTLML": {
+    "ic50": 570.49,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4295,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CLDHENEKV": {
+    "ic50": 583.5,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4165,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KFYDHTLSI": {
+    "ic50": 826.63,
+    "percentile_rank": 3.0,
+    "presentation_score": 0.1734,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQLGQNPRI": {
+    "ic50": 884.14,
+    "percentile_rank": 3.1,
+    "presentation_score": 0.1159,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ATLAIFEFM": {
+    "ic50": 900.73,
+    "percentile_rank": 3.1,
+    "presentation_score": 0.0993,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILGAVPFLG": {
+    "ic50": 1017.46,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WIPGGSPYA": {
+    "ic50": 1052.69,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KFFISVPGV": {
+    "ic50": 1053.62,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FGIVIPMQV": {
+    "ic50": 1161.98,
+    "percentile_rank": 3.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQLGQNHRI": {
+    "ic50": 1292.77,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLFCQCSS": {
+    "ic50": 1450.94,
+    "percentile_rank": 3.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLEWLENNL": {
+    "ic50": 1515.76,
+    "percentile_rank": 4.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILDSLLLFG": {
+    "ic50": 1701.95,
+    "percentile_rank": 4.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NMNCEDIAM": {
+    "ic50": 1909.4,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALKTFLKLA": {
+    "ic50": 2221.25,
+    "percentile_rank": 4.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILGADTRTA": {
+    "ic50": 2292.72,
+    "percentile_rank": 5.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YSLELLGRA": {
+    "ic50": 2390.11,
+    "percentile_rank": 5.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GSISSSVSV": {
+    "ic50": 2532.33,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WLSATETEF": {
+    "ic50": 2541.8,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YIFSDKTWT": {
+    "ic50": 2579.28,
+    "percentile_rank": 5.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLVIVGREA": {
+    "ic50": 2636.13,
+    "percentile_rank": 5.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQTQFNLLA": {
+    "ic50": 2777.17,
+    "percentile_rank": 5.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DLCADYLGV": {
+    "ic50": 2989.07,
+    "percentile_rank": 5.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MWLMNAIGL": {
+    "ic50": 3154.35,
+    "percentile_rank": 6.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NLGPLLYNF": {
+    "ic50": 3476.78,
+    "percentile_rank": 6.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SVDHALKFI": {
+    "ic50": 3798.19,
+    "percentile_rank": 6.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NLSFNRFKM": {
+    "ic50": 3872.84,
+    "percentile_rank": 6.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ELAELETQM": {
+    "ic50": 3942.61,
+    "percentile_rank": 6.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLLLFGQCS": {
+    "ic50": 4125.28,
+    "percentile_rank": 7.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLQLELKNL": {
+    "ic50": 4590.8,
+    "percentile_rank": 7.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSTITDPYV": {
+    "ic50": 4624.5,
+    "percentile_rank": 7.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILSEGRDIA": {
+    "ic50": 4627.61,
+    "percentile_rank": 7.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QAEVCSWTV": {
+    "ic50": 5435.44,
+    "percentile_rank": 8.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FFLIEPTAL": {
+    "ic50": 5484.59,
+    "percentile_rank": 8.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SWDRYQLAV": {
+    "ic50": 5668.54,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WEEEFTFEL": {
+    "ic50": 5671.37,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALPTEAKLL": {
+    "ic50": 5695.47,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLLDYHLNY": {
+    "ic50": 5810.25,
+    "percentile_rank": 8.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CFSHMGLYV": {
+    "ic50": 6110.18,
+    "percentile_rank": 9.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RIQIGTQAI": {
+    "ic50": 6307.12,
+    "percentile_rank": 9.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DLTTKIMQL": {
+    "ic50": 6595.57,
+    "percentile_rank": 9.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLVEHEASP": {
+    "ic50": 6634.0,
+    "percentile_rank": 9.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALYEEQEKP": {
+    "ic50": 7094.06,
+    "percentile_rank": 10.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQVSAVKTA": {
+    "ic50": 7306.1,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HIDVTEGEV": {
+    "ic50": 7315.91,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VIDEVKRIL": {
+    "ic50": 7536.62,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MDADGFYRI": {
+    "ic50": 7749.13,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NIEDMDPEL": {
+    "ic50": 7763.31,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RAMTLKSLL": {
+    "ic50": 7873.54,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YHLNYLKEV": {
+    "ic50": 7987.66,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EQQAVALTL": {
+    "ic50": 8074.55,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DMDHELQQL": {
+    "ic50": 8105.89,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KVQLPAETI": {
+    "ic50": 8361.0,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SMDADGFYR": {
+    "ic50": 8946.84,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KDLESMFKL": {
+    "ic50": 9795.74,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SMRGGYIGS": {
+    "ic50": 10097.27,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ITSRGATLL": {
+    "ic50": 10107.65,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MATPMHRLI": {
+    "ic50": 10461.47,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLKSPAESC": {
+    "ic50": 11478.04,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YRLEESSHL": {
+    "ic50": 12512.85,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YTNPIRKGL": {
+    "ic50": 12768.6,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VSNPQNPSL": {
+    "ic50": 13928.49,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LDVTHSYSV": {
+    "ic50": 14046.69,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SRVEHVQHV": {
+    "ic50": 14574.15,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPAETLQEL": {
+    "ic50": 15051.24,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLGKADSPP": {
+    "ic50": 15962.19,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ISKSHQLYL": {
+    "ic50": 16068.41,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLNILSTLY": {
+    "ic50": 16251.47,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TSRGATLLV": {
+    "ic50": 16507.73,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LDWETKPEI": {
+    "ic50": 16722.02,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LFPNASQHI": {
+    "ic50": 19495.49,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQPQEQINM": {
+    "ic50": 19603.36,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGHEWKQLV": {
+    "ic50": 19685.83,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLQETKIQK": {
+    "ic50": 20015.07,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLYIIEEDK": {
+    "ic50": 20641.21,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VGNRHGLLV": {
+    "ic50": 21004.39,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPWMPSPHL": {
+    "ic50": 21633.6,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLEERAVSR": {
+    "ic50": 21942.41,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PIDVTEGEV": {
+    "ic50": 22756.52,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MDHELQQLL": {
+    "ic50": 22968.76,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSALGFVIP": {
+    "ic50": 23549.56,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PAPPAPAAV": {
+    "ic50": 23891.15,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLPQARASW": {
+    "ic50": 23949.38,
+    "percentile_rank": 31.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TGRACECSV": {
+    "ic50": 24077.22,
+    "percentile_rank": 31.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GILPCGLCG": {
+    "ic50": 25110.06,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SALAIFTCR": {
+    "ic50": 25288.09,
+    "percentile_rank": 33.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EENEYIVVM": {
+    "ic50": 27095.97,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPVPGVARL": {
+    "ic50": 27130.3,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ADYPAKSPL": {
+    "ic50": 27226.75,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NPEMCRVLL": {
+    "ic50": 27383.94,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QIKEMVQEF": {
+    "ic50": 27399.34,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SRFLQSRNL": {
+    "ic50": 28526.19,
+    "percentile_rank": 38.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLESIEDTK": {
+    "ic50": 28671.32,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SKTSFNHNI": {
+    "ic50": 29051.04,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SHAKQLPVA": {
+    "ic50": 29091.29,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EDMKTCVDV": {
+    "ic50": 29957.57,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HDQHAVLVL": {
+    "ic50": 30239.28,
+    "percentile_rank": 42.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KVSGSPPHY": {
+    "ic50": 30537.49,
+    "percentile_rank": 43.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RGATLLVAK": {
+    "ic50": 31180.2,
+    "percentile_rank": 44.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LESTDVERL": {
+    "ic50": 31273.1,
+    "percentile_rank": 44.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QDYLNTRSL": {
+    "ic50": 31757.29,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ERDSAAVCL": {
+    "ic50": 32015.35,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SGATLLVAK": {
+    "ic50": 32332.48,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPNDHSRVI": {
+    "ic50": 32396.58,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GEGRLRVIV": {
+    "ic50": 32974.77,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NPISKGLAA": {
+    "ic50": 33152.92,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DHDININSI": {
+    "ic50": 33247.41,
+    "percentile_rank": 50.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LEESSPLNL": {
+    "ic50": 33586.55,
+    "percentile_rank": 51.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YAEDNIEQK": {
+    "ic50": 34144.6,
+    "percentile_rank": 52.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KRPPLFHTW": {
+    "ic50": 34156.78,
+    "percentile_rank": 52.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQNDEENTK": {
+    "ic50": 34290.46,
+    "percentile_rank": 53.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GAPGIHTSY": {
+    "ic50": 35414.11,
+    "percentile_rank": 56.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SGQLSPREA": {
+    "ic50": 35515.79,
+    "percentile_rank": 56.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HQRCNGHGR": {
+    "ic50": 35738.59,
+    "percentile_rank": 57.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GAGGVGKSA": {
+    "ic50": 36104.71,
+    "percentile_rank": 58.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PSLHGQREL": {
+    "ic50": 36118.38,
+    "percentile_rank": 58.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HGSGADLPP": {
+    "ic50": 36185.66,
+    "percentile_rank": 59.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGPLAPSLR": {
+    "ic50": 36297.04,
+    "percentile_rank": 59.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HPRNLSSPF": {
+    "ic50": 36797.65,
+    "percentile_rank": 61.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HPEGIHDSF": {
+    "ic50": 37024.09,
+    "percentile_rank": 61.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RNDTEKDQV": {
+    "ic50": 37967.29,
+    "percentile_rank": 65.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GRGHFGKVL": {
+    "ic50": 38771.39,
+    "percentile_rank": 68.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LYGSPTQIW": {
+    "ic50": 39489.42,
+    "percentile_rank": 71.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQNDEENTQ": {
+    "ic50": 39954.44,
+    "percentile_rank": 73.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPGVSRKRV": {
+    "ic50": 40113.84,
+    "percentile_rank": 74.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YRFNPNNHQ": {
+    "ic50": 40601.58,
+    "percentile_rank": 76.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGGTAPSPL": {
+    "ic50": 40954.11,
+    "percentile_rank": 77.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APGQKQPPT": {
+    "ic50": 41914.34,
+    "percentile_rank": 81.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NENEKVNMY": {
+    "ic50": 43013.28,
+    "percentile_rank": 86.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AAPGQPGAG": {
+    "ic50": 43308.89,
+    "percentile_rank": 87.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPAPAAVEP": {
+    "ic50": 43352.96,
+    "percentile_rank": 87.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGTPGSSGP": {
+    "ic50": 46162.23,
+    "percentile_rank": 97.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPPPPRHLQ": {
+    "ic50": 46264.76,
+    "percentile_rank": 98.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGKEPPLGG": {
+    "ic50": 47571.33,
+    "percentile_rank": 100.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RMLAVILFV": {
+    "ic50": 3.9,
+    "percentile_rank": 0.03,
+    "presentation_score": 0.9961,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FQAGVDVFL": {
+    "ic50": 17.6,
+    "percentile_rank": 0.17,
+    "presentation_score": 0.9824,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YLQPYDSRL": {
+    "ic50": 21.37,
+    "percentile_rank": 0.19,
+    "presentation_score": 0.9786,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FAMVVEWVV": {
+    "ic50": 31.11,
+    "percentile_rank": 0.28,
+    "presentation_score": 0.9689,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MTWYSLSYI": {
+    "ic50": 37.42,
+    "percentile_rank": 0.34,
+    "presentation_score": 0.9626,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MTLYSLSYI": {
+    "ic50": 74.93,
+    "percentile_rank": 0.58,
+    "presentation_score": 0.9251,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLAPYLKSL": {
+    "ic50": 85.16,
+    "percentile_rank": 0.65,
+    "presentation_score": 0.9148,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LMWEEEFTF": {
+    "ic50": 89.9,
+    "percentile_rank": 0.67,
+    "presentation_score": 0.9101,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLTKATVPI": {
+    "ic50": 96.52,
+    "percentile_rank": 0.72,
+    "presentation_score": 0.9035,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CIFAELANA": {
+    "ic50": 105.07,
+    "percentile_rank": 0.78,
+    "presentation_score": 0.8949,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLSALGFVI": {
+    "ic50": 118.22,
+    "percentile_rank": 0.85,
+    "presentation_score": 0.8818,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LMMSQRESL": {
+    "ic50": 144.14,
+    "percentile_rank": 0.97,
+    "presentation_score": 0.8559,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLNLNCIAL": {
+    "ic50": 166.31,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8337,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YITYSIELL": {
+    "ic50": 170.77,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8292,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLAHYLKSL": {
+    "ic50": 236.79,
+    "percentile_rank": 1.5,
+    "presentation_score": 0.7632,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CLPPEDCSV": {
+    "ic50": 263.91,
+    "percentile_rank": 1.6,
+    "presentation_score": 0.7361,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FIQQEIDLL": {
+    "ic50": 311.88,
+    "percentile_rank": 1.8,
+    "presentation_score": 0.6881,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILDSLLLFC": {
+    "ic50": 346.79,
+    "percentile_rank": 1.9,
+    "presentation_score": 0.6532,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLQSLNLNC": {
+    "ic50": 400.5,
+    "percentile_rank": 2.0,
+    "presentation_score": 0.5995,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LILLCFEGL": {
+    "ic50": 480.89,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.5191,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NMTPATSPI": {
+    "ic50": 615.84,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.3842,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLFGQCSST": {
+    "ic50": 618.06,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.3819,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VMTGMRIQI": {
+    "ic50": 706.71,
+    "percentile_rank": 2.7,
+    "presentation_score": 0.2933,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLCLNGVSL": {
+    "ic50": 763.01,
+    "percentile_rank": 2.8,
+    "presentation_score": 0.237,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GSISSSVYV": {
+    "ic50": 797.81,
+    "percentile_rank": 2.9,
+    "presentation_score": 0.2022,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FALKTFLKL": {
+    "ic50": 812.21,
+    "percentile_rank": 2.9,
+    "presentation_score": 0.1878,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YTSHTASPL": {
+    "ic50": 875.46,
+    "percentile_rank": 3.0,
+    "presentation_score": 0.1245,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RVHQRIHTV": {
+    "ic50": 1061.5,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SIQIRLFLA": {
+    "ic50": 1094.51,
+    "percentile_rank": 3.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLQEVCLRP": {
+    "ic50": 1114.4,
+    "percentile_rank": 3.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLTVKKIFV": {
+    "ic50": 1213.49,
+    "percentile_rank": 3.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIFTLWSFM": {
+    "ic50": 1247.22,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FIYGLHALF": {
+    "ic50": 1304.73,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YTSRTASPL": {
+    "ic50": 1893.8,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ELAELETPM": {
+    "ic50": 1986.57,
+    "percentile_rank": 4.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIFTLGSFM": {
+    "ic50": 1997.78,
+    "percentile_rank": 4.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RTYGPSSLL": {
+    "ic50": 2167.21,
+    "percentile_rank": 4.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLKGNPIGL": {
+    "ic50": 2264.05,
+    "percentile_rank": 5.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TITDPYVIV": {
+    "ic50": 2300.52,
+    "percentile_rank": 5.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TAFLPVSAV": {
+    "ic50": 2340.01,
+    "percentile_rank": 5.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TAFLQVSAV": {
+    "ic50": 2488.98,
+    "percentile_rank": 5.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALSQNCGVL": {
+    "ic50": 2517.03,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQQDYCSIL": {
+    "ic50": 2545.74,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AINRHWVLL": {
+    "ic50": 2773.48,
+    "percentile_rank": 5.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLIFTLGSF": {
+    "ic50": 2865.04,
+    "percentile_rank": 5.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KMSQLPMPG": {
+    "ic50": 2950.64,
+    "percentile_rank": 5.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QAYHSWYSI": {
+    "ic50": 3154.28,
+    "percentile_rank": 6.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WLLEVLVRD": {
+    "ic50": 3175.23,
+    "percentile_rank": 6.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SVIVMADWL": {
+    "ic50": 3299.11,
+    "percentile_rank": 6.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YHMNYLKEV": {
+    "ic50": 3414.85,
+    "percentile_rank": 6.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TITDPSVIV": {
+    "ic50": 3530.0,
+    "percentile_rank": 6.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FYDHTLSIV": {
+    "ic50": 3807.36,
+    "percentile_rank": 6.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILSFFALCG": {
+    "ic50": 3884.76,
+    "percentile_rank": 6.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALGHEWKQL": {
+    "ic50": 4155.97,
+    "percentile_rank": 7.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LILSPPGTI": {
+    "ic50": 4225.11,
+    "percentile_rank": 7.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLILCVLTG": {
+    "ic50": 4460.22,
+    "percentile_rank": 7.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YWVFKEVTV": {
+    "ic50": 4807.93,
+    "percentile_rank": 7.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQQFVGDAL": {
+    "ic50": 4982.05,
+    "percentile_rank": 8.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FPYYPSPGV": {
+    "ic50": 5130.46,
+    "percentile_rank": 8.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YWNNYKTPV": {
+    "ic50": 5668.85,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YCTPFYDRV": {
+    "ic50": 5740.07,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SVHLGHIEL": {
+    "ic50": 5992.14,
+    "percentile_rank": 9.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KSRCSCCPV": {
+    "ic50": 5992.85,
+    "percentile_rank": 9.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NIEDMDHEL": {
+    "ic50": 6300.44,
+    "percentile_rank": 9.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MWSPTNPAL": {
+    "ic50": 6570.43,
+    "percentile_rank": 9.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YCYCQQLCA": {
+    "ic50": 6901.46,
+    "percentile_rank": 9.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLQQTQGDL": {
+    "ic50": 7249.72,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SMNEENMRS": {
+    "ic50": 7387.58,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KVQLPAETL": {
+    "ic50": 7715.5,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SSCFLLGSL": {
+    "ic50": 8100.89,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IHMQVLANV": {
+    "ic50": 8382.11,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLGSFMNNF": {
+    "ic50": 8419.37,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WPGCLVTPV": {
+    "ic50": 8419.37,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QQKLCSLAL": {
+    "ic50": 8464.95,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LTLSSPEVL": {
+    "ic50": 8755.02,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AGVDVFLCL": {
+    "ic50": 8789.76,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TQNSYWCAT": {
+    "ic50": 8943.64,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YWNNYKTHV": {
+    "ic50": 10281.71,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WEWLENNLL": {
+    "ic50": 11830.58,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EVVAASHEL": {
+    "ic50": 11918.21,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NRFKMLPEV": {
+    "ic50": 12580.31,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TYNEALARV": {
+    "ic50": 13916.75,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_REVRQLPAL": {
+    "ic50": 14134.51,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VGNRHCLLV": {
+    "ic50": 14257.85,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SFCLNGVSL": {
+    "ic50": 14678.6,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PLSHGYSKL": {
+    "ic50": 14700.86,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GILPCGLCC": {
+    "ic50": 14721.87,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SWERYQLAV": {
+    "ic50": 15158.94,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DLDDGTLSF": {
+    "ic50": 15358.21,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LYSTIRPYL": {
+    "ic50": 15738.72,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SNDQHAVLV": {
+    "ic50": 16345.47,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALPPEIQAW": {
+    "ic50": 16652.14,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QCFCCCGKL": {
+    "ic50": 16742.65,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LEWLENNLL": {
+    "ic50": 16954.47,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EVVAASNEL": {
+    "ic50": 16962.92,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HFNPPLPMM": {
+    "ic50": 17438.39,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQNPDQLRF": {
+    "ic50": 17463.89,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLDPIHREP": {
+    "ic50": 18134.38,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APLAIFEFM": {
+    "ic50": 18719.09,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QQETHSPTM": {
+    "ic50": 19580.89,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQQEIDLLR": {
+    "ic50": 19770.15,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VCRECLQAL": {
+    "ic50": 20205.46,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPLEAMGSL": {
+    "ic50": 20506.98,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQTPDQLRF": {
+    "ic50": 20599.5,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GAGGPWGPM": {
+    "ic50": 20647.7,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VCRDCLQAL": {
+    "ic50": 22074.81,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QTINLSFNR": {
+    "ic50": 22274.92,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ASPPSGCPM": {
+    "ic50": 22312.79,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLYIIEDDK": {
+    "ic50": 22503.58,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QAEVCSGTV": {
+    "ic50": 22825.57,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPPTTVILL": {
+    "ic50": 23014.04,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HNGGSFEEV": {
+    "ic50": 23273.46,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IPFRVGLYT": {
+    "ic50": 24068.62,
+    "percentile_rank": 31.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KPVVSSVVL": {
+    "ic50": 24825.06,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PAPPAQAAV": {
+    "ic50": 25138.87,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MDGFYDQQV": {
+    "ic50": 25784.3,
+    "percentile_rank": 33.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TTVDILHKK": {
+    "ic50": 26191.46,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RTDADAPPP": {
+    "ic50": 26521.96,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PATIATLAI": {
+    "ic50": 27513.71,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGLMCILRL": {
+    "ic50": 27654.58,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HHAAPPLHL": {
+    "ic50": 27853.38,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DDIELLHEA": {
+    "ic50": 28068.47,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPVPGGARL": {
+    "ic50": 29799.49,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IPDQDTIPC": {
+    "ic50": 30369.1,
+    "percentile_rank": 42.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NDQHAVLVL": {
+    "ic50": 31584.58,
+    "percentile_rank": 45.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CPYENRTVF": {
+    "ic50": 31654.38,
+    "percentile_rank": 45.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPMPVGTAP": {
+    "ic50": 32692.0,
+    "percentile_rank": 48.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIQTPDQLR": {
+    "ic50": 32938.4,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KRFSHSGSY": {
+    "ic50": 33263.23,
+    "percentile_rank": 50.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EENEDIVVM": {
+    "ic50": 33422.34,
+    "percentile_rank": 50.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGKELGPDL": {
+    "ic50": 33852.16,
+    "percentile_rank": 51.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QPYDSRRVL": {
+    "ic50": 34655.24,
+    "percentile_rank": 54.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HQRCHGHGR": {
+    "ic50": 34775.06,
+    "percentile_rank": 54.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPMPGGTAP": {
+    "ic50": 34927.02,
+    "percentile_rank": 55.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EQGRKASTA": {
+    "ic50": 35138.54,
+    "percentile_rank": 55.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LDRETKPEI": {
+    "ic50": 36874.97,
+    "percentile_rank": 61.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VDTETLKDI": {
+    "ic50": 37305.57,
+    "percentile_rank": 63.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VDEMIFDPT": {
+    "ic50": 37611.96,
+    "percentile_rank": 64.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APAAVEPRC": {
+    "ic50": 38415.62,
+    "percentile_rank": 67.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YRFNHNNHQ": {
+    "ic50": 38527.17,
+    "percentile_rank": 67.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPPPAPPAP": {
+    "ic50": 38870.1,
+    "percentile_rank": 68.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GDTETLKDI": {
+    "ic50": 38903.76,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ARKTFLKLA": {
+    "ic50": 38932.39,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MTTRQRPGK": {
+    "ic50": 39050.93,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EETKLEQSI": {
+    "ic50": 39567.27,
+    "percentile_rank": 71.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DDIQKGNTI": {
+    "ic50": 40384.29,
+    "percentile_rank": 75.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QGTPGSSGP": {
+    "ic50": 42798.81,
+    "percentile_rank": 85.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APPAQAAVE": {
+    "ic50": 42829.38,
+    "percentile_rank": 85.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SAPGQPGAG": {
+    "ic50": 43230.25,
+    "percentile_rank": 87.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ECNACGKTF": {
+    "ic50": 44254.36,
+    "percentile_rank": 91.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLDSTNTGV": {
+    "ic50": 4.81,
+    "percentile_rank": 0.03,
+    "presentation_score": 0.9952,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLVLYAFSV": {
+    "ic50": 10.17,
+    "percentile_rank": 0.09,
+    "presentation_score": 0.9898,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLSCGISL": {
+    "ic50": 17.5,
+    "percentile_rank": 0.16,
+    "presentation_score": 0.9825,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLFSQWVAL": {
+    "ic50": 24.26,
+    "percentile_rank": 0.21,
+    "presentation_score": 0.9757,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FQAGGDVFL": {
+    "ic50": 28.5,
+    "percentile_rank": 0.26,
+    "presentation_score": 0.9715,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LMMDHIKSM": {
+    "ic50": 36.49,
+    "percentile_rank": 0.33,
+    "presentation_score": 0.9635,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LMWEDEFTF": {
+    "ic50": 59.95,
+    "percentile_rank": 0.49,
+    "presentation_score": 0.9401,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQWVAIISL": {
+    "ic50": 81.71,
+    "percentile_rank": 0.62,
+    "presentation_score": 0.9183,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLFTWESLA": {
+    "ic50": 118.6,
+    "percentile_rank": 0.85,
+    "presentation_score": 0.8814,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YLLCFSHMG": {
+    "ic50": 153.62,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8464,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SALGFVIPA": {
+    "ic50": 155.38,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8446,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FTWESLATC": {
+    "ic50": 183.25,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8167,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLPPEDCSV": {
+    "ic50": 207.58,
+    "percentile_rank": 1.4,
+    "presentation_score": 0.7924,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLLQSNTLM": {
+    "ic50": 368.7,
+    "percentile_rank": 1.9,
+    "presentation_score": 0.6313,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLIQTPDQL": {
+    "ic50": 437.21,
+    "percentile_rank": 2.1,
+    "presentation_score": 0.5628,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IILLCFEGL": {
+    "ic50": 458.16,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.5418,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FTQRGSLAV": {
+    "ic50": 556.13,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4439,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLLKQEAGL": {
+    "ic50": 604.6,
+    "percentile_rank": 2.5,
+    "presentation_score": 0.3954,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YMKRVKEEL": {
+    "ic50": 656.83,
+    "percentile_rank": 2.6,
+    "presentation_score": 0.3432,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQKENEFQV": {
+    "ic50": 724.91,
+    "percentile_rank": 2.7,
+    "presentation_score": 0.2751,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CLDNENEKV": {
+    "ic50": 727.06,
+    "percentile_rank": 2.7,
+    "presentation_score": 0.2729,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WVVYFLLTL": {
+    "ic50": 857.54,
+    "percentile_rank": 3.0,
+    "presentation_score": 0.1425,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YMNEENMRS": {
+    "ic50": 905.07,
+    "percentile_rank": 3.1,
+    "presentation_score": 0.0949,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLGSSPSGT": {
+    "ic50": 1053.8,
+    "percentile_rank": 3.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLESVHQHL": {
+    "ic50": 1230.32,
+    "percentile_rank": 3.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLCDSAYPS": {
+    "ic50": 1253.35,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PLLNCMEGI": {
+    "ic50": 1255.69,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLQQEETKL": {
+    "ic50": 1359.68,
+    "percentile_rank": 3.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIAINRHWV": {
+    "ic50": 1385.07,
+    "percentile_rank": 3.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TVQEPPSFV": {
+    "ic50": 1525.0,
+    "percentile_rank": 4.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MVVEGVVYF": {
+    "ic50": 1574.92,
+    "percentile_rank": 4.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FSSTTLGPI": {
+    "ic50": 1839.57,
+    "percentile_rank": 4.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLMKDDMGR": {
+    "ic50": 1893.43,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SALAIFTCL": {
+    "ic50": 1996.48,
+    "percentile_rank": 4.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALGVPDWAT": {
+    "ic50": 2146.28,
+    "percentile_rank": 4.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLCDRAYPS": {
+    "ic50": 2283.07,
+    "percentile_rank": 5.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLKEVSHPF": {
+    "ic50": 2331.54,
+    "percentile_rank": 5.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IFSDKTWTL": {
+    "ic50": 2369.23,
+    "percentile_rank": 5.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NLGPLLYHF": {
+    "ic50": 2582.75,
+    "percentile_rank": 5.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CQCEEGTFL": {
+    "ic50": 2619.95,
+    "percentile_rank": 5.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLIKESKIL": {
+    "ic50": 2729.42,
+    "percentile_rank": 5.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLIFCVLTG": {
+    "ic50": 2838.72,
+    "percentile_rank": 5.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LILSHPGTI": {
+    "ic50": 3437.43,
+    "percentile_rank": 6.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQFRVGLYT": {
+    "ic50": 3496.54,
+    "percentile_rank": 6.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILGAVPFLW": {
+    "ic50": 3753.82,
+    "percentile_rank": 6.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QAYHSWYSL": {
+    "ic50": 3875.53,
+    "percentile_rank": 6.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALAIFTCRP": {
+    "ic50": 4368.19,
+    "percentile_rank": 7.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLLEVLVRD": {
+    "ic50": 4413.61,
+    "percentile_rank": 7.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SSPEVLFHM": {
+    "ic50": 4548.78,
+    "percentile_rank": 7.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLLDYHMNY": {
+    "ic50": 4844.11,
+    "percentile_rank": 7.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQLQENDRV": {
+    "ic50": 5767.47,
+    "percentile_rank": 8.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VQEFVVPDL": {
+    "ic50": 6101.2,
+    "percentile_rank": 9.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLVEHGASP": {
+    "ic50": 6182.0,
+    "percentile_rank": 9.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQQDYCRIL": {
+    "ic50": 6501.83,
+    "percentile_rank": 9.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AINRHGVLL": {
+    "ic50": 6730.23,
+    "percentile_rank": 9.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QCGKFFISV": {
+    "ic50": 7037.04,
+    "percentile_rank": 10.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LASGQLSPL": {
+    "ic50": 7387.74,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WQERLADVV": {
+    "ic50": 7705.24,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DVDIWSSGV": {
+    "ic50": 8054.83,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLKQEAGLI": {
+    "ic50": 8671.96,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSTITDPSV": {
+    "ic50": 9060.32,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLNILSTLS": {
+    "ic50": 9378.8,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GIDEVKRIL": {
+    "ic50": 9548.67,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MDWFYDQQV": {
+    "ic50": 9739.09,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SSSHGFLVL": {
+    "ic50": 11023.8,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FGRACAMSI": {
+    "ic50": 11586.6,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FTPKDWSKM": {
+    "ic50": 11887.68,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SSGATLLVA": {
+    "ic50": 12246.31,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FARKTFLKL": {
+    "ic50": 12616.71,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLGDFHLAK": {
+    "ic50": 12657.32,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MHLCRYPSL": {
+    "ic50": 12889.49,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLKLELKNL": {
+    "ic50": 13224.16,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EQWRKASTA": {
+    "ic50": 14257.39,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VQHLALHAF": {
+    "ic50": 15094.94,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ATPDGGPRA": {
+    "ic50": 15125.68,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPAETIQEL": {
+    "ic50": 15490.04,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TYNEAMARV": {
+    "ic50": 15744.35,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SSPEVRFHM": {
+    "ic50": 16668.18,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AGGDVFLCL": {
+    "ic50": 16847.69,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GGFKCVDGA": {
+    "ic50": 19004.59,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TQMSNLQLK": {
+    "ic50": 19037.73,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LFPNTSQHI": {
+    "ic50": 19586.83,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPCGLCCKV": {
+    "ic50": 19664.54,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQDQGRQQA": {
+    "ic50": 20012.9,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QCFCCGGKL": {
+    "ic50": 20045.2,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SNNPVINEL": {
+    "ic50": 20901.69,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YYPSPGVLF": {
+    "ic50": 22071.48,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPPTTVILI": {
+    "ic50": 22430.66,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HIAEDDGIA": {
+    "ic50": 22657.76,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RGHFGKVLL": {
+    "ic50": 22783.38,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SGDHALKFI": {
+    "ic50": 22812.72,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AAHQDITAM": {
+    "ic50": 22873.77,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLGPLDGSW": {
+    "ic50": 22987.4,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KSFTQRGSL": {
+    "ic50": 23111.6,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QQETQSPTM": {
+    "ic50": 23196.79,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LREPTALYV": {
+    "ic50": 23667.31,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KPVISSVVL": {
+    "ic50": 24968.1,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPGYCAPEI": {
+    "ic50": 25849.1,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YRIIAQYKF": {
+    "ic50": 26028.16,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CQCEEGTFR": {
+    "ic50": 26090.19,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILAEDETDG": {
+    "ic50": 26499.59,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GEESKLPPL": {
+    "ic50": 26593.51,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VQRSLGPRA": {
+    "ic50": 26683.72,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KRFSHSVSY": {
+    "ic50": 27036.54,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGRGHFGKV": {
+    "ic50": 27822.67,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LWKELGPDL": {
+    "ic50": 27880.83,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPEGLESPV": {
+    "ic50": 28144.51,
+    "percentile_rank": 38.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LASGQLSPR": {
+    "ic50": 28515.7,
+    "percentile_rank": 38.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VPEFVVPDL": {
+    "ic50": 28722.23,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RCHGKRMQV": {
+    "ic50": 28827.47,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VQDFSNCSG": {
+    "ic50": 29206.73,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IRLPPLHTF": {
+    "ic50": 29275.39,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YEAHQERVL": {
+    "ic50": 29328.32,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FTPKDWSKR": {
+    "ic50": 29426.55,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IRLPPWHTF": {
+    "ic50": 29685.25,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RVHQRIHTG": {
+    "ic50": 30201.99,
+    "percentile_rank": 42.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RPNHHDTKV": {
+    "ic50": 31911.6,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NQHFGLESG": {
+    "ic50": 32012.23,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LEGSSRGPV": {
+    "ic50": 32176.14,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPALGFVIP": {
+    "ic50": 33040.48,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APRSWASCL": {
+    "ic50": 33156.15,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SWGTGRAVA": {
+    "ic50": 34237.8,
+    "percentile_rank": 52.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NNSEHFFLR": {
+    "ic50": 34283.79,
+    "percentile_rank": 53.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LTLSSPEVR": {
+    "ic50": 34464.55,
+    "percentile_rank": 53.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPWHTFPGA": {
+    "ic50": 34516.04,
+    "percentile_rank": 53.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YAEDNMEQK": {
+    "ic50": 34787.85,
+    "percentile_rank": 54.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LDGSWQERL": {
+    "ic50": 35090.28,
+    "percentile_rank": 55.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KDLRYEKTL": {
+    "ic50": 35660.57,
+    "percentile_rank": 57.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPLHTFPGA": {
+    "ic50": 35786.96,
+    "percentile_rank": 57.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RVHTGEKPY": {
+    "ic50": 36406.77,
+    "percentile_rank": 59.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NPSDSGTEM": {
+    "ic50": 36426.08,
+    "percentile_rank": 59.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TGSKELDKL": {
+    "ic50": 36434.35,
+    "percentile_rank": 59.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPPQQQQRI": {
+    "ic50": 37086.63,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VGTAPSPLR": {
+    "ic50": 37188.69,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EGSKRAATL": {
+    "ic50": 37239.02,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ANMASSSQR": {
+    "ic50": 37862.27,
+    "percentile_rank": 65.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DDIQNGNTI": {
+    "ic50": 37929.5,
+    "percentile_rank": 65.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HEAHQERVL": {
+    "ic50": 38200.91,
+    "percentile_rank": 66.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPDQGRQQA": {
+    "ic50": 39431.34,
+    "percentile_rank": 71.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VRFHMDSET": {
+    "ic50": 39471.9,
+    "percentile_rank": 71.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APGPKQPPT": {
+    "ic50": 39696.34,
+    "percentile_rank": 72.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TDHIRHQRV": {
+    "ic50": 39748.35,
+    "percentile_rank": 72.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TAPAPRPRP": {
+    "ic50": 40099.95,
+    "percentile_rank": 73.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MPGGTAPSP": {
+    "ic50": 40181.6,
+    "percentile_rank": 74.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NPDQLRFSY": {
+    "ic50": 40216.83,
+    "percentile_rank": 74.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GDEMIFDPT": {
+    "ic50": 40415.76,
+    "percentile_rank": 75.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AGGPCGPMG": {
+    "ic50": 41619.27,
+    "percentile_rank": 80.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TGRACECSG": {
+    "ic50": 42772.43,
+    "percentile_rank": 85.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPNITQLFQ": {
+    "ic50": 43110.2,
+    "percentile_rank": 86.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPGAAPGQP": {
+    "ic50": 45716.38,
+    "percentile_rank": 96.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLWTYWAAV": {
+    "ic50": 3.39,
+    "percentile_rank": 0.02,
+    "presentation_score": 0.9966,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RMLAVILLV": {
+    "ic50": 4.44,
+    "percentile_rank": 0.03,
+    "presentation_score": 0.9956,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLVVIDEV": {
+    "ic50": 10.09,
+    "percentile_rank": 0.09,
+    "presentation_score": 0.9899,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLDYHMNYL": {
+    "ic50": 10.18,
+    "percentile_rank": 0.09,
+    "presentation_score": 0.9898,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLLDFSRKV": {
+    "ic50": 10.51,
+    "percentile_rank": 0.09,
+    "presentation_score": 0.9895,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLEDGTEL": {
+    "ic50": 19.35,
+    "percentile_rank": 0.18,
+    "presentation_score": 0.9807,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLDDGTEL": {
+    "ic50": 22.87,
+    "percentile_rank": 0.21,
+    "presentation_score": 0.9771,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLFSQWVAI": {
+    "ic50": 41.99,
+    "percentile_rank": 0.37,
+    "presentation_score": 0.958,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WLSATETEL": {
+    "ic50": 49.66,
+    "percentile_rank": 0.42,
+    "presentation_score": 0.9503,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLYHFENLA": {
+    "ic50": 50.92,
+    "percentile_rank": 0.43,
+    "presentation_score": 0.9491,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RQLSALGFV": {
+    "ic50": 53.98,
+    "percentile_rank": 0.45,
+    "presentation_score": 0.946,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILPNDNSRV": {
+    "ic50": 176.94,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8231,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AMARVQRAV": {
+    "ic50": 273.57,
+    "percentile_rank": 1.6,
+    "presentation_score": 0.7264,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MLIQIGTQA": {
+    "ic50": 295.95,
+    "percentile_rank": 1.7,
+    "presentation_score": 0.7041,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WTYWAAVPA": {
+    "ic50": 370.22,
+    "percentile_rank": 1.9,
+    "presentation_score": 0.6298,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILLDRCGHI": {
+    "ic50": 398.72,
+    "percentile_rank": 2.0,
+    "presentation_score": 0.6013,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KIMQLISIA": {
+    "ic50": 398.75,
+    "percentile_rank": 2.0,
+    "presentation_score": 0.6013,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLMDSGTFT": {
+    "ic50": 420.54,
+    "percentile_rank": 2.1,
+    "presentation_score": 0.5795,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLQEDRASL": {
+    "ic50": 495.9,
+    "percentile_rank": 2.2,
+    "presentation_score": 0.5041,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VVEWVVYFL": {
+    "ic50": 503.31,
+    "percentile_rank": 2.3,
+    "presentation_score": 0.4967,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLSIVNWYS": {
+    "ic50": 523.95,
+    "percentile_rank": 2.3,
+    "presentation_score": 0.476,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLVSSPSGT": {
+    "ic50": 542.9,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4571,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VQDFSNCSV": {
+    "ic50": 560.22,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4398,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLKQEAWLI": {
+    "ic50": 570.55,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4294,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RIPIAVSWV": {
+    "ic50": 573.58,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4264,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KFYDHTMSI": {
+    "ic50": 574.37,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4256,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FIQQEMDLL": {
+    "ic50": 585.13,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4149,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQRSGLLEV": {
+    "ic50": 586.96,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.413,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GTYWAAVPA": {
+    "ic50": 590.09,
+    "percentile_rank": 2.4,
+    "presentation_score": 0.4099,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLQQEETQL": {
+    "ic50": 689.05,
+    "percentile_rank": 2.7,
+    "presentation_score": 0.311,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TMQEDRASL": {
+    "ic50": 695.77,
+    "percentile_rank": 2.7,
+    "presentation_score": 0.3042,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HLPGLMCIL": {
+    "ic50": 744.75,
+    "percentile_rank": 2.8,
+    "presentation_score": 0.2552,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YSNAKQLPV": {
+    "ic50": 752.58,
+    "percentile_rank": 2.8,
+    "presentation_score": 0.2474,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLQSRNLNC": {
+    "ic50": 818.94,
+    "percentile_rank": 2.9,
+    "presentation_score": 0.1811,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YMIIAQYKF": {
+    "ic50": 841.11,
+    "percentile_rank": 3.0,
+    "presentation_score": 0.1589,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YVIVMADWL": {
+    "ic50": 883.87,
+    "percentile_rank": 3.1,
+    "presentation_score": 0.1161,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KFFVSVPGV": {
+    "ic50": 943.19,
+    "percentile_rank": 3.1,
+    "presentation_score": 0.0568,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLQVSAVKT": {
+    "ic50": 1183.26,
+    "percentile_rank": 3.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WEDEFTFEL": {
+    "ic50": 1184.06,
+    "percentile_rank": 3.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KFTEYFTSV": {
+    "ic50": 1230.43,
+    "percentile_rank": 3.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ITDPYVIVM": {
+    "ic50": 1242.58,
+    "percentile_rank": 3.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILLYRCGHI": {
+    "ic50": 1252.17,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLFHMDSET": {
+    "ic50": 1256.68,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLILSPPGT": {
+    "ic50": 1310.59,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLECLDLDL": {
+    "ic50": 1331.45,
+    "percentile_rank": 3.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RQLQGLKGL": {
+    "ic50": 1447.2,
+    "percentile_rank": 3.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLWHTACFG": {
+    "ic50": 1460.35,
+    "percentile_rank": 4.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLWHTACLG": {
+    "ic50": 1480.81,
+    "percentile_rank": 4.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KIIQLISIA": {
+    "ic50": 1891.34,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TMVMTGMRI": {
+    "ic50": 1895.67,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SMSPWMPSP": {
+    "ic50": 2044.82,
+    "percentile_rank": 4.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PLLNCMEWI": {
+    "ic50": 2126.34,
+    "percentile_rank": 4.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TVHIYATGV": {
+    "ic50": 2230.79,
+    "percentile_rank": 4.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLESGHQHL": {
+    "ic50": 2269.42,
+    "percentile_rank": 5.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KSCCSCCPV": {
+    "ic50": 2389.93,
+    "percentile_rank": 5.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FGIVIHMQV": {
+    "ic50": 2622.08,
+    "percentile_rank": 5.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ILGANTRTA": {
+    "ic50": 2685.97,
+    "percentile_rank": 5.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VSSQGSFLV": {
+    "ic50": 2945.35,
+    "percentile_rank": 5.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLILSHPGT": {
+    "ic50": 2988.27,
+    "percentile_rank": 5.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQSLNLNCI": {
+    "ic50": 3076.05,
+    "percentile_rank": 6.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FPYYHSPGV": {
+    "ic50": 3109.11,
+    "percentile_rank": 6.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LTQEGCVDV": {
+    "ic50": 3193.46,
+    "percentile_rank": 6.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AIFTCLPNS": {
+    "ic50": 3265.37,
+    "percentile_rank": 6.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLPMPVGTA": {
+    "ic50": 3408.72,
+    "percentile_rank": 6.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AMDREEATA": {
+    "ic50": 3478.81,
+    "percentile_rank": 6.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLERLDLDL": {
+    "ic50": 3624.66,
+    "percentile_rank": 6.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLKEVSHQF": {
+    "ic50": 3820.69,
+    "percentile_rank": 6.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLGHFGKVL": {
+    "ic50": 4430.5,
+    "percentile_rank": 7.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LTTKIIQLI": {
+    "ic50": 4510.06,
+    "percentile_rank": 7.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IIHEKGSEL": {
+    "ic50": 4680.13,
+    "percentile_rank": 7.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YCTPFYERV": {
+    "ic50": 5050.27,
+    "percentile_rank": 8.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FFLREPTAL": {
+    "ic50": 5092.13,
+    "percentile_rank": 8.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSQNCGVLV": {
+    "ic50": 5098.64,
+    "percentile_rank": 8.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLHEFWISQ": {
+    "ic50": 5161.58,
+    "percentile_rank": 8.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RSGLLEVLV": {
+    "ic50": 5663.76,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DLTTKIIQL": {
+    "ic50": 5718.13,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ITSSGATLL": {
+    "ic50": 5901.8,
+    "percentile_rank": 8.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQLPMPVGT": {
+    "ic50": 6468.36,
+    "percentile_rank": 9.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VLAPRSWAR": {
+    "ic50": 7269.44,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WSQEKLAQA": {
+    "ic50": 7551.14,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QCMKSLVSA": {
+    "ic50": 8102.64,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIKDLESML": {
+    "ic50": 8402.45,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GLKKFTEYF": {
+    "ic50": 8532.63,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FCQCSSTPM": {
+    "ic50": 8694.14,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLPMPGGTA": {
+    "ic50": 9004.81,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TTGYCAPEI": {
+    "ic50": 9071.51,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SITSRGATL": {
+    "ic50": 9195.72,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLRAGPTRA": {
+    "ic50": 9229.91,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGLGHFGKV": {
+    "ic50": 9856.45,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEMVPEFVV": {
+    "ic50": 10448.92,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NIQGVPQNI": {
+    "ic50": 10582.03,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KQEKAMAHA": {
+    "ic50": 11199.32,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NIQGVQQNI": {
+    "ic50": 11354.28,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LYYTIRPYL": {
+    "ic50": 11407.72,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LSGGELQRV": {
+    "ic50": 11465.63,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLTGAGGPC": {
+    "ic50": 11606.67,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FGRACALSI": {
+    "ic50": 11611.32,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TNPALFACV": {
+    "ic50": 11679.61,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GSQEKLAQA": {
+    "ic50": 11825.34,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LDVPHSYSV": {
+    "ic50": 12035.35,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQAAVEPRC": {
+    "ic50": 12539.41,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HIAEDDCIA": {
+    "ic50": 13565.74,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGDFHLAKI": {
+    "ic50": 14071.79,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GPGCLVTPV": {
+    "ic50": 14627.39,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLTGAGGPW": {
+    "ic50": 16792.54,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CGPQMLVFL": {
+    "ic50": 17117.42,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IFSDKTGTL": {
+    "ic50": 18179.37,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MTDADAPPP": {
+    "ic50": 18897.15,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGMAYSKNA": {
+    "ic50": 19731.25,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLHETKIQK": {
+    "ic50": 20470.63,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FREEDSPEM": {
+    "ic50": 20887.45,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AELETQMEA": {
+    "ic50": 21581.23,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KENKNVTAL": {
+    "ic50": 22460.54,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RNLNCIALC": {
+    "ic50": 22820.37,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CFRHKIPNL": {
+    "ic50": 23788.23,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GGFKCVDCA": {
+    "ic50": 23833.07,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HWEWLENNL": {
+    "ic50": 24740.86,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SNAKQLPVA": {
+    "ic50": 25661.3,
+    "percentile_rank": 33.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CFRHKIHNL": {
+    "ic50": 25799.09,
+    "percentile_rank": 33.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KYQGSYLTF": {
+    "ic50": 26109.68,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLESIEDPK": {
+    "ic50": 26329.82,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APATIATLA": {
+    "ic50": 27401.12,
+    "percentile_rank": 36.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KPTLVCSSA": {
+    "ic50": 27708.8,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VGIDEVKRI": {
+    "ic50": 28625.13,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NYAAALETF": {
+    "ic50": 29720.61,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEIPKKEEV": {
+    "ic50": 29769.52,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQDSNDKEY": {
+    "ic50": 31729.47,
+    "percentile_rank": 45.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ERLAIRAQL": {
+    "ic50": 32062.5,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIQNPDQLR": {
+    "ic50": 32764.59,
+    "percentile_rank": 48.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QPQEQINML": {
+    "ic50": 33173.75,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NPIRKGLAA": {
+    "ic50": 33925.85,
+    "percentile_rank": 52.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RWKDWSFVD": {
+    "ic50": 34764.52,
+    "percentile_rank": 54.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TGAGGPWGP": {
+    "ic50": 35233.32,
+    "percentile_rank": 56.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LESTDGERL": {
+    "ic50": 35690.68,
+    "percentile_rank": 57.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QVSGSPPHY": {
+    "ic50": 36584.07,
+    "percentile_rank": 60.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_STPGQKVPR": {
+    "ic50": 36990.04,
+    "percentile_rank": 61.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QDSLNTRSL": {
+    "ic50": 38262.55,
+    "percentile_rank": 66.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SPPQEQINM": {
+    "ic50": 38489.25,
+    "percentile_rank": 67.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ANIASSSQR": {
+    "ic50": 38885.25,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EDCLVHTSM": {
+    "ic50": 38935.76,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MTTRKRPGK": {
+    "ic50": 39092.79,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GARGVGKSA": {
+    "ic50": 39251.31,
+    "percentile_rank": 70.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPDQLRFSY": {
+    "ic50": 39683.88,
+    "percentile_rank": 72.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TGAGGPCGP": {
+    "ic50": 39853.84,
+    "percentile_rank": 73.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AGGPWGPMG": {
+    "ic50": 39984.29,
+    "percentile_rank": 73.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ECNACWKTF": {
+    "ic50": 42200.57,
+    "percentile_rank": 82.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APASEPPGS": {
+    "ic50": 42791.86,
+    "percentile_rank": 85.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPPPAPPAQ": {
+    "ic50": 43214.34,
+    "percentile_rank": 87.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EGPPLPHER": {
+    "ic50": 43719.92,
+    "percentile_rank": 89.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGAAPGQPG": {
+    "ic50": 44183.1,
+    "percentile_rank": 91.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YLDHPTLCI": {
+    "ic50": 17.58,
+    "percentile_rank": 0.17,
+    "presentation_score": 0.9824,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLEPFIYGL": {
+    "ic50": 18.69,
+    "percentile_rank": 0.17,
+    "presentation_score": 0.9813,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLEPFLYGL": {
+    "ic50": 20.06,
+    "percentile_rank": 0.18,
+    "presentation_score": 0.9799,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLSLCLNGV": {
+    "ic50": 20.66,
+    "percentile_rank": 0.19,
+    "presentation_score": 0.9793,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VMWSPTHPA": {
+    "ic50": 20.73,
+    "percentile_rank": 0.19,
+    "presentation_score": 0.9793,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLYNFENLA": {
+    "ic50": 31.67,
+    "percentile_rank": 0.29,
+    "presentation_score": 0.9683,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLGPLAPSL": {
+    "ic50": 52.04,
+    "percentile_rank": 0.43,
+    "presentation_score": 0.948,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KVFGIVIPM": {
+    "ic50": 56.65,
+    "percentile_rank": 0.46,
+    "presentation_score": 0.9434,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLLDFRRKV": {
+    "ic50": 58.71,
+    "percentile_rank": 0.47,
+    "presentation_score": 0.9413,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLQSNTLML": {
+    "ic50": 62.41,
+    "percentile_rank": 0.5,
+    "presentation_score": 0.9376,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQWVALISL": {
+    "ic50": 98.98,
+    "percentile_rank": 0.74,
+    "presentation_score": 0.901,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SIDQYYCLV": {
+    "ic50": 100.26,
+    "percentile_rank": 0.75,
+    "presentation_score": 0.8997,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLQDLSSCI": {
+    "ic50": 148.3,
+    "percentile_rank": 0.99,
+    "presentation_score": 0.8517,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KVFGIVIHM": {
+    "ic50": 156.05,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8439,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLCFSHMGL": {
+    "ic50": 157.48,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8425,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLGPRAPSL": {
+    "ic50": 168.36,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8316,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQMLTYMNL": {
+    "ic50": 175.58,
+    "percentile_rank": 1.2,
+    "presentation_score": 0.8244,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQMLTYLNL": {
+    "ic50": 245.48,
+    "percentile_rank": 1.5,
+    "presentation_score": 0.7545,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLLKQEAWL": {
+    "ic50": 268.01,
+    "percentile_rank": 1.6,
+    "presentation_score": 0.732,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIEPTALYV": {
+    "ic50": 311.4,
+    "percentile_rank": 1.8,
+    "presentation_score": 0.6886,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLNDGSSAM": {
+    "ic50": 312.51,
+    "percentile_rank": 1.8,
+    "presentation_score": 0.6875,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VVEGVVYFL": {
+    "ic50": 389.81,
+    "percentile_rank": 2.0,
+    "presentation_score": 0.6102,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YLNLSRNQL": {
+    "ic50": 419.54,
+    "percentile_rank": 2.1,
+    "presentation_score": 0.5805,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FALCVPQML": {
+    "ic50": 519.58,
+    "percentile_rank": 2.3,
+    "presentation_score": 0.4804,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NLSFNMFKM": {
+    "ic50": 730.22,
+    "percentile_rank": 2.8,
+    "presentation_score": 0.2698,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HMNCEDIAM": {
+    "ic50": 862.84,
+    "percentile_rank": 3.0,
+    "presentation_score": 0.1372,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLTNDYNGL": {
+    "ic50": 1176.64,
+    "percentile_rank": 3.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MVVEWVVYF": {
+    "ic50": 1182.62,
+    "percentile_rank": 3.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NLTVKKIFV": {
+    "ic50": 1261.02,
+    "percentile_rank": 3.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQLSPLEAM": {
+    "ic50": 1340.59,
+    "percentile_rank": 3.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FIMKNFPYY": {
+    "ic50": 1480.12,
+    "percentile_rank": 4.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLMKDYMGR": {
+    "ic50": 1558.92,
+    "percentile_rank": 4.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YIVVMETKL": {
+    "ic50": 1580.23,
+    "percentile_rank": 4.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLLLFCQCS": {
+    "ic50": 1854.08,
+    "percentile_rank": 4.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YSIELLGRA": {
+    "ic50": 2060.68,
+    "percentile_rank": 4.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YGYPDPSYL": {
+    "ic50": 2081.09,
+    "percentile_rank": 4.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WLLKHHPHF": {
+    "ic50": 2108.9,
+    "percentile_rank": 4.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLLSCGISF": {
+    "ic50": 2279.86,
+    "percentile_rank": 5.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KSIDQYYRL": {
+    "ic50": 2556.23,
+    "percentile_rank": 5.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CLRREWQTV": {
+    "ic50": 2817.91,
+    "percentile_rank": 5.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_WLLKHHPNF": {
+    "ic50": 2893.17,
+    "percentile_rank": 5.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FFALCVPQM": {
+    "ic50": 3660.73,
+    "percentile_rank": 6.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SSCFLLCSL": {
+    "ic50": 3781.58,
+    "percentile_rank": 6.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KSFTQRWSL": {
+    "ic50": 3781.58,
+    "percentile_rank": 6.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FYDHTMSIV": {
+    "ic50": 4154.89,
+    "percentile_rank": 7.1,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EVDIWSSGV": {
+    "ic50": 4265.21,
+    "percentile_rank": 7.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DMDPELQQL": {
+    "ic50": 4756.08,
+    "percentile_rank": 7.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CFSHIGLYV": {
+    "ic50": 4920.71,
+    "percentile_rank": 7.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLRACPTRA": {
+    "ic50": 4924.6,
+    "percentile_rank": 7.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLQGVVVLE": {
+    "ic50": 5468.12,
+    "percentile_rank": 8.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SMSPGMPSP": {
+    "ic50": 5480.85,
+    "percentile_rank": 8.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SITSSGATL": {
+    "ic50": 5582.3,
+    "percentile_rank": 8.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PVATAFLQV": {
+    "ic50": 5661.31,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MDADGFYMI": {
+    "ic50": 5740.76,
+    "percentile_rank": 8.7,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KLPPLFHTW": {
+    "ic50": 5917.14,
+    "percentile_rank": 8.9,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLREPTALY": {
+    "ic50": 6254.73,
+    "percentile_rank": 9.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALYEEPEKP": {
+    "ic50": 6360.93,
+    "percentile_rank": 9.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FPEENIYKV": {
+    "ic50": 6425.81,
+    "percentile_rank": 9.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SQSSSLLDM": {
+    "ic50": 6783.82,
+    "percentile_rank": 9.8,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_CLRREGQTV": {
+    "ic50": 7017.34,
+    "percentile_rank": 10.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NTPIMVTKV": {
+    "ic50": 7132.63,
+    "percentile_rank": 11.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QSNTLMLPL": {
+    "ic50": 7228.5,
+    "percentile_rank": 11.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QCGKFFVSV": {
+    "ic50": 7270.07,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALGHEGKQL": {
+    "ic50": 8067.56,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_HTPIMVTKV": {
+    "ic50": 8221.06,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLKDWSFVD": {
+    "ic50": 8236.02,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RLSEQDGSF": {
+    "ic50": 8270.13,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MWSPTHPAL": {
+    "ic50": 8318.68,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QTLLQGVVV": {
+    "ic50": 8583.29,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GQLSPREAM": {
+    "ic50": 8673.56,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FLQEVCLRH": {
+    "ic50": 8798.99,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NNSEHFFLI": {
+    "ic50": 10251.94,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NQEMCRVLL": {
+    "ic50": 10606.1,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KELRDAFEL": {
+    "ic50": 11098.0,
+    "percentile_rank": 15.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLSSPEVRF": {
+    "ic50": 11713.28,
+    "percentile_rank": 16.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RQMSNLQLK": {
+    "ic50": 12690.1,
+    "percentile_rank": 17.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EQQAVALTM": {
+    "ic50": 13732.46,
+    "percentile_rank": 18.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TEMEETESI": {
+    "ic50": 14568.48,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EAPATIAPL": {
+    "ic50": 14630.4,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YRLVTATSL": {
+    "ic50": 14809.26,
+    "percentile_rank": 19.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VQHLSLHAF": {
+    "ic50": 16037.31,
+    "percentile_rank": 20.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EDMKTCVYV": {
+    "ic50": 16530.96,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPTEAQLLI": {
+    "ic50": 16850.6,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VSHPQNPSL": {
+    "ic50": 17628.1,
+    "percentile_rank": 22.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ACSPVSSVM": {
+    "ic50": 18177.79,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ADTDVIVAL": {
+    "ic50": 18400.41,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SRFLQSLNL": {
+    "ic50": 18717.48,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEYRDHPTL": {
+    "ic50": 19059.78,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QLDPIQREP": {
+    "ic50": 19537.08,
+    "percentile_rank": 24.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AVGAGGRGL": {
+    "ic50": 19855.68,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GTGHRLLNM": {
+    "ic50": 20240.26,
+    "percentile_rank": 25.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_IQQEMDLLR": {
+    "ic50": 20713.02,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLGKADSAP": {
+    "ic50": 20950.14,
+    "percentile_rank": 26.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QIKEMVPEF": {
+    "ic50": 21352.44,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AELETPMEA": {
+    "ic50": 21544.84,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SRNLNCIAL": {
+    "ic50": 21790.76,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SGHLGHIEL": {
+    "ic50": 22300.0,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_YYHSPGVLF": {
+    "ic50": 22599.73,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GTWDTTSTG": {
+    "ic50": 22642.57,
+    "percentile_rank": 28.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PMPGGTAPS": {
+    "ic50": 23496.62,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GWSPESPII": {
+    "ic50": 23537.08,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LNLNCIALC": {
+    "ic50": 24084.77,
+    "percentile_rank": 31.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LIKDLESMF": {
+    "ic50": 24673.22,
+    "percentile_rank": 32.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TGYKELDKL": {
+    "ic50": 26172.48,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DIVVMETKL": {
+    "ic50": 26495.0,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MDPELQQLL": {
+    "ic50": 26685.75,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGMAYRKNA": {
+    "ic50": 28656.12,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NYAAAIETF": {
+    "ic50": 28660.15,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GRLLVIVGR": {
+    "ic50": 29039.08,
+    "percentile_rank": 39.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SKTSFNHHI": {
+    "ic50": 29133.51,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GRLRVIVGR": {
+    "ic50": 29204.83,
+    "percentile_rank": 40.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RCIPTPWSY": {
+    "ic50": 29682.03,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LQDSHDKEY": {
+    "ic50": 29698.75,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GGSPESPII": {
+    "ic50": 29737.65,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SLIKESKIR": {
+    "ic50": 29741.83,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPATSTIGA": {
+    "ic50": 29937.16,
+    "percentile_rank": 41.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PSLHWQREL": {
+    "ic50": 31031.43,
+    "percentile_rank": 44.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PATIAPLAI": {
+    "ic50": 31822.31,
+    "percentile_rank": 46.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SRGATLLVA": {
+    "ic50": 32144.82,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEIQKKEEV": {
+    "ic50": 32187.28,
+    "percentile_rank": 47.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VPRVSLECL": {
+    "ic50": 32676.79,
+    "percentile_rank": 48.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPVSAVKTA": {
+    "ic50": 32898.51,
+    "percentile_rank": 49.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RCIPTPGSY": {
+    "ic50": 35484.29,
+    "percentile_rank": 56.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DAGGMIQRL": {
+    "ic50": 35516.18,
+    "percentile_rank": 56.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ACSPVSSVR": {
+    "ic50": 35635.12,
+    "percentile_rank": 57.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KELRDAFER": {
+    "ic50": 35959.29,
+    "percentile_rank": 58.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPPKQQQRI": {
+    "ic50": 36873.36,
+    "percentile_rank": 61.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GAPGIPTSY": {
+    "ic50": 36876.95,
+    "percentile_rank": 61.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TDHIHHQRV": {
+    "ic50": 36950.43,
+    "percentile_rank": 61.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SCGTGRAVA": {
+    "ic50": 37069.78,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LDGSLQERL": {
+    "ic50": 37238.63,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PASEPPGSL": {
+    "ic50": 37293.04,
+    "percentile_rank": 62.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MPVGTAPSP": {
+    "ic50": 37512.4,
+    "percentile_rank": 63.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPNRQKTPL": {
+    "ic50": 37671.44,
+    "percentile_rank": 64.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LGPRAPSLR": {
+    "ic50": 38339.64,
+    "percentile_rank": 66.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QPWNDVDPP": {
+    "ic50": 38613.13,
+    "percentile_rank": 67.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RVHTGEKQY": {
+    "ic50": 38799.07,
+    "percentile_rank": 68.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PPAPPAQAA": {
+    "ic50": 39917.27,
+    "percentile_rank": 73.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APPAPAAVE": {
+    "ic50": 40164.66,
+    "percentile_rank": 74.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GPHPPHTPS": {
+    "ic50": 41110.84,
+    "percentile_rank": 78.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APASEHPGS": {
+    "ic50": 41490.2,
+    "percentile_rank": 79.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SAPGQKQPP": {
+    "ic50": 41957.45,
+    "percentile_rank": 81.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_APGKPRPVC": {
+    "ic50": 41968.79,
+    "percentile_rank": 81.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_EGPPLPPER": {
+    "ic50": 43748.78,
+    "percentile_rank": 89.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGSAPGQPG": {
+    "ic50": 44921.09,
+    "percentile_rank": 93.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DGASRIKGY": {
+    "ic50": 45125.19,
+    "percentile_rank": 94.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPNRQKTPR": {
+    "ic50": 45732.72,
+    "percentile_rank": 96.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TPGSAPGQP": {
+    "ic50": 46005.19,
+    "percentile_rank": 97.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_VERSQEQES": {
+    "ic50": 46417.17,
+    "percentile_rank": 98.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DGGSRIKGY": {
+    "ic50": 46885.58,
+    "percentile_rank": 99.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SMWGGYIGS": {
+    "ic50": 183.1,
+    "percentile_rank": 1.3,
+    "presentation_score": 0.8169,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TMVMTGMLI": {
+    "ic50": 500.11,
+    "percentile_rank": 2.3,
+    "presentation_score": 0.4999,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ALPTEAQLL": {
+    "ic50": 1684.67,
+    "percentile_rank": 4.3,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_GIPGGSPYA": {
+    "ic50": 1943.85,
+    "percentile_rank": 4.6,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AAISKLYYT": {
+    "ic50": 2421.82,
+    "percentile_rank": 5.2,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LLDLNRKNL": {
+    "ic50": 3530.8,
+    "percentile_rank": 6.5,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LTQEGWVDV": {
+    "ic50": 4415.81,
+    "percentile_rank": 7.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_TLSSPEVLF": {
+    "ic50": 6460.95,
+    "percentile_rank": 9.4,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_FVGDALDKT": {
+    "ic50": 7033.54,
+    "percentile_rank": 10.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AQQKLCSLA": {
+    "ic50": 7387.82,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RRVLYAFSV": {
+    "ic50": 8000.37,
+    "percentile_rank": 12.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PLSHCYSKL": {
+    "ic50": 9358.23,
+    "percentile_rank": 13.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_SAMTLKSLL": {
+    "ic50": 9786.52,
+    "percentile_rank": 14.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ADTEVIVAL": {
+    "ic50": 16421.51,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_AIFTCRPNS": {
+    "ic50": 16910.7,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RGKPVISSV": {
+    "ic50": 17192.23,
+    "percentile_rank": 21.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_RGKPVVSSV": {
+    "ic50": 18715.04,
+    "percentile_rank": 23.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_MLQEKSQGK": {
+    "ic50": 21607.16,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_ADYPAQSPL": {
+    "ic50": 21672.72,
+    "percentile_rank": 27.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_NEASVDHAL": {
+    "ic50": 23009.31,
+    "percentile_rank": 29.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_DVAKVSQQL": {
+    "ic50": 23327.66,
+    "percentile_rank": 30.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_KEPPLGVVV": {
+    "ic50": 25943.53,
+    "percentile_rank": 34.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_QPYDSRLVL": {
+    "ic50": 26407.44,
+    "percentile_rank": 35.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_PGLMCLLRL": {
+    "ic50": 27950.89,
+    "percentile_rank": 37.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LPNDNSRVI": {
+    "ic50": 33458.52,
+    "percentile_rank": 50.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  },
+  "HLA-A*02:01_LRVIVGREA": {
+    "ic50": 39017.15,
+    "percentile_rank": 69.0,
+    "presentation_score": 0.0,
+    "source": "NetMHCpan_4.1_IEDB"
+  }
+}

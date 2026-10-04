@@ -24,6 +24,11 @@ class EpitopeCandidate:
     wt_binder_class: str  # "Strong Binder", "Weak Binder", "Non-Binder"
     mt_binder_class: str
     agretopicity_index: float  # WT IC50 / MT IC50 (Higher = MT binds more tightly than WT)
+    percentile_rank: float = 50.0
+    presentation_score: float = 0.0
+    mhcflurry_ic50: Optional[float] = None
+    netmhcpan_ic50: Optional[float] = None
+    predictor_source: str = "PWM_Baseline"
 
 
 # Position Weight Matrix for HLA-A*02:01 (9-mers)

@@ -1,327 +1,327 @@
-Rank	Gene	ProteinChange	Neopeptide_9mer	WT_9mer	MutPos	AF	Reads	TPM	MT_IC50_nM	WT_IC50_nM	Agretopicity	Score	ClinicalTier	Action
-1	AP4B1	G525V	LLLVVIDEV	LLLVGIDEV	5	0.654	34/52	325.28	3.42	4.41	1.29	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-2	TRIM28	R492C	SLECLDLDL	SLERLDLDL	4	0.449	22/49	24147.60	26.29	22.18	0.84	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-3	NRAS	G12R	LVVVGARGV	LVVVGAGGV	7	0.758	116/153	3601.36	40.20	40.20	1.00	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-4	MTHFD1	P843H	LLHEAQHKA	LLPEAQHKA	3	0.312	5/16	1374.83	66.92	156.28	2.34	100.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-5	DYNC2H1	S590P	RQLPALGFV	RQLSALGFV	4	0.371	13/35	438.39	156.28	364.11	2.33	87.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-6	TMEM245	G754W	FLWTYWAAV	FLGTYWAAV	3	0.148	4/27	1634.31	2.05	9.48	4.62	81.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-7	ZNF669	V232I	KFFISVPGV	KFFVSVPGV	4	0.932	137/147	136.10	282.62	282.62	1.00	78.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-8	NBR1	Q353K	LLKSNTLML	LLQSNTLML	3	0.176	3/17	5585.60	12.24	12.24	1.00	77.7	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-9	PCNX3	L1607I	SLEPFIYGL	SLEPFLYGL	6	0.182	4/22	1194.84	4.41	5.23	1.19	75.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-10	TRIM9	R655G	VLLDLNGKN	VLLDLNRKN	7	0.287	49/171	1023.28	121.19	121.19	1.00	73.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-11	ITPR3	D961Y	YIVVMETKL	DIVVMETKL	1	0.162	19/117	3762.92	40.20	219.29	5.45	71.3	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-12	RNF2	Y120H	KIYPSRDEH	KIYPSRDEY	9	0.453	29/64	1078.44	1638.38	1638.38	1.00	66.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-13	FANCD2	M197I	DLTTKIIQL	DLTTKIMQL	7	0.246	16/65	343.84	36.93	51.87	1.40	65.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-14	UBE2M	R169W	SMWGGYIGS	SMRGGYIGS	3	0.219	14/64	1949.14	219.29	996.89	4.55	65.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-15	PKN1	R623L	GLGHFGKVL	GRGHFGKVL	2	0.125	4/32	3655.80	43.77	27305.93	623.85	57.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-16	MARCHF7	S303Y	YLNTRSLNS	SLNTRSLNS	1	0.247	19/77	1683.38	510.06	917.14	1.80	54.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-17	GPR158	L535F	RMLAVILFV	RMLAVILLV	8	0.133	6/45	2328.59	3.42	2.89	0.85	52.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-18	CHD8	R1992H	LLHQQYTSH	LLHQQYTSR	9	0.250	5/20	1703.80	1508.90	24125.36	15.99	52.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-19	PTBP1	P67H	HIRKLHIDV	HIRKLPIDV	6	0.148	4/27	6402.58	111.34	170.10	1.53	50.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-20	ZNF532	P454Q	TAFLQVSAV	TAFLPVSAV	5	0.138	4/29	2710.24	51.87	121.19	2.34	50.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-21	FHIP2B	Q706K	TLLKGVVVL	TLLQGVVVL	4	0.129	4/31	522.92	2.43	2.89	1.19	50.1	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.
-22	SFT2D1	W137L	FLSMTLYSL	FLSMTWYSL	6	0.130	3/23	353.87	6.20	14.50	2.34	46.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-23	PARP6	R559L	SLNLNCIAL	SRNLNCIAL	2	0.114	4/35	565.90	22.18	18935.82	853.73	44.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-24	TTN	G14543A	ASRIKGYIV	GSRIKGYIV	1	0.506	124/245	39.91	1177.27	1778.56	1.51	44.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-25	TNFRSF10B	R145L	FLEEDSPEM	FREEDSPEM	2	0.200	3/15	879.66	843.67	47965.05	56.85	44.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-26	GCN1	G2528W	RIPIAVSWV	RIPIAVSGV	8	0.182	4/22	2742.12	334.64	334.64	1.00	44.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-27	LRRC40	R506M	NMFKMLPEV	NRFKMLPEV	2	0.114	5/44	349.21	14.50	10334.45	712.72	43.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-28	CDK5	A196G	ELGNAGRPL	ELANAGRPL	3	0.214	15/70	650.43	364.11	364.11	1.00	41.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-29	RNF123	F211L	SLCLNGVSL	SFCLNGVSL	2	0.095	4/42	1218.12	22.18	996.89	44.95	41.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-30	CHPF	E696Q	AASQQEEEL	AASEQEEEL	4	0.273	33/121	7691.62	1930.26	1279.04	0.66	40.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-31	OSBPL8	S147Y	YVIVMADWL	SVIVMADWL	1	0.129	4/31	883.95	40.20	72.84	1.81	40.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-32	RELCH	P908H	VLTKATVHI	VLTKATVPI	8	0.133	4/30	412.61	24.15	47.65	1.97	40.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-33	CDC42BPB	M1444I	LLCFSHIGL	LLCFSHMGL	7	0.111	4/36	1757.88	24.15	33.92	1.40	40.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-34	TBC1D9B	W87L	HLEWLENNL	HWEWLENNL	2	0.111	4/36	3125.00	185.13	18935.82	102.28	40.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-35	UBE4B	P66T	NMTPATSTI	NMTPATSPI	8	0.111	3/27	1707.02	61.47	238.65	3.88	39.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-36	DOP1B	R1239L	RLVLYAFSV	RRVLYAFSV	2	0.098	5/51	147.56	2.65	3393.11	1280.42	38.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-37	SMC1A	A382G	GSKRAATLA	ASKRAATLA	1	0.824	14/17	2151.15	7277.12	5010.02	0.69	38.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-38	POLR1A	G76V	SVHLGHIEL	SGHLGHIEL	2	0.104	5/48	1981.02	121.19	6282.39	51.84	38.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-39	PML	S388Y	RLQDLSYCI	RLQDLSSCI	7	0.120	3/25	1176.58	66.92	156.28	2.34	37.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-40	SYDE1	R453L	ELDSAAVCL	ERDSAAVCL	2	0.121	4/33	325.93	66.92	32397.04	484.12	37.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-41	C2CD2	E314D	LMWEDEFTF	LMWEEEFTF	5	0.158	3/19	486.03	111.34	111.34	1.00	36.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-42	RRP12	S774Y	AISKLYYTI	AISKLYSTI	7	0.114	4/35	1735.67	86.32	201.49	2.33	36.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-43	UBR4	R2353L	VMTGMLIQI	VMTGMRIQI	6	0.091	3/33	2762.54	28.62	66.92	2.34	36.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-44	SETBP1	G1334W	WMPSPHLKV	GMPSPHLKV	1	0.150	3/20	226.72	51.87	79.30	1.53	35.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-45	TRMT2B	W80L	SLQERLADV	SWQERLADV	2	0.105	4/38	227.79	20.38	3133.95	153.78	35.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-46	MRPL41	P58Q	VQEFVVPDL	VPEFVVPDL	2	0.207	6/29	412.97	1389.36	19945.61	14.36	35.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-47	HNRNPA3	H122N	NLTVKKIFV	HLTVKKIFV	1	0.102	5/49	6652.58	79.30	79.30	1.00	35.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-48	TRMT9B	G356C	FLDSTNTCV	FLDSTNTGV	8	0.156	5/32	307.67	79.30	79.30	1.00	35.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-49	PRR12	P242Q	HLQTQFNLL	HLPTQFNLL	3	0.115	3/26	2298.71	156.28	364.11	2.33	34.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-50	SENP6	P105Q	TLKGNQIGL	TLKGNPIGL	6	0.100	4/40	1039.40	22.18	33.92	1.53	34.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-51	RAF1	R143L	FALKTFLKL	FARKTFLKL	3	0.083	3/36	1654.73	20.38	72.84	3.57	34.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-52	EFHD1	F99L	LIKDLESML	LIKDLESMF	9	0.088	3/34	3745.34	143.58	4639.65	32.31	34.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-53	CHKA	G173V	FQVAEAMVL	FQGAEAMVL	3	0.148	4/27	525.43	219.29	510.06	2.33	33.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-54	CINP	R133L	YHYGEESKL	YHYGEESKR	9	0.111	4/36	423.71	102.28	34284.01	335.20	33.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-55	TUBGCP6	G875W	AVWAGGRGL	AVGAGGRGL	3	0.101	7/69	751.07	61.47	282.62	4.60	33.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-56	HSPG2	Q1699K	GSHSLRCKV	GSHSLRCQV	8	0.125	3/24	8987.70	775.99	2094.33	2.70	32.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-57	BAZ2A	P1483H	FLQEVCLRH	FLQEVCLRP	9	0.079	3/38	3399.99	93.96	2670.17	28.42	32.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-58	RAD51	S106Y	TGYKELDKL	TGSKELDKL	3	0.200	3/15	113.90	554.81	2893.35	5.22	31.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-59	RCE1	R157S	VLAPRSWAS	VLAPRSWAR	9	0.176	3/17	210.60	775.99	16041.07	20.67	31.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-60	CORO2B	Q467K	QLKLELKNL	QLQLELKNL	3	0.093	4/43	4440.90	79.30	79.30	1.00	30.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-61	PRIM2	M125I	FIQQEIDLL	FIQQEMDLL	6	0.125	5/40	250.36	79.30	219.29	2.77	30.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-62	LTN1	P142H	QLAHYLKSL	QLAPYLKSL	4	0.111	4/36	1003.22	18.72	8.00	0.43	30.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-63	SERTAD3	R48L	SLGPLAPSL	SLGPRAPSL	5	0.088	3/34	348.14	6.75	13.32	1.97	30.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-64	SNTB1	G24W	RSWLLEVLV	RSGLLEVLV	3	0.094	3/32	2601.36	185.13	843.67	4.56	30.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-65	ADGRV1	R3087I	LIEPTALYV	LREPTALYV	2	0.125	4/32	57.66	31.16	7277.12	233.54	30.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-66	KIFC3	G384W	TLTNDYNWL	TLTNDYNGL	8	0.109	5/46	1338.83	93.96	93.96	1.00	30.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-67	SULF2	A242T	RLFPNTSQH	RLFPNASQH	6	0.143	10/70	2451.29	282.62	219.29	0.78	30.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-68	TRAPPC11	L517I	YITYSIELL	YITYSLELL	6	0.121	4/33	677.29	121.19	143.58	1.18	29.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-69	SLC43A3	G77W	TLWSFMNNF	TLGSFMNNF	3	0.111	4/36	1026.17	259.71	1177.27	4.53	29.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-70	SEPTIN9	E567D	RLNDGSSAM	RLNEGSSAM	4	0.143	3/21	18269.30	917.14	713.66	0.78	29.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-71	MEGF8	W2744C	LLTGAGGPC	LLTGAGGPW	9	0.143	3/21	5277.94	1930.26	9009.95	4.67	29.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-72	MITD1	F241L	ILHKKHTKN	IFHKKHTKN	2	0.172	10/58	174.43	843.67	22014.32	26.09	29.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-73	GCN1	G1376V	VMIQRLMQQ	GMIQRLMQQ	1	0.114	4/35	2742.12	334.64	510.06	1.52	29.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-74	PATZ1	G298C	GILPCGLCC	GILPCGLCG	9	0.111	3/27	2016.12	713.66	5406.43	7.58	28.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-75	GBA2	G198W	CLRREWQTV	CLRREGQTV	6	0.100	3/30	798.37	61.47	61.47	1.00	27.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-76	SLC45A2	R299S	SAMTLKSLL	RAMTLKSLL	1	0.111	4/36	3138.97	431.01	713.66	1.66	27.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-77	KIF1B	K1302N	IIHENGSEL	IIHEKGSEL	5	0.116	5/43	1446.99	259.71	259.71	1.00	27.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-78	ZSCAN22	W108L	ALPPEIQAL	ALPPEIQAW	9	0.079	3/38	231.73	18.72	3393.11	181.26	27.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-79	HUWE1	H3871N	SNDQHAVLV	SHDQHAVLV	2	0.133	4/30	4963.11	996.89	996.89	1.00	27.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-80	CNTRL	Q698H	SLQQTHGDL	SLQQTQGDL	6	0.115	6/52	442.69	93.96	93.96	1.00	27.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-81	DIS3	R638L	VLFHMDSET	VRFHMDSET	2	0.081	3/37	2213.82	219.29	42907.45	195.67	27.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-82	ABCE1	G464C	LSCGELQRV	LSGGELQRV	3	0.111	5/45	2160.10	282.62	282.62	1.00	27.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-83	CARNMT1	H347N	LLYNFENLA	LLYHFENLA	4	0.111	4/36	169.41	24.15	24.15	1.00	26.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-84	DHX34	Q476H	RLHEFWISQ	RLQEFWISQ	3	0.118	4/34	1450.93	307.54	307.54	1.00	26.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-85	DYNC1I2	H536N	VMWSPTNPA	VMWSPTHPA	7	0.121	7/58	2491.76	510.06	510.06	1.00	26.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-86	CMTM6	E95D	YCTPFYDRV	YCTPFYERV	7	0.086	3/35	2758.95	121.19	185.13	1.53	26.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-87	ZC3H14	S333Y	GSISSSVYV	GSISSSVSV	8	0.174	4/23	661.89	554.81	364.11	0.66	26.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-88	ACP2	E380D	ASGPADTDV	ASGPADTEV	8	0.150	3/20	926.58	775.99	775.99	1.00	26.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-89	EPS15L1	Q514K	RLQQEETKL	RLQQEETQL	8	0.083	3/36	820.20	56.47	156.28	2.77	26.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-90	CAMTA1	P1178H	AQLGQNHRI	AQLGQNPRI	7	0.176	6/34	209.17	554.81	554.81	1.00	26.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-91	PLAA	Q679K	LMMSKRESL	LMMSQRESL	5	0.094	3/32	612.82	43.77	43.77	1.00	26.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-92	LGI4	G419V	RHFQAGVDV	RHFQAGGDV	7	0.088	3/34	2974.93	238.65	656.27	2.75	25.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-93	TECTA	V1642I	PVISSVVLA	PVVSSVVLA	3	0.366	48/131	10.03	468.88	554.81	1.18	25.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-94	PRKX	P107Q	VSHQFLIRL	VSHPFLIRL	4	0.143	4/28	260.75	86.32	36.93	0.43	25.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-95	KANK1	K54N	QNGNTIKRL	QKGNTIKRL	2	0.114	4/35	1890.76	1279.04	22014.32	17.21	25.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-96	ZDHHC3	L217I	TTVILIILL	TTVILLILL	6	0.083	3/36	1540.47	66.92	79.30	1.18	25.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-97	FBN1	D1280Y	CVYVNECDL	CVDVNECDL	3	0.098	4/41	250.00	143.58	1508.90	10.51	25.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-98	VPS26B	P245Q	SIQIRLFLA	SIPIRLFLA	3	0.114	4/35	1111.75	468.88	1083.41	2.31	25.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-99	GPR108	P373H	KVFGIVIHM	KVFGIVIPM	8	0.093	4/43	376.79	51.87	102.28	1.97	25.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.
-100	HSPE1	P34Q	LQEKSQGKV	LPEKSQGKV	2	0.095	4/42	6056.23	1177.27	17946.63	15.24	24.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-101	ZNF532	H954N	LMMDNIKSM	LMMDHIKSM	5	0.083	3/36	2710.24	111.34	111.34	1.00	24.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-102	SORL1	S432Y	YMNEENMRS	SMNEENMRS	1	0.097	3/31	3268.62	396.16	713.66	1.80	24.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-103	COL6A3	G227V	SSVSPERAV	SSVSPERAG	9	0.104	7/67	11245.30	2094.33	47187.35	22.53	24.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-104	GARIN2	L170I	TLFSQWVAI	TLFSQWVAL	9	0.158	3/19	36.17	9.48	4.05	0.43	24.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-105	MAP3K1	R270S	VSRKRVSPV	VRRKRVSPV	2	0.136	3/22	737.82	1638.38	25187.50	15.37	24.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-106	CYP27A1	R323L	LASGQLSPL	LASGQLSPR	9	0.082	6/73	4114.26	603.43	46428.74	76.94	24.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-107	DMPK	D204Y	ILLYRCGHI	ILLDRCGHI	4	0.098	4/41	924.07	51.87	43.77	0.84	24.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-108	MYCBP	P38Q	VLVALYEEQ	VLVALYEEP	9	0.119	5/42	529.37	917.14	17946.63	19.57	23.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-109	SDHA	L469M	VVFGRACAM	VVFGRACAL	9	0.109	6/55	2684.81	170.10	13.32	0.08	23.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-110	ABCA2	Q298K	DVAKVSQKL	DVAKVSQQL	8	0.120	3/25	218.12	238.65	656.27	2.75	23.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-111	AMBRA1	G1083W	WLMNAIGLQ	GLMNAIGLQ	1	0.103	3/29	801.22	238.65	364.11	1.53	23.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-112	GRM7	R434L	DLCADYLGV	DLCADYRGV	7	0.111	4/36	86.68	61.47	219.29	3.57	23.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-113	PELP1	L72I	CILRLHGSV	CLLRLHGSV	2	0.086	3/35	3724.57	56.47	11.24	0.20	23.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-114	PAXX	L89M	TMQEDRASL	TLQEDRASL	2	0.129	4/31	196.28	61.47	40.20	0.65	23.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-115	DTX3L	L727M	YMKRVKEEL	YLKRVKEEL	2	0.121	4/33	414.04	102.28	66.92	0.65	23.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-116	SEMA3E	G579W	FVWDALDKT	FVGDALDKT	3	0.111	4/36	69.84	61.47	282.62	4.60	23.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-117	DNTTIP2	R123M	SSVMKKPKV	SSVRKKPKV	4	0.143	5/35	1595.99	775.99	656.27	0.85	23.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-118	PTPRN2	R927S	SLLDFSRKV	SLLDFRRKV	6	0.120	3/25	21.51	2.24	2.24	1.00	23.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-119	LRCH1	L148M	YMNLSRNQL	YLNLSRNQL	2	0.100	3/30	991.76	79.30	51.87	0.65	22.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-120	PCDHGA3	R403C	SIDQYYCLV	SIDQYYRLV	7	0.317	20/63	7.52	219.29	219.29	1.00	22.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-121	CWF19L2	G208C	CLPPEDCSV	GLPPEDCSV	1	0.125	4/32	259.31	93.96	61.47	0.65	22.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-122	PERP	G101V	ILSFFALCV	ILSFFALCG	9	0.107	3/28	13.97	3.14	1177.27	374.93	22.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-123	PTPN2	T261N	GLIQNPDQL	GLIQTPDQL	5	0.097	3/31	301.93	66.92	66.92	1.00	22.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-124	ZNF510	G596V	RVHQRIHTV	RVHQRIHTG	9	0.086	3/35	176.22	93.96	20972.88	223.21	22.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-125	SLMAP	R11L	SALAIFTCL	SALAIFTCR	9	0.079	3/38	652.58	219.29	41209.52	187.92	22.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-126	SYN3	G400V	KMSQLPMPV	KMSQLPMPG	9	0.089	5/56	157.59	111.34	23066.37	207.17	22.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-127	POFUT3	R269M	YMIIAQYKF	YRIIAQYKF	2	0.085	4/47	181.59	102.28	32397.04	316.75	22.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-128	TLN1	G2039W	VLVQNAAWS	VLVQNAAGS	8	0.089	5/56	8409.74	603.43	603.43	1.00	21.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-129	ZNF32	G258W	FTQRWSLAV	FTQRGSLAV	5	0.121	4/33	430.16	185.13	156.28	0.84	21.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-130	EIF6	G69C	CVGNRHCLL	CVGNRHGLL	7	0.098	4/41	4184.46	656.27	656.27	1.00	21.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-131	NDUFB4	Q42K	KLKREYLLQ	QLKREYLLQ	1	0.118	4/34	926.58	843.67	1279.04	1.52	21.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-132	NAA30	P20Q	PAPPAQAAV	PAPPAPAAV	6	0.182	4/22	342.76	2271.69	3393.11	1.49	21.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-133	UBR4	L994F	VTAFEACAL	VTALEACAL	4	0.103	3/29	2762.54	775.99	775.99	1.00	20.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-134	SBK1	F244L	AFGVLILCV	AFGVLIFCV	7	0.093	4/43	371.06	143.58	219.29	1.53	20.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-135	SAMD9L	E830K	DLRYKKTLV	DLRYEKTLV	5	0.155	23/148	61.25	282.62	282.62	1.00	20.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-136	RSF1	G438W	ALGHEWKQL	ALGHEGKQL	6	0.082	4/49	512.89	79.30	79.30	1.00	20.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-137	FBXL18	G651W	HLFTWESLA	HLFTGESLA	5	0.097	3/31	1192.34	185.13	156.28	0.84	20.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-138	TJP1	Q70H	GQLHENDRV	GQLQENDRV	4	0.097	3/31	1253.94	431.01	431.01	1.00	20.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-139	MID2	H198N	CLDNENEKV	CLDHENEKV	4	0.121	4/33	104.23	156.28	156.28	1.00	20.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-140	UBXN11	G224V	TQVTPVPGV	TQVTPVPGG	9	0.125	3/24	164.76	996.89	44322.59	44.46	20.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-141	TENT5B	G230C	LLFCQCSST	LLFGQCSST	4	0.148	4/27	75.21	121.19	79.30	0.65	19.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-142	FICD	R87S	TSSGATLLV	TSRGATLLV	3	0.129	4/31	93.48	219.29	219.29	1.00	19.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-143	NALCN	W556C	QILTQEGCV	QILTQEGWV	8	0.130	3/23	78.44	201.49	201.49	1.00	19.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-144	XIAP	G204C	QCFCCCGKL	QCFCCGGKL	6	0.108	4/37	618.20	554.81	554.81	1.00	19.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-145	CFLAR	Y119D	LIFLMKDDM	LIFLMKDYM	8	0.139	5/36	400.07	1177.27	1177.27	1.00	19.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-146	UNC13D	L605M	AMARVQRAV	ALARVQRAV	2	0.086	3/35	340.62	33.92	22.18	0.65	18.8	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-147	MMP24	W449C	YCVFKEVTV	YWVFKEVTV	2	0.079	3/38	266.12	143.58	510.06	3.55	18.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-148	SUGP1	H148N	KSYSNAKQL	KSYSHAKQL	5	0.108	4/37	412.97	510.06	510.06	1.00	18.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-149	ZEB2	G51C	LHIAEDDCI	LHIAEDDGI	8	0.122	6/49	3270.77	2463.30	2463.30	1.00	18.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-150	UHRF2	W606L	GFLVLRYLL	GFLVWRYLL	5	0.094	3/32	283.67	282.62	554.81	1.96	18.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-151	SPTBN2	H1720N	EVVAASNEL	EVVAASHEL	7	0.098	5/51	413.68	334.64	334.64	1.00	18.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-152	CNDP1	W342C	MHLCRYPSL	MHLWRYPSL	4	0.087	4/46	3292.62	775.99	775.99	1.00	18.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-153	RNF38	P453H	QLPSYRFNH	QLPSYRFNP	9	0.116	5/43	526.86	2271.69	29391.48	12.94	18.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-154	SHC1	G362V	LGVVVDMRL	LGGVVDMRL	3	0.081	3/37	4375.36	996.89	2271.69	2.28	17.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-155	CAPN3	W373L	WNGSWSDRL	WNGSWSDRW	9	0.091	4/44	1047.28	1508.90	42907.45	28.44	17.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-156	CTR9	A292S	YSKVQHLSL	YSKVQHLAL	8	0.079	3/38	2063.40	431.01	431.01	1.00	17.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-157	FMR1	L421M	VLLDYHMNY	VLLDYHLNY	7	0.089	4/45	525.43	121.19	66.92	0.55	17.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-158	GALC	G104C	HILKVEIGC	HILKVEIGG	9	0.105	4/38	554.80	1778.56	11797.62	6.63	17.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-159	PDCD4	P420T	DVTHSYSVL	DVPHSYSVL	3	0.086	3/35	2516.04	1177.27	2670.17	2.27	16.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-160	IGF1R	P1304H	HLDPSASSS	PLDPSASSS	1	0.088	3/34	5119.27	1778.56	3971.93	2.23	16.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-161	KDM4A	P887H	CFRHKIHNL	CFRHKIPNL	7	0.125	4/32	2164.40	2893.35	2893.35	1.00	16.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-162	PHKA2	R62S	GLGMAYSKN	GLGMAYRKN	7	0.105	4/38	753.45	996.89	996.89	1.00	16.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-163	LRFN1	R363M	TLMDSGTFT	TLRDSGTFT	3	0.093	4/43	324.14	510.06	1177.27	2.31	16.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-164	ABRAXAS2	P352H	GLKYHGSGA	GLKYPGSGA	5	0.102	5/49	327.01	775.99	1778.56	2.29	16.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-165	MYBBP1A	E612D	LLKSPADSC	LLKSPAESC	7	0.091	3/33	5023.73	1778.56	2670.17	1.50	16.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-166	ASXL2	G1324W	QIWPSYRGM	QIGPSYRGM	3	0.086	3/35	933.38	1083.41	4639.65	4.28	16.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-167	BBS12	K347N	SNNPVINEL	SNNPVIKEL	7	0.130	3/23	67.34	431.01	431.01	1.00	16.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-168	PTPRE	H173N	ILPNDNSRV	ILPNDHSRV	6	0.097	3/31	55.52	61.47	61.47	1.00	16.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-169	SYNE1	R8700L	PLGKCSLSQ	PRGKCSLSQ	2	0.098	4/41	746.42	2271.69	49246.60	21.68	16.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-170	MYO7B	G2034W	AINRHWVLL	AINRHGVLL	6	0.333	5/15	2.51	102.28	102.28	1.00	15.9	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
-171	CDC37L1	G79C	KLCSLALHN	KLGSLALHN	3	0.115	3/26	80.95	307.54	307.54	1.00	15.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-172	PEX10	E263D	RASLDERAV	RASLEERAV	5	0.111	5/45	579.65	1279.04	1279.04	1.00	15.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-173	EXT2	H623N	NMNCEDIAM	HMNCEDIAM	1	0.083	3/36	1899.00	843.67	843.67	1.00	15.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-174	KMT2A	S1384Y	TLNILSTLY	TLNILSTLS	9	0.104	5/48	984.96	1389.36	1389.36	1.00	15.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-175	PLIN2	P336Q	NIQGVQQNI	NIQGVPQNI	6	0.083	3/36	1570.56	917.14	1389.36	1.51	15.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-176	RDH13	S249Y	GSTFYSTTL	GSTFSSTTL	5	0.094	5/53	497.13	996.89	2670.17	2.68	15.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-177	MT2A	C33R	KSRCSCCPV	KSCCSCCPV	3	0.208	10/48	546.92	7277.12	7277.12	1.00	15.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-178	IRAK2	R566L	LLVIVGREA	LRVIVGREA	2	0.079	3/38	54.08	121.19	38470.65	317.44	15.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-179	UTP15	P32H	NNYKTHVQI	NNYKTPVQI	6	0.103	4/39	412.97	1083.41	1638.38	1.51	15.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-180	PRDM4	R382S	TLCDSAYPS	TLCDRAYPS	5	0.103	4/39	614.61	1177.27	1177.27	1.00	15.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-181	ITGAX	H990N	VSNPQNPSL	VSHPQNPSL	3	0.115	3/26	208.45	996.89	996.89	1.00	14.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-182	NBEAL2	P1907Q	ELAELETQM	ELAELETPM	8	0.102	5/49	340.26	1177.27	2271.69	1.93	14.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-183	PLCH2	R531L	SLIKESKIL	SLIKESKIR	9	0.129	4/31	5.37	28.62	18935.82	661.63	14.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-184	MAST1	Q618K	ALPTEAKLL	ALPTEAQLL	7	0.101	8/79	34.38	79.30	79.30	1.00	14.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-185	UGT8	L55I	FILSEGRDI	FLLSEGRDI	2	0.125	4/32	58.74	170.10	33.92	0.20	14.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-186	RAPGEF2	R233S	AQQDYCSIL	AQQDYCRIL	7	0.091	3/33	611.39	917.14	917.14	1.00	14.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-187	GRHL3	P551T	FTEENIYKV	FPEENIYKV	2	0.138	4/29	6.45	86.32	2463.30	28.54	14.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-188	DUSP9	G285V	ALSQNCVVL	ALSQNCGVL	7	0.086	3/35	23.28	28.62	79.30	2.77	14.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-189	NKAIN1	G112W	WMENWPGCL	WMENGPGCL	5	0.125	4/32	74.86	364.11	307.54	0.84	14.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-190	TUBGCP2	E597D	AIETKQDKA	AIETKQEKA	7	0.094	3/32	1089.43	1778.56	2670.17	1.50	14.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-191	SLC7A2	P648H	NLSSHFIFH	NLSSPFIFH	5	0.089	4/45	2051.58	2271.69	5010.02	2.21	14.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-192	ZNF462	R1709S	YTNPISKGL	YTNPIRKGL	6	0.079	3/38	311.96	334.64	334.64	1.00	13.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-193	SDK2	K863N	NFTEYFTSV	KFTEYFTSV	1	0.083	3/36	3873.93	996.89	656.27	0.66	13.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-194	ITGAE	G558C	CSFSLARIL	GSFSLARIL	1	0.103	7/68	205.23	396.16	259.71	0.66	13.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-195	NPR2	G265C	SLRACPTRA	SLRAGPTRA	5	0.097	3/31	259.31	396.16	334.64	0.84	13.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-196	NFIX	G147V	GIPLESTDV	GIPLESTDG	9	0.148	4/27	19.34	1083.41	44736.53	41.29	13.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-197	USP2	L71I	RTYGPSSIL	RTYGPSSLL	8	0.119	5/42	395.77	1279.04	1083.41	0.85	13.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-198	HP1BP3	P417H	FQLCFPYYH	FQLCFPYYP	9	0.094	3/32	1688.75	4294.04	36894.21	8.59	13.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-199	ETV5	G3W	MDWFYDQQV	MDGFYDQQV	3	0.107	3/28	8422.64	6764.35	20972.88	3.10	13.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-200	KANSL3	R111M	HVIFAMTDA	HVIFARTDA	6	0.081	3/37	1117.84	1177.27	1177.27	1.00	13.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-201	UTRN	L1567F	LSATETEFV	LSATETELV	8	0.129	4/31	460.96	2271.69	1930.26	0.85	12.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-202	ATP6V1B2	G466C	AQCPYENRT	AQGPYENRT	3	0.098	5/51	1823.07	2893.35	2893.35	1.00	12.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-203	ACACB	P540T	PATIATLAI	PATIAPLAI	6	0.081	3/37	604.59	1279.04	2893.35	2.26	12.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-204	AOC3	E628D	SWDRYQLAV	SWERYQLAV	3	0.100	4/40	265.04	1279.04	1279.04	1.00	12.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-205	SUGT1	L99I	KNYAAAIET	KNYAAALET	7	0.105	4/38	972.06	1778.56	1389.36	0.78	12.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-206	CDC42EP1	W351C	VLPQARASC	VLPQARASW	9	0.083	3/36	1056.59	2670.17	11797.62	4.42	12.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-207	RPL4	W67C	ESCGTGRAV	ESWGTGRAV	3	0.086	3/35	95410.10	3971.93	917.14	0.23	12.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-208	NOX5	A216T	AAHWLTAPT	AAHWLTAPA	9	0.684	26/38	20.14	10334.45	5010.02	0.48	12.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-209	ZNF839	P785H	ILSHPGTIV	ILSPPGTIV	4	0.081	3/37	157.24	143.58	61.47	0.43	12.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-210	POLQ	L1982F	LLLSCGISF	LLLSCGISL	9	0.086	3/35	146.85	156.28	4.41	0.03	11.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-211	ACAD11	P196T	AAAHQDITA	AAAHQDIPA	8	0.081	3/37	369.27	1508.90	5406.43	3.58	11.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-212	NAA30	P118H	ATHDGGPRA	ATPDGGPRA	3	0.125	3/24	342.76	4294.04	9009.95	2.10	11.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-213	SLIT2	Q1042K	KLDFCAKDL	KLDFCAQDL	7	0.100	3/30	22.92	121.19	121.19	1.00	11.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-214	CETN2	M10I	SNFKKANIA	SNFKKANMA	8	0.093	4/43	654.01	2094.33	2094.33	1.00	11.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-215	KATNIP	G564W	QLWDFHLAK	QLGDFHLAK	3	0.079	3/38	678.01	2271.69	9009.95	3.97	11.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-216	ERCC5	P909H	KIRPNHHDT	KIRPNPHDT	6	0.098	4/41	1106.38	3672.03	5406.43	1.47	11.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-217	CENPE	P620T	YSLESIEDT	YSLESIEDP	9	0.102	5/49	167.26	3393.11	41808.48	12.32	11.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-218	STIL	G82C	SSCFLLCSL	SSCFLLGSL	7	0.083	4/48	144.34	603.43	603.43	1.00	11.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-219	ZFP90	L325I	KAFQRSSSI	KAFQRSSSL	9	0.079	3/38	448.78	554.81	238.65	0.43	10.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-220	ATP8B1	G457W	KTWTLTQNI	KTGTLTQNI	3	0.090	6/67	43.34	603.43	2670.17	4.42	10.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-221	PDLIM2	H24N	NTPIMVTKV	HTPIMVTKV	1	0.103	3/29	104.58	1279.04	1279.04	1.00	10.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-222	TICAM1	G424W	ALGVPDWAT	ALGVPDGAT	7	0.100	3/30	198.78	1778.56	1778.56	1.00	10.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-223	ARHGEF37	G259W	QLLKQEAWL	QLLKQEAGL	8	0.118	4/34	7.16	43.77	43.77	1.00	10.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-224	RANBP10	Q564H	PIHREPVCA	PIQREPVCA	3	0.111	3/27	1527.22	5830.15	5830.15	1.00	10.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-225	PCDH1	G1007W	FVGTWDTTS	FVGTGDTTS	5	0.104	5/48	1706.30	3672.03	3133.95	0.85	10.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-226	MACROD2	Q59K	ENTKETSQV	ENTQETSQV	4	0.121	4/33	429.44	5010.02	5830.15	1.16	10.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-227	KIF26A	G448W	CSWTVADVL	CSGTVADVL	3	0.100	4/40	23.28	603.43	2670.17	4.42	10.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-228	MEI1	G898E	RLLVEHEAS	RLLVEHGAS	7	0.246	17/69	8.95	1508.90	996.89	0.66	10.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-229	MYO5C	E43D	LLLDDGTEL	LLLEDGTEL	4	0.083	3/36	16.83	15.79	12.24	0.78	10.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-230	UBTD1	Q205H	LLTDRTRLH	LLTDRTRLQ	9	0.081	3/37	195.56	1083.41	1083.41	1.00	10.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-231	PRKAA1	E205D	DVDIWSSGV	EVDIWSSGV	1	0.077	3/39	574.50	1778.56	1778.56	1.00	10.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-232	REPS2	G211C	PLSHCYSKL	PLSHGYSKL	5	0.088	3/34	37.61	156.28	131.91	0.84	9.8	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-233	ADHFE1	D390N	ILGANTRTA	ILGADTRTA	5	0.097	23/238	16.83	170.10	170.10	1.00	9.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-234	EXOC1	S490Y	SQSYSLLDM	SQSSSLLDM	4	0.103	3/29	783.31	5010.02	5010.02	1.00	9.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-235	EEA1	G51V	KSLVSADEL	KSLGSADEL	4	0.079	3/38	278.30	775.99	510.06	0.66	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-236	MYLIP	Q429K	HVKHVYLPT	HVQHVYLPT	3	0.083	3/36	1495.34	3971.93	3971.93	1.00	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-237	ZFP41	R104H	HIHHQRVHT	HIRHQRVHT	3	0.092	16/174	1236.87	4639.65	4639.65	1.00	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-238	FBLN5	G175C	YCYCQQLCA	YGYCQQLCA	2	0.091	4/44	25.07	775.99	3971.93	5.12	9.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-239	TLE1	L203M	LMVPDSLRG	LLVPDSLRG	2	0.097	3/31	67.34	656.27	431.01	0.66	9.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-240	TTN	P6820H	TVQEPHSFV	TVQEPPSFV	6	0.081	3/37	39.91	468.88	713.66	1.52	9.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-241	ZFHX4	T2889R	RFRRQMSNL	RFRTQMSNL	4	0.098	11/112	585.96	5406.43	6282.39	1.16	8.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-242	NEFH	P815Q	IQKKEEVKS	IPKKEEVKS	2	0.083	4/48	6092.41	9654.93	42374.18	4.39	8.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-243	LRP3	P207H	PASEHPGSL	PASEPPGSL	5	0.079	3/38	823.95	4294.04	9009.95	2.10	8.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-244	FXR2	E339D	KNPRDEGMV	KNPREEGMV	5	0.100	3/30	1469.91	7277.12	7277.12	1.00	8.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-245	GBP3	L348I	ETIQELLDL	ETLQELLDL	3	0.100	4/40	25.43	364.11	282.62	0.78	8.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-246	NIPBL	M1480I	DIDGEPMYI	DMDGEPMYI	2	0.088	3/34	1006.81	3133.95	996.89	0.32	8.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-247	PCDHA11	P620Q	IQFRVGLYT	IPFRVGLYT	2	0.080	4/50	33.00	1279.04	18935.82	14.80	8.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-248	TRIM52	G36W	WHNFCRGCV	GHNFCRGCV	1	0.097	3/31	94.91	2670.17	3971.93	1.49	8.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-249	FOXG1	P216H	FIMKNFHYY	FIMKNFPYY	7	0.105	4/38	98.85	3133.95	3133.95	1.00	8.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-250	NABP2	P171H	HSHPPSTRI	PSHPPSTRI	1	0.088	3/34	1530.44	7277.12	14247.89	1.96	8.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-251	NPHP4	W1153L	AIRLPPLHT	AIRLPPWHT	7	0.095	4/42	268.27	5406.43	15129.44	2.80	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-252	TPD52L1	P170H	HNGGSFEEV	PNGGSFEEV	1	0.098	5/51	345.99	5830.15	11797.62	2.02	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-253	CATSPERT	G72W	GTWHRLLNM	GTGHRLLNM	3	0.083	3/36	31.88	1177.27	5010.02	4.26	7.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-254	KMT2D	G78W	PSLHWQREL	PSLHGQREL	5	0.077	3/39	4169.01	5010.02	4294.04	0.86	7.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-255	RGS20	A193S	AAQDTPGSA	AAQDTPGAA	8	0.086	3/35	1157.59	6282.39	6282.39	1.00	7.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-256	TSC1	G305W	NSYWCATST	NSYGCATST	4	0.111	3/27	719.91	6764.35	4639.65	0.69	7.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-257	TBX18	G556V	FLVSSPSGT	FLGSSPSGT	3	0.087	4/46	15.76	510.06	1177.27	2.31	7.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-258	SFI1	P1070Q	GALSSAPGQ	GALSSAPGP	9	0.103	3/29	237.82	8399.08	42907.45	5.11	7.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-259	ZCCHC10	P4H	MATHMHRLI	MATPMHRLI	4	0.097	3/31	204.87	2893.35	1279.04	0.44	7.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-260	GRK5	H576N	NHNINSNHV	NHHINSNHV	3	0.098	4/41	317.69	5830.15	5830.15	1.00	7.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-261	PNLDC1	R476L	YLDHPTLCI	YRDHPTLCI	2	0.143	3/21	1.79	102.28	36894.21	360.72	7.3	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
-262	FNBP1L	E570D	VLYIIEDDK	VLYIIEEDK	7	0.081	3/37	972.06	6764.35	9654.93	1.43	7.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-263	UPF3A	S356Y	EYEAQRYHV	ESEAQRYHV	2	0.093	4/43	570.92	7277.12	7277.12	1.00	7.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-264	PLXNA1	G408W	CWQDFNQPL	CGQDFNQPL	2	0.091	3/33	9007.88	13397.97	17946.63	1.34	6.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-265	ABCA4	G1886W	WVVYFLLTL	GVVYFLLTL	1	0.107	3/28	1.79	3.14	4.81	1.53	6.8	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
-266	CAMK4	P205T	LMKTVCGTT	LMKTVCGTP	9	0.083	3/36	8.24	510.06	20972.88	41.12	6.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-267	DMRTA1	L248I	ISKSHQLYI	ISKSHQLYL	9	0.111	3/27	49.79	2271.69	996.89	0.44	6.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-268	PSTK	M258I	PVKYAEDNI	PVKYAEDNM	9	0.091	3/33	31.52	2670.17	11797.62	4.42	6.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-269	PACS1	P383T	MYNPSDSGT	MYNPSDSGP	9	0.130	3/23	1429.80	17946.63	48757.82	2.72	6.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-270	MRC2	G922C	PVCKDKKCV	PVGKDKKCV	3	0.081	3/37	50.86	1778.56	1778.56	1.00	6.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-271	ZEB1	G281V	HSVSYSSHI	HSGSYSSHI	3	0.077	3/39	87.39	2893.35	6282.39	2.17	6.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-272	TRPM6	G821V	GLESVHQHL	GLESGHQHL	5	0.081	3/37	7.88	156.28	201.49	1.29	6.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-273	PCDHA11	R742S	PTLVCSSAV	PTLVCSRAV	7	0.088	3/34	33.00	1778.56	1778.56	1.00	6.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-274	SRPX	G136C	GGFKCVDCA	GGFKCVDGA	8	0.081	3/37	1916.91	9009.95	9009.95	1.00	6.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-275	EBF1	P148Q	KNQEMCRVL	KNPEMCRVL	3	0.097	3/31	34.74	3393.11	7277.12	2.14	6.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-276	KAT5	R510M	FTPKDWSKM	FTPKDWSKR	9	0.088	3/34	565.58	11048.69	47965.05	4.34	6.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-277	SHROOM4	P1270H	GIHTSYSAY	GIPTSYSAY	3	0.103	4/39	376.07	11048.69	19945.61	1.81	6.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-278	DHX15	Q395K	LYSTLPPKQ	LYSTLPPQQ	8	0.125	4/32	2179.44	18935.82	31415.81	1.66	6.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-279	ASH2L	Q212K	TTRKRPGKM	TTRQRPGKM	4	0.103	3/29	751.43	12580.91	14247.89	1.13	5.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-280	MTCL1	G929W	PIGNLWKEL	PIGNLGKEL	6	0.083	4/48	18.27	1083.41	1083.41	1.00	5.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-281	MED15	Q732K	ADYPAKSPL	ADYPAQSPL	6	0.098	4/41	3733.52	12580.91	9009.95	0.72	5.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-282	ZNF2	W93R	ESVSLDRET	ESVSLDWET	7	0.222	22/99	213.11	23066.37	23066.37	1.00	5.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-283	KLHDC1	L306F	ACFGKENEI	ACLGKENEI	3	0.091	3/33	10.03	996.89	1508.90	1.51	5.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-284	JAM2	P226H	RCHGKRMQV	RCPGKRMQV	3	0.107	3/28	7.52	1778.56	3971.93	2.23	5.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-285	PAK3	E385D	AVCRDCLQA	AVCRECLQA	5	0.174	4/23	1.79	510.06	510.06	1.00	5.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-286	HCCS	P26Q	QMHEGKMKG	PMHEGKMKG	1	0.091	3/33	205.23	10334.45	18935.82	1.83	5.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-287	REPS2	Q186H	THSPTMSPL	TQSPTMSPL	2	0.094	3/32	37.61	3393.11	2893.35	0.85	4.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-288	PRMT7	P288H	SWWDIEMDH	SWWDIEMDP	9	0.085	4/47	1552.65	16980.87	46953.03	2.77	4.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-289	CUBN	G2753W	SVTVRNGWS	SVTVRNGGS	8	0.115	3/26	59.46	11048.69	11048.69	1.00	4.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-290	EIF2S2	G3V	SVDEMIFDP	SGDEMIFDP	2	0.182	4/22	3059.10	31415.81	49504.87	1.58	4.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-291	ABCA4	Q1475H	QLFHKQKWT	QLFQKQKWT	4	0.150	3/20	1.79	510.06	510.06	1.00	4.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-292	GATA1	G86W	PLLNCMEWI	PLLNCMEGI	8	0.103	3/29	2.87	431.01	431.01	1.00	4.1	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
-293	ZNF559	P324Q	RVHTGEKQY	RVHTGEKPY	8	0.094	3/32	209.88	14247.89	22014.32	1.55	4.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-294	GLIS3	P708H	CLVHTSMGQ	CLVPTSMGQ	4	0.129	4/31	4.30	1389.36	603.43	0.43	3.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-295	TRPM6	P1748H	SHLNLDKSM	SPLNLDKSM	2	0.097	3/31	7.88	4639.65	33353.91	7.19	3.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-296	PPP1R36	H61N	WLLKHHPNF	WLLKHHPHF	8	0.083	3/36	4.66	656.27	656.27	1.00	3.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-297	XPNPEP2	P582Q	KTKYQGSYL	KTKYPGSYL	5	0.100	3/30	6.81	3393.11	7277.12	2.14	3.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-298	GDF9	L281I	QAYHSWYSI	QAYHSWYSL	9	0.081	3/37	5.01	364.11	156.28	0.43	3.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.
-299	TMEM121B	H268N	HHNHAAPPL	HHHHAAPPL	3	0.120	3/25	7.52	5010.02	5010.02	1.00	3.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-300	ZNF33A	G502W	WKTFYHKSL	GKTFYHKSL	1	0.088	3/34	376.07	16980.87	22014.32	1.30	3.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-301	SMARCD3	H300N	KTNRLQDSN	KTNRLQDSH	9	0.100	3/30	806.59	20972.88	20972.88	1.00	3.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-302	SPTBN5	R1961S	ASVRQDLQV	ARVRQDLQV	2	0.083	3/36	1.79	282.62	7277.12	25.75	3.5	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
-303	PDE1C	G181V	SLNEASVDH	SLNEASGDH	7	0.107	6/56	1.79	510.06	1389.36	2.72	3.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-304	FBN1	G470W	RCIPTPWSY	RCIPTPGSY	7	0.125	4/32	250.00	22014.32	22014.32	1.00	3.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-305	USP43	E202D	RVHEDLDGS	RVHEDLEGS	7	0.111	3/27	7.88	5830.15	8399.08	1.44	3.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-306	CHST12	P115Q	SQDQGRQQA	SPDQGRQQA	2	0.099	7/71	487.46	22014.32	47404.65	2.15	3.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-307	GPRIN1	A697P	SLGKADSPP	SLGKADSAP	8	0.245	12/49	1140.04	34284.01	20972.88	0.61	3.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-308	PCDHGA9	L200M	AMDREEATA	ALDREEATA	2	0.097	3/31	3.39	656.27	431.01	0.66	3.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-309	XIRP1	P876H	DMDHELQQL	DMDPELQQL	4	0.091	3/33	2.87	364.11	156.28	0.43	3.0	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
-310	NRG3	P519Q	QQLEESRIQ	QQLEESRIP	9	0.100	4/40	498.93	24125.36	48272.19	2.00	3.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-311	ITGB7	G600V	CSVDMDSCI	CSGDMDSCI	3	0.079	3/38	13.25	6282.39	12580.91	2.00	2.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-312	CFAP251	L530M	KFYDHTMSI	KFYDHTLSI	7	0.114	4/35	1.79	431.01	238.65	0.55	2.8	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.
-313	PCDHGB6	P160H	PATDHDINI	PATDPDINI	5	0.086	3/35	7.16	4639.65	9654.93	2.08	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-314	NDUFS2	P64Q	AHWKPQPWN	AHWKPPPWN	6	0.083	3/36	4765.76	26248.96	31415.81	1.20	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-315	PLCH1	Q886H	RQLHGLKGL	RQLQGLKGL	4	0.111	3/27	1.43	603.43	603.43	1.00	2.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-316	RYR1	P2001Q	SQPQEQINM	SPPQEQINM	2	0.100	3/30	131.45	22014.32	47404.65	2.15	2.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-317	TEX11	G695W	EQWRKASTA	EQGRKASTA	3	0.129	4/31	1.43	3133.95	11797.62	3.76	2.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-318	CACNA1A	G411W	ILAEDETDW	ILAEDETDG	9	0.115	3/26	4.66	8399.08	11797.62	1.40	2.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-319	HYAL3	H362N	RCNGHGRCA	RCHGHGRCA	3	0.089	4/45	65.76	18935.82	18935.82	1.00	2.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-320	PIGV	P444T	LAEDSTPGQ	LAEDSPPGQ	6	0.083	3/36	183.74	23066.37	33353.91	1.45	2.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-321	MAOB	P277T	TLPMMRNQM	PLPMMRNQM	1	0.100	3/30	1.43	2670.17	10334.45	3.87	1.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-322	HECW1	P790T	SPEGLESTV	SPEGLESPV	8	0.100	3/30	5.73	15129.44	31415.81	2.08	1.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-323	CIMIP2B	K140N	RNDTEKDQV	RKDTEKDQV	2	0.106	5/47	1.79	12580.91	45485.09	3.62	1.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-324	COL4A6	P812Q	GTPGQVGQQ	GTPGQVGQP	9	0.079	3/38	5.37	29391.48	48856.73	1.66	0.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-325	ABCA4	D915Y	HYSFFEREH	HDSFFEREH	2	0.079	3/38	1.79	34284.01	49246.60	1.44	0.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
-326	BEND3	P691H	PLPHERSSK	PLPPERSSK	4	0.086	3/35	215.26	46700.55	42907.45	0.92	0.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).
+Rank	Gene	ProteinChange	Neopeptide_9mer	WT_9mer	MutPos	AF	Reads	TPM	MT_IC50_nM	Percentile_Rank	Presentation_Score	MHCflurry_IC50	NetMHCpan_IC50	WT_IC50_nM	Agretopicity	Score	ClinicalTier	Action	Predictor
+1	AP4B1	G525V	LLLVVIDEV	LLLVGIDEV	5	0.654	34/52	325.28	17.84	0.14	0.8513	31.5	10.1	14.41	0.81	100.0	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+2	TRIM28	R492C	SLECLDLDL	SLERLDLDL	4	0.449	22/49	24147.60	1560.17	5.29	0.0338	1828.2	1331.5	2136.08	1.37	99.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+3	MTHFD1	P843H	LLHEAQHKA	LLPEAQHKA	3	0.312	5/16	1374.83	122.05	1.10	0.7131	46.5	320.0	126.53	1.04	83.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+4	TNFRSF10B	R145L	FLEEDSPEM	FREEDSPEM	2	0.200	3/15	879.66	24.02	0.10	0.9716	30.5	18.9	8185.57	340.78	82.9	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+5	DYNC2H1	S590P	RQLPALGFV	RQLSALGFV	4	0.371	13/35	438.39	62.07	0.46	0.6640	67.1	57.4	54.23	0.87	79.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+6	UBE2M	R169W	SMWGGYIGS	SMRGGYIGS	3	0.219	14/64	1949.14	157.53	0.80	0.7785	135.5	183.1	8658.38	54.96	76.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+7	TMEM245	G754W	FLWTYWAAV	FLGTYWAAV	3	0.148	4/27	1634.31	4.34	0.04	0.9430	5.6	3.4	5.42	1.25	64.3	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+8	PCNX3	L1607I	SLEPFIYGL	SLEPFLYGL	6	0.182	4/22	1194.84	22.75	0.16	0.8886	27.7	18.7	24.36	1.07	61.2	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+9	GPR158	L535F	RMLAVILFV	RMLAVILLV	8	0.133	6/45	2328.59	5.10	0.02	0.9809	6.7	3.9	6.60	1.29	59.8	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+10	TRIM9	R655G	LLDLNGKNL	LLDLNRKNL	6	0.287	49/171	1023.28	572.23	2.74	0.4818	159.2	2057.2	1029.88	1.80	57.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+11	ZNF669	V232I	KFFISVPGV	KFFVSVPGV	4	0.932	137/147	136.10	792.54	2.73	0.1526	596.1	1053.6	726.21	0.92	54.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+12	PML	S388Y	RLQDLSYCI	RLQDLSSCI	7	0.120	3/25	1176.58	17.97	0.12	0.9254	22.2	14.5	130.87	7.28	52.3	Tier 1: High Priority (Vaccine Payload)	INCLUDE: High clonality, robust expression, strong HLA-A*02:01 presentation.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+13	NRAS	G12R	LVVVGARGV	LVVVGAGGV	7	0.758	116/153	3601.36	4599.74	11.69	0.0208	4599.7	50000.0	4168.15	0.91	51.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+14	CHD8	R1992H	YTSHTASPL	YTSRTASPL	4	0.250	5/20	1703.80	844.56	3.31	0.0750	814.8	875.5	1630.92	1.93	49.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+15	CHPF	E696Q	SQQEEELLE	SEQEEELLE	2	0.273	33/121	7691.62	2622.39	7.91	0.0295	2622.4	50000.0	4762.94	1.82	47.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+16	LRRC40	R506M	NMFKMLPEV	NRFKMLPEV	2	0.114	5/44	349.21	7.83	0.06	0.9325	10.6	5.8	5521.28	705.14	46.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+17	SFT2D1	W137L	FLSMTLYSL	FLSMTWYSL	6	0.130	3/23	353.87	5.49	0.06	0.9300	7.1	4.3	7.59	1.38	44.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+18	UBR4	R2353L	VMTGMLIQI	VMTGMRIQI	6	0.091	3/33	2762.54	32.12	0.25	0.8215	35.4	29.1	428.46	13.34	42.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+19	RNF2	Y120H	YPSRDEHEA	YPSRDEYEA	7	0.453	29/64	1078.44	6567.09	28.36	0.0097	6567.1	50000.0	13153.84	2.00	42.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+20	NBR1	Q353K	SLLKSNTLM	SLLQSNTLM	4	0.176	3/17	5585.60	300.86	1.78	0.2777	197.8	457.7	268.07	0.89	41.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+21	TRMT9B	G356C	FLDSTNTCV	FLDSTNTGV	8	0.156	5/32	307.67	9.40	0.04	0.9679	13.6	6.5	7.59	0.81	40.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+22	C2CD2	E314D	LMWEDEFTF	LMWEEEFTF	5	0.158	3/19	486.03	79.10	0.51	0.6201	104.4	60.0	103.25	1.31	39.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+23	SEPTIN9	E567D	RLNDGSSAM	RLNEGSSAM	4	0.143	3/21	18269.30	214.35	1.34	0.4379	147.0	312.5	156.49	0.73	39.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+24	ITPR3	D961Y	YIVVMETKL	DIVVMETKL	1	0.162	19/117	3762.92	1498.58	3.38	0.1137	1421.1	1580.2	13444.67	8.97	37.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+25	SMC1A	A382G	RLKEEGSKR	RLKEEASKR	6	0.824	14/17	2151.15	8603.86	37.65	0.0072	8603.9	50000.0	7799.13	0.91	35.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+26	FHIP2B	Q706K	TLLKGVVVL	TLLQGVVVL	4	0.129	4/31	522.92	45.07	0.28	0.8868	40.8	49.8	49.14	1.09	35.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+27	LGI4	G419V	FQAGVDVFL	FQAGGDVFL	5	0.088	3/34	2974.93	25.14	0.17	0.8569	35.9	17.6	40.41	1.61	34.5	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+28	ZNF32	G258W	FTQRWSLAV	FTQRGSLAV	5	0.121	4/33	430.16	93.86	0.60	0.6205	98.5	89.5	454.23	4.84	34.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+29	TRMT2B	W80L	SLQERLADV	SWQERLADV	2	0.105	4/38	227.79	30.24	0.23	0.8886	27.1	33.8	6952.38	229.91	33.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+30	RRP12	S774Y	AISKLYYTI	AISKLYSTI	7	0.114	4/35	1735.67	249.06	1.24	0.5957	180.4	343.9	1356.06	5.44	33.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+31	DYNC1I2	H536N	VMWSPTNPA	VMWSPTHPA	7	0.121	7/58	2491.76	42.05	0.30	0.8574	36.4	48.5	18.83	0.45	33.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+32	DOP1B	R1239L	RLVLYAFSV	RRVLYAFSV	2	0.098	5/51	147.56	10.79	0.10	0.9033	11.4	10.2	6791.02	629.38	33.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+33	GCN1	G2528W	RIPIAVSWV	RIPIAVSGV	8	0.182	4/22	2742.12	627.53	2.10	0.1959	686.5	573.6	444.65	0.71	32.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+34	ZC3H14	S333Y	GSISSSVYV	GSISSSVSV	8	0.174	4/23	661.89	648.93	2.68	0.1279	527.8	797.8	1219.38	1.88	32.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+35	PARP6	R559L	SLNLNCIAL	SRNLNCIAL	2	0.114	4/35	565.90	198.77	1.18	0.3301	237.6	166.3	11229.55	56.50	32.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+36	CHKA	G173V	FQVAEAMVL	FQGAEAMVL	3	0.148	4/27	525.43	317.96	1.37	0.4096	310.6	325.4	829.94	2.61	32.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+37	GPRIN1	A697P	LGKADSPPS	LGKADSAPS	7	0.245	12/49	1140.04	2980.35	5.82	0.0412	2980.3	50000.0	5016.60	1.68	31.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+38	RCE1	R157S	VLAPRSWAS	VLAPRSWAR	9	0.176	3/17	210.60	760.63	1.88	0.3017	975.6	593.0	6092.26	8.01	31.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+39	POLR1A	G76V	VQDFSNCSV	VQDFSNCSG	9	0.104	5/48	1981.02	378.82	1.78	0.3312	256.2	560.2	20821.62	54.96	30.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+40	SYN3	G400V	KMSQLPMPV	KMSQLPMPG	9	0.089	5/56	157.59	9.93	0.12	0.8425	16.2	6.1	2584.62	260.28	30.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+41	FBXL18	G651W	HLFTWESLA	HLFTGESLA	5	0.097	3/31	1192.34	82.09	0.59	0.7527	56.8	118.6	256.25	3.12	30.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+42	SETBP1	G1334W	WMPSPHLKV	GMPSPHLKV	1	0.150	3/20	226.72	175.01	1.10	0.4236	154.8	197.9	327.40	1.87	30.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+43	PCDHGA3	R403C	SIDQYYCLV	SIDQYYRLV	7	0.317	20/63	7.52	117.62	0.80	0.4463	138.0	100.3	522.83	4.45	30.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+44	SNTB1	G24W	AQRSWLLEV	AQRSGLLEV	5	0.094	3/32	2601.36	121.79	0.63	0.9424	87.8	169.0	282.29	2.32	29.8	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+45	CDC42BPB	M1444I	LLCFSHIGL	LLCFSHMGL	7	0.111	4/36	1757.88	165.89	1.18	0.3313	166.3	165.5	165.50	1.00	29.1	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+46	UBXN11	G224V	TQVTPVPGV	TQVTPVPGG	9	0.125	3/24	164.76	170.58	0.98	0.7373	109.2	266.5	9223.84	54.07	29.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+47	MARCHF7	S303Y	YLNTRSLNS	SLNTRSLNS	1	0.247	19/77	1683.38	4726.84	12.40	0.0197	4726.8	50000.0	10802.16	2.29	29.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+48	FANCD2	M197I	KIIQLISIA	KIMQLISIA	3	0.246	16/65	343.84	966.96	3.29	0.1603	494.4	1891.3	233.85	0.24	28.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+49	TRAPPC11	L517I	YITYSIELL	YITYSLELL	6	0.121	4/33	677.29	209.25	1.34	0.2484	256.4	170.8	252.18	1.21	27.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+50	SORL1	S432Y	YMNEENMRS	SMNEENMRS	1	0.097	3/31	3268.62	626.88	2.51	0.1798	434.2	905.1	4681.55	7.47	26.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+51	TENT5B	G230C	ILDSLLLFC	ILDSLLLFG	9	0.148	4/27	75.21	221.49	1.48	0.3660	141.5	346.8	1345.14	6.07	26.4	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+52	RNF123	F211L	TLSLCLNGV	TLSFCLNGV	4	0.095	4/42	1218.12	25.18	0.28	0.7341	30.7	20.7	14.76	0.59	26.3	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+53	POFUT3	R269M	SMDADGFYM	SMDADGFYR	9	0.085	4/47	181.59	30.96	0.33	0.6779	41.8	22.9	7151.40	230.99	26.2	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+54	PKN1	R623L	GLGHFGKVL	GRGHFGKVL	2	0.125	4/32	3655.80	2075.83	4.69	0.1731	972.6	4430.5	22418.92	10.80	26.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+55	CARNMT1	H347N	LLYNFENLA	LLYHFENLA	4	0.111	4/36	169.41	41.37	0.36	0.6857	54.0	31.7	64.61	1.56	26.0	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+56	OSBPL8	S147Y	ITDPYVIVM	ITDPSVIVM	5	0.129	4/31	883.95	438.86	1.84	0.9230	155.0	1242.6	532.55	1.21	25.9	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+57	ZNF532	P454Q	FLQVSAVKT	FLPVSAVKT	3	0.138	4/29	2710.24	1070.66	3.12	0.1091	968.8	1183.3	1171.39	1.09	25.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+58	LRFN1	R363M	LMDSGTFTC	LRDSGTFTC	2	0.093	4/43	324.14	128.38	1.03	0.4459	102.3	161.1	17244.02	134.32	25.7	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+59	PRIM2	M125I	FIQQEIDLL	FIQQEMDLL	6	0.125	5/40	250.36	206.07	1.18	0.6031	136.2	311.9	503.26	2.44	25.6	Tier 2: Secondary / Backup	BACKUP: Moderate clonality or expression. Viable secondary target.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+60	CDK5	A196G	CIFAELGNA	CIFAELANA	7	0.214	15/70	650.43	1163.63	4.64	0.0366	1724.3	785.2	166.79	0.14	25.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+61	ZNF532	H954N	LMMDNIKSM	LMMDHIKSM	5	0.083	3/36	2710.24	39.06	0.30	0.8489	35.2	43.4	32.10	0.82	24.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+62	TBC1D9B	W87L	HLEWLENNL	HWEWLENNL	2	0.111	4/36	3125.00	1588.86	3.35	0.1108	1665.5	1515.8	16529.21	10.40	24.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+63	SERTAD3	R48L	SLGPLAPSL	SLGPRAPSL	5	0.088	3/34	348.14	37.82	0.31	0.8501	27.5	52.0	78.50	2.08	24.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+64	MRPL41	P58Q	VQEFVVPDL	VPEFVVPDL	2	0.207	6/29	412.97	2775.57	6.63	0.0630	1262.7	6101.2	7262.87	2.62	24.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+65	LRCH1	L148M	LQMLTYMNL	LQMLTYLNL	7	0.100	3/30	991.76	187.45	1.30	0.2657	200.1	175.6	264.85	1.41	24.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+66	CAMTA1	P1178H	AQLGQNHRI	AQLGQNPRI	7	0.176	6/34	209.17	393.34	1.91	0.9032	119.7	1292.8	342.50	0.87	24.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+67	FMR1	L421M	LLDYHMNYL	LLDYHLNYL	6	0.089	4/45	525.43	14.38	0.06	0.9719	20.3	10.2	11.30	0.79	23.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+68	PRR12	P242Q	HLQTQFNLL	HLPTQFNLL	3	0.115	3/26	2298.71	728.54	2.54	0.1521	678.4	782.4	843.10	1.16	23.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+69	SLC43A3	G77W	SLIFTLWSF	SLIFTLGSF	7	0.111	4/36	1026.17	767.18	3.11	0.0833	738.8	796.7	3416.00	4.45	23.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+70	NOX5	A216T	WLTAPTPRP	WLTAPAPRP	6	0.684	26/38	20.14	2735.67	4.27	0.0612	2735.7	50000.0	2534.90	0.93	23.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+71	RELCH	P908H	VLTKATVHI	VLTKATVPI	8	0.133	4/30	412.61	169.61	1.24	0.5426	89.5	321.6	89.15	0.53	23.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+72	MEGF8	W2744C	GGPCGPMGG	GGPWGPMGG	4	0.143	3/21	5277.94	2524.93	10.18	0.0236	2524.9	50000.0	3023.00	1.20	22.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+73	ZSCAN22	W108L	ALPPEIQAL	ALPPEIQAW	9	0.079	3/38	231.73	73.41	0.53	0.8951	39.8	135.4	4863.95	66.26	22.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+74	PTPRN2	R927S	SLLDFSRKV	SLLDFRRKV	6	0.120	3/25	21.51	12.80	0.06	0.9722	15.6	10.5	49.74	3.89	22.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+75	LTN1	P142H	QLAHYLKSL	QLAPYLKSL	4	0.111	4/36	1003.22	179.88	1.22	0.4109	136.7	236.8	76.42	0.42	21.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+76	RAF1	R143L	FALKTFLKL	FARKTFLKL	3	0.083	3/36	1654.73	619.48	1.89	0.4386	472.5	812.2	7764.82	12.53	21.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+77	SEMA3E	G579W	FVWDALDKT	FVGDALDKT	3	0.111	4/36	69.84	181.13	1.33	0.6587	71.8	457.1	2847.59	15.72	21.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+78	CYP27A1	R323L	GQLSPLEAM	GQLSPREAM	6	0.082	6/73	4114.26	806.91	3.00	0.1491	485.7	1340.6	4288.64	5.31	21.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+79	GARIN2	L170I	TLFSQWVAI	TLFSQWVAL	9	0.158	3/19	36.17	45.78	0.41	0.6837	49.9	42.0	38.80	0.85	21.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+80	ADGRV1	R3087I	LIEPTALYV	LREPTALYV	2	0.125	4/32	57.66	290.63	1.27	0.4998	271.2	311.4	11170.37	38.44	21.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+81	TUBGCP6	G875W	AVWAGGRGL	AVGAGGRGL	3	0.101	7/69	751.07	885.42	2.35	0.6518	468.5	1673.2	5181.93	5.85	20.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+82	PRKX	P107Q	VLKEVSHQF	VLKEVSHPF	8	0.143	4/28	260.75	940.19	3.62	0.6727	231.4	3820.7	1592.51	1.69	20.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+83	CINP	R133L	KLPPLFHTW	KRPPLFHTW	2	0.111	4/36	423.71	1110.70	4.57	0.8138	208.5	5917.1	10542.93	9.49	20.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+84	KIFC3	G384W	TLTNDYNWL	TLTNDYNGL	8	0.109	5/46	1338.83	870.02	3.25	0.0660	1249.8	605.6	1312.88	1.51	20.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+85	PACS1	P383T	TEMEETESI	PEMEETESI	1	0.130	3/23	1429.80	2541.07	10.34	0.2159	443.2	14568.5	8917.58	3.51	20.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+86	SULF2	A242T	RLFPNTSQH	RLFPNASQH	6	0.143	10/70	2451.29	2944.50	1.61	0.2266	2944.5	50000.0	3710.45	1.26	19.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+87	TTN	G14543A	PPKNDGASR	PPKNDGGSR	7	0.506	124/245	39.91	9156.53	45.31	0.0059	9156.5	50000.0	11706.19	1.28	19.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+88	DIS3	R638L	VLFHMDSET	VRFHMDSET	2	0.081	3/37	2213.82	1033.51	3.46	0.0859	850.0	1256.7	31179.17	30.17	19.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+89	KATNIP	G564W	RQLWDFHLA	RQLGDFHLA	4	0.079	3/38	678.01	124.06	0.85	0.7663	70.2	219.2	126.42	1.02	19.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+90	CFLAR	Y119D	FLMKDDMGR	FLMKDYMGR	6	0.139	5/36	400.07	1247.42	3.57	0.1155	821.8	1893.4	1243.48	1.00	18.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+91	CWF19L2	G208C	CLPPEDCSV	GLPPEDCSV	1	0.125	4/32	259.31	253.76	1.58	0.2373	244.0	263.9	135.92	0.54	18.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+92	PTBP1	P67H	KLHIDVTEG	KLPIDVTEG	3	0.148	4/27	6402.58	3251.87	5.75	0.0419	3251.9	50000.0	2937.25	0.90	18.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+93	MT2A	C33R	KSRCSCCPV	KSCCSCCPV	3	0.208	10/48	546.92	2920.11	7.42	0.0410	1422.9	5992.9	1026.38	0.35	18.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+94	HNRNPA3	H122N	NLTVKKIFV	HLTVKKIFV	1	0.102	5/49	6652.58	989.36	2.58	0.2576	776.2	1261.0	864.61	0.87	18.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+95	PERP	G101V	ILSFFALCV	ILSFFALCG	9	0.107	3/28	13.97	19.42	0.24	0.7335	30.0	12.6	4722.71	243.19	18.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+96	PLAA	Q679K	LMMSKRESL	LMMSQRESL	5	0.094	3/32	612.82	147.95	1.08	0.5441	94.2	232.4	101.38	0.69	18.1	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+97	SYDE1	R453L	ELDSAAVCL	ERDSAAVCL	2	0.121	4/33	325.93	2024.73	4.04	0.1339	1436.3	2854.2	17431.72	8.61	17.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+98	ZNF510	G596V	RVHQRIHTV	RVHQRIHTG	9	0.086	3/35	176.22	351.61	2.04	0.4921	116.5	1061.5	23390.43	66.52	17.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+99	SUGP1	H148N	YSNAKQLPV	YSHAKQLPV	3	0.108	4/37	412.97	737.68	2.82	0.1036	723.1	752.6	1115.17	1.51	17.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+100	AOC3	E628D	FSWDRYQLA	FSWERYQLA	4	0.100	4/40	265.04	318.41	1.69	0.4341	162.5	624.1	359.32	1.13	17.5	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+101	PAXX	L89M	TMQEDRASL	TLQEDRASL	2	0.129	4/31	196.28	355.59	1.82	0.4086	181.7	695.8	216.92	0.61	17.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+102	GPR108	P373H	KVFGIVIHM	KVFGIVIPM	8	0.093	4/43	376.79	118.29	0.65	0.9203	89.7	156.1	80.73	0.68	17.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+103	DTX3L	L727M	YMKRVKEEL	YLKRVKEEL	2	0.121	4/33	414.04	509.96	2.13	0.2179	395.9	656.8	301.71	0.59	17.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+104	COL6A3	G227V	SSVSPERAV	SSVSPERAG	9	0.104	7/67	11245.30	4612.16	15.06	0.0168	4612.2	50000.0	19004.22	4.12	16.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+105	HUWE1	H3871N	EESNDQHAV	EESHDQHAV	4	0.133	4/30	4963.11	4650.88	22.18	0.0122	4650.9	50000.0	5434.10	1.17	16.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+106	UBE4B	P66T	NMTPATSTI	NMTPATSPI	8	0.111	3/27	1707.02	914.69	3.19	0.1415	537.5	1556.5	416.25	0.46	16.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+107	GRHL3	P551T	FTEENIYKV	FPEENIYKV	2	0.138	4/29	6.45	27.57	0.17	0.9786	22.0	34.6	1806.99	65.54	16.6	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+108	KIF1B	K1302N	IIHENGSEL	IIHEKGSEL	5	0.116	5/43	1446.99	1382.82	3.76	0.4198	527.0	3628.3	1333.20	0.96	16.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+109	PELP1	L72I	HLPGLMCIL	HLPGLMCLL	8	0.086	3/35	3724.57	509.16	2.33	0.1864	348.1	744.8	135.10	0.27	16.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+110	NAA30	P20Q	LPPPAPPAQ	LPPPAPPAP	9	0.182	4/22	342.76	2576.80	44.04	0.3570	153.7	43214.3	1403.54	0.54	16.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+111	ACACB	P540T	ATLAIFEFM	APLAIFEFM	2	0.081	3/37	604.59	1100.28	3.74	0.0592	1344.0	900.7	11414.41	10.37	15.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+112	TUBGCP2	E597D	KQDKAMAHA	KQEKAMAHA	3	0.094	3/32	1089.43	1811.96	5.19	0.0690	914.3	3590.9	8385.53	4.63	15.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+113	VPS26B	P245Q	SIQIRLFLA	SIPIRLFLA	3	0.114	4/35	1111.75	1136.92	2.29	0.3290	1181.0	1094.5	884.83	0.78	15.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+114	ACP2	E380D	ADTDVIVAL	ADTEVIVAL	4	0.150	3/20	926.58	2722.91	11.93	0.4467	402.9	18400.4	2197.66	0.81	15.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+115	SLMAP	R11L	SALAIFTCL	SALAIFTCR	9	0.079	3/38	652.58	1148.27	2.64	0.5315	660.4	1996.5	12549.38	10.93	15.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+116	PRDM4	R382S	TLCDSAYPS	TLCDRAYPS	5	0.103	4/39	614.61	1251.12	4.45	0.0476	1248.9	1253.3	1731.03	1.38	15.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+117	HP1BP3	P417H	FPYYHSPGV	FPYYPSPGV	5	0.094	3/32	1688.75	1530.34	3.68	0.2763	753.2	3109.1	1972.74	1.29	15.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+118	ZDHHC3	L217I	IILLCFEGL	LILLCFEGL	1	0.083	3/36	1540.47	452.08	2.29	0.1330	446.1	458.2	405.28	0.90	15.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+119	DHX34	Q476H	LQRLHEFWI	LQRLQEFWI	5	0.118	4/34	1450.93	2904.03	8.74	0.0270	2904.0	50000.0	3420.98	1.18	15.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+120	MID2	H198N	CLDNENEKV	CLDHENEKV	4	0.121	4/33	104.23	329.39	1.88	0.3690	149.2	727.1	291.22	0.88	14.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+121	TJP1	Q70H	GQLHENDRV	GQLQENDRV	4	0.097	3/31	1253.94	1529.58	4.19	0.3575	537.1	4356.3	1720.06	1.12	14.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+122	SLC45A2	R299S	SAMTLKSLL	RAMTLKSLL	1	0.111	4/36	3138.97	3492.43	8.48	0.0969	1246.3	9786.5	4226.87	1.21	14.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+123	UNC13D	L605M	AMARVQRAV	ALARVQRAV	2	0.086	3/35	340.62	177.53	0.98	0.7343	115.2	273.6	137.39	0.77	14.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+124	PTPN2	T261N	GLIQNPDQL	GLIQTPDQL	5	0.097	3/31	301.93	304.99	1.53	0.6066	151.8	612.9	227.78	0.75	14.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+125	PTPRE	H173N	ILPNDNSRV	ILPNDHSRV	6	0.097	3/31	55.52	139.42	0.90	0.6470	109.8	176.9	178.92	1.28	14.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+126	ATP8B1	G457W	KTWTLTQNI	KTGTLTQNI	3	0.090	6/67	43.34	268.61	1.27	0.6847	168.9	427.1	5586.29	20.80	14.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+127	EPS15L1	Q514K	RLQQEETKL	RLQQEETQL	8	0.083	3/36	820.20	356.13	1.97	0.8833	93.3	1359.7	231.55	0.65	14.2	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+128	NBEAL2	P1907Q	ELAELETQM	ELAELETPM	8	0.102	5/49	340.26	1137.40	4.05	0.3186	328.1	3942.6	1447.60	1.27	14.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+129	DNTTIP2	R123M	SSVMKKPKV	SSVRKKPKV	4	0.143	5/35	1595.99	5747.35	15.38	0.0166	5747.4	50000.0	6437.47	1.12	14.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+130	NKAIN1	G112W	WMENWPGCL	WMENGPGCL	5	0.125	4/32	74.86	1255.58	4.54	0.0435	1378.0	1144.0	3378.47	2.69	13.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+131	PATZ1	G298C	LCCKVFTDA	LCGKVFTDA	3	0.111	3/27	2016.12	3969.58	17.55	0.0149	3969.6	50000.0	4744.70	1.20	13.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+132	GBA2	G198W	CLRREWQTV	CLRREGQTV	6	0.100	3/30	798.37	2401.66	5.46	0.0463	2046.9	2817.9	4339.34	1.81	13.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+133	MYCBP	P38Q	ALYEEQEKP	ALYEEPEKP	6	0.119	5/42	529.37	1661.18	5.45	0.4317	389.0	7094.1	1033.19	0.62	13.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+134	TLN1	G2039W	WSQEKLAQA	GSQEKLAQA	1	0.089	5/56	8409.74	3622.94	7.54	0.0922	1738.2	7551.1	3746.87	1.03	13.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+135	ZNF2	W93R	LDRETKPEI	LDWETKPEI	3	0.222	22/99	213.11	5828.85	31.77	0.1210	921.4	36875.0	2899.89	0.50	13.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+136	MAP3K1	R270S	VSRKRVSPV	VRRKRVSPV	2	0.136	3/22	737.82	6173.11	30.03	0.0092	6173.1	50000.0	17819.48	2.89	13.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+137	TICAM1	G424W	ALGVPDWAT	ALGVPDGAT	7	0.100	3/30	198.78	1739.09	4.64	0.0576	1409.2	2146.3	7418.93	4.27	12.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+138	ABCE1	G464C	CGELQRVAL	GGELQRVAL	1	0.111	5/45	2160.10	2715.75	2.21	0.1482	2715.8	50000.0	2047.88	0.75	12.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+139	RAPGEF2	R233S	AQQDYCSIL	AQQDYCRIL	7	0.091	3/33	611.39	1902.08	4.13	0.0970	1421.2	2545.7	4403.92	2.32	12.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+140	SENP6	P105Q	TLKGNQIGL	TLKGNPIGL	6	0.100	4/40	1039.40	1407.13	3.33	0.3004	761.6	2599.8	863.68	0.61	12.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+141	FICD	R87S	TSSGATLLV	TSRGATLLV	3	0.129	4/31	93.48	2243.49	5.15	0.1488	981.3	5129.2	7150.91	3.19	12.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+142	FOXG1	P216H	FIMKNFHYY	FIMKNFPYY	7	0.105	4/38	98.85	848.81	2.32	0.3392	625.7	1151.5	1213.12	1.43	12.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+143	PEX10	E263D	SLDERAVSR	SLEERAVSR	3	0.111	5/45	579.65	3548.00	9.36	0.2077	961.5	13092.7	7910.90	2.23	12.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+144	ITGAX	H990N	VSNPQNPSL	VSHPQNPSL	3	0.115	3/26	208.45	2050.71	9.26	0.6314	301.9	13928.5	2618.79	1.28	12.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+145	CNDP1	W342C	LCRYPSLSI	LWRYPSLSI	2	0.087	4/46	3292.62	3796.88	8.63	0.0273	3796.9	50000.0	10214.91	2.69	12.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+146	MED15	Q732K	PADYPAKSP	PADYPAQSP	7	0.098	4/41	3733.52	4107.93	6.65	0.0346	4107.9	50000.0	4540.11	1.11	12.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+147	TECTA	V1642I	KPVISSVVL	KPVVSSVVL	4	0.366	48/131	10.03	3562.48	16.80	0.2256	508.3	24968.1	3312.80	0.93	12.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+148	UTRN	L1567F	WLSATETEF	WLSATETEL	9	0.129	4/31	460.96	2013.15	5.42	0.0440	1594.5	2541.8	59.52	0.03	12.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+149	RAD51	S106Y	GYKELDKLL	GSKELDKLL	2	0.200	3/15	113.90	6462.36	28.06	0.0098	6462.4	50000.0	8317.14	1.29	12.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+150	EFHD1	F99L	KDLESMLKL	KDLESMFKL	7	0.088	3/34	3745.34	2139.09	10.06	0.3452	297.1	15402.8	1917.99	0.90	12.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+151	HSPE1	P34Q	LQEKSQGKV	LPEKSQGKV	2	0.095	4/42	6056.23	3173.50	10.14	0.0236	3173.5	50000.0	2357.36	0.74	11.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+152	KANSL3	R111M	AMTDADAPP	ARTDADAPP	2	0.081	3/37	1117.84	3484.98	8.42	0.0294	2061.3	5891.9	23931.16	6.87	11.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+153	SYNE1	R8700L	LGKCSLSQP	RGKCSLSQP	1	0.098	4/41	746.42	3640.37	11.60	0.0209	3640.4	50000.0	10983.10	3.02	11.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+154	SUGT1	L99I	NYAAAIETF	NYAAALETF	6	0.105	4/38	972.06	3665.26	19.86	0.5115	468.7	28660.2	4018.14	1.10	11.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+155	DMPK	D204Y	ILLYRCGHI	ILLDRCGHI	4	0.098	4/41	924.07	1399.95	4.96	0.0378	1565.2	1252.2	216.32	0.15	11.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+156	DHX15	Q395K	PLYSTLPPK	PLYSTLPPQ	9	0.125	4/32	2179.44	4849.00	5.07	0.0492	4849.0	50000.0	3473.96	0.72	11.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+157	ETV5	G3W	WFYDQQVPF	GFYDQQVPF	1	0.107	3/28	8422.64	5170.91	11.57	0.0210	5170.9	50000.0	4841.69	0.94	11.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+158	SDHA	L469M	VVFGRACAM	VVFGRACAL	9	0.109	6/55	2684.81	3322.84	7.24	0.0319	3322.8	50000.0	726.13	0.22	11.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+159	ZEB2	G51C	HIAEDDCIA	HIAEDDGIA	7	0.122	6/49	3270.77	8320.80	18.77	0.0136	5103.7	13565.7	12535.90	1.51	11.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+160	IGF1R	P1304H	PENMESVHL	PENMESVPL	8	0.088	3/34	5119.27	4425.75	6.44	0.0361	4425.8	50000.0	4911.14	1.11	11.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+161	GRM7	R434L	DLCADYLGV	DLCADYRGV	7	0.111	4/36	86.68	2109.72	5.81	0.0422	1489.1	2989.1	7575.67	3.59	11.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+162	PLIN2	P336Q	LLSNIQGVQ	LLSNIQGVP	9	0.083	3/36	1570.56	2787.86	3.76	0.0715	2787.9	50000.0	3788.43	1.36	11.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+163	CMTM6	E95D	FYDRVDTTK	FYERVDTTK	3	0.086	3/35	2758.95	4635.63	4.06	0.0651	4635.6	50000.0	13235.98	2.86	11.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+164	AMBRA1	G1083W	MWLMNAIGL	MGLMNAIGL	2	0.103	3/29	801.22	2362.90	6.24	0.0365	1770.0	3154.3	1902.68	0.81	11.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+165	DUSP9	G285V	ALSQNCVVL	ALSQNCGVL	7	0.086	3/35	23.28	290.30	1.49	0.3569	236.4	356.4	2098.14	7.23	10.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+166	CORO2B	Q467K	RIRQLKLEL	RIRQLQLEL	6	0.093	4/43	4440.90	3173.93	6.10	0.0388	3173.9	50000.0	1564.02	0.49	10.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+167	EIF6	G69C	MCVGNRHCL	MCVGNRHGL	8	0.098	4/41	4184.46	3932.49	9.70	0.0246	3932.5	50000.0	3352.39	0.85	10.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+168	ITGAE	G558C	RLSEQDCSF	RLSEQDGSF	7	0.103	7/68	205.23	2315.13	5.17	0.1657	1018.9	5260.6	3688.41	1.59	10.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+169	RANBP10	Q564H	QQLDPIHRE	QQLDPIQRE	7	0.111	3/27	1527.22	4170.70	5.47	0.0447	4170.7	50000.0	3922.42	0.94	10.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+170	GCN1	G1376V	VMIQRLMQQ	GMIQRLMQQ	1	0.114	4/35	2742.12	5077.31	13.13	0.0188	5077.3	50000.0	3591.30	0.71	10.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+171	SDK2	K863N	NFTEYFTSV	KFTEYFTSV	1	0.083	3/36	3873.93	2209.41	4.29	0.2125	1246.7	3915.4	630.58	0.29	10.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+172	NALCN	W556C	LTQEGCVDV	LTQEGWVDV	6	0.130	3/23	78.44	2702.75	7.38	0.0272	2287.4	3193.5	3488.90	1.29	10.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+173	ZNF462	R1709S	YTNPISKGL	YTNPIRKGL	6	0.079	3/38	311.96	2058.12	4.48	0.1020	1326.4	3193.6	7905.20	3.84	10.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+174	SBK1	F244L	FGVLILCVL	FGVLIFCVL	6	0.093	4/43	371.06	2586.64	9.30	0.0256	2586.6	50000.0	3813.84	1.47	10.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+175	HSPG2	Q1699K	RCKVSGSPP	RCQVSGSPP	3	0.125	3/24	8987.70	8536.23	38.35	0.0071	8536.2	50000.0	6163.97	0.72	10.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+176	EIF2S2	G3V	SVDEMIFDP	SGDEMIFDP	2	0.182	4/22	3059.10	15860.76	19.10	0.0138	15860.8	50000.0	18410.50	1.16	10.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+177	RSF1	G438W	ALGHEWKQL	ALGHEGKQL	6	0.082	4/49	512.89	1849.07	5.10	0.0907	822.7	4156.0	1915.90	1.04	10.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+178	NPR2	G265C	SLRACPTRA	SLRAGPTRA	5	0.097	3/31	259.31	2322.76	5.94	0.0668	1095.6	4924.6	2654.57	1.14	10.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+179	CDC42EP1	W351C	QARASCESL	QARASWESL	6	0.083	3/36	1056.59	3009.29	10.15	0.0236	3009.3	50000.0	4118.27	1.37	10.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+180	MYBBP1A	E612D	SPADSCDLL	SPAESCDLL	4	0.091	3/33	5023.73	3696.29	5.02	0.0498	3696.3	50000.0	2251.41	0.61	10.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+181	USP2	L71I	RTYGPSSIL	RTYGPSSLL	8	0.119	5/42	395.77	2996.21	5.99	0.0591	1940.2	4627.1	1294.44	0.43	10.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+182	EXT2	H623N	NMNCEDIAM	HMNCEDIAM	1	0.083	3/36	1899.00	2136.19	5.58	0.0346	2389.9	1909.4	1011.53	0.47	10.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+183	UBR4	L994F	VTAFEACAL	VTALEACAL	4	0.103	3/29	2762.54	4795.61	20.13	0.0132	4795.6	50000.0	3713.11	0.77	10.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+184	ZNF839	P785H	ILSHPGTIV	ILSPPGTIV	4	0.081	3/37	157.24	460.73	2.15	0.2649	264.6	802.2	197.29	0.43	9.7	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+185	BAZ2A	P1483H	CLRHSADPI	CLRPSADPI	4	0.079	3/38	3399.99	2633.78	10.83	0.0223	2633.8	50000.0	1626.07	0.62	9.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+186	MYO7B	G2034W	LIAINRHWV	LIAINRHGV	8	0.333	5/15	2.51	1256.62	4.03	0.0631	1140.1	1385.1	1519.09	1.21	9.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+187	NEFH	P815Q	KEIQKKEEV	KEIPKKEEV	4	0.083	4/48	6092.41	4074.15	24.77	0.1219	515.7	32187.3	3407.89	0.84	9.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+188	SHC1	G362V	LGVVVDMRL	LGGVVDMRL	3	0.081	3/37	4375.36	3570.28	6.71	0.0342	3570.3	50000.0	3187.11	0.89	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+189	FBN1	D1280Y	SEDMKTCVY	SEDMKTCVD	9	0.098	4/41	250.00	4419.89	4.61	0.0555	4419.9	50000.0	18547.91	4.20	9.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+190	MYO5C	E43D	LLLDDGTEL	LLLEDGTEL	4	0.083	3/36	16.83	29.14	0.23	0.8057	37.1	22.9	25.23	0.87	9.4	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+191	RPL4	W67C	ESCGTGRAV	ESWGTGRAV	3	0.086	3/35	95410.10	7789.73	24.74	0.0110	7789.7	50000.0	4980.62	0.64	9.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+192	PLXNA1	G408W	CWQDFNQPL	CGQDFNQPL	2	0.091	3/33	9007.88	8387.27	23.59	0.0086	6468.5	10875.2	11575.13	1.38	9.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+193	STIL	G82C	SSCFLLCSL	SSCFLLGSL	7	0.083	4/48	144.34	1772.74	5.08	0.0787	831.0	3781.6	3910.94	2.21	9.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+194	NABP2	P171H	PPHTHSHPP	PPHTPSHPP	5	0.088	3/34	1530.44	2676.79	8.44	0.0279	2676.8	50000.0	488.76	0.18	9.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+195	KANK1	K54N	KYVDDIQNG	KYVDDIQKG	8	0.114	4/35	1890.76	6442.75	4.94	0.0509	6442.8	50000.0	5698.20	0.88	9.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+196	TSC1	G305W	TQNSYWCAT	TQNSYGCAT	6	0.111	3/27	719.91	7226.46	20.57	0.0098	5839.0	8943.6	14397.15	1.99	9.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+197	PRMT7	P288H	MDHEGKIKC	MDPEGKIKC	3	0.085	4/47	1552.65	4816.34	13.45	0.0184	4816.3	50000.0	6355.85	1.32	9.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+198	PDCD4	P420T	INLDVTHSY	INLDVPHSY	6	0.086	3/35	2516.04	3901.43	4.25	0.0615	3901.4	50000.0	3656.94	0.94	9.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+199	NRG3	P519Q	QQLEESRIQ	QQLEESRIP	9	0.100	4/40	498.93	5419.14	6.75	0.0340	5419.1	50000.0	10470.17	1.93	9.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+200	BBS12	K347N	INELQNQPV	IKELQNQPV	2	0.130	3/23	67.34	4506.47	12.43	0.0196	4506.5	50000.0	11820.28	2.62	9.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+201	ABCA2	Q298K	LDVAKVSQK	LDVAKVSQQ	9	0.120	3/25	218.12	5297.22	4.91	0.0512	5297.2	50000.0	5594.67	1.06	9.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+202	KMT2A	S1384Y	TLYNGNSSK	TLSNGNSSK	3	0.104	5/48	984.96	6960.55	31.94	0.0086	6960.6	50000.0	9983.49	1.43	9.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+203	CAPN3	W373L	RLKDWSFVD	RWKDWSFVD	2	0.091	4/44	1047.28	7018.14	8.47	0.0508	5980.4	8236.0	28606.01	4.08	9.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+204	MITD1	F241L	HETTVDILH	HETTVDIFH	8	0.172	10/58	174.43	10413.47	5.51	0.0442	10413.5	50000.0	17008.01	1.63	9.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+205	PNLDC1	R476L	YLDHPTLCI	YRDHPTLCI	2	0.143	3/21	1.79	24.32	0.11	0.9522	33.6	17.6	11886.65	488.76	8.9	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+206	UGT8	L55I	ILSEGRDIA	LLSEGRDIA	1	0.125	4/32	58.74	1917.77	5.01	0.1300	794.8	4627.6	1877.50	0.98	8.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+207	SLC7A2	P648H	NLSSHFIFH	NLSSPFIFH	5	0.089	4/45	2051.58	6187.92	3.70	0.0728	6187.9	50000.0	6709.24	1.08	8.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+208	XIAP	G204C	VQCFCCCGK	VQCFCCGGK	7	0.108	4/37	618.20	6671.57	33.99	0.0081	6671.6	50000.0	8376.59	1.26	8.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+209	CTR9	A292S	KVQHLSLHA	KVQHLALHA	6	0.079	3/38	2063.40	4836.91	15.24	0.0167	4836.9	50000.0	5109.94	1.06	8.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+210	PDLIM2	H24N	RDFNTPIMV	RDFHTPIMV	4	0.103	3/29	104.58	2853.58	1.42	0.2625	2853.6	50000.0	3119.80	1.09	8.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+211	MYLIP	Q429K	VEHVKHVYL	VEHVQHVYL	5	0.083	3/36	1495.34	3426.90	4.08	0.0646	3426.9	50000.0	2533.51	0.74	8.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+212	EEA1	G51V	SLVSADELF	SLGSADELF	3	0.079	3/38	278.30	2661.18	10.13	0.0237	2661.2	50000.0	4172.80	1.57	8.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+213	SHROOM4	P1270H	PPSGAPGIH	PPSGAPGIP	9	0.103	4/39	376.07	3121.39	12.99	0.0190	3121.4	50000.0	963.13	0.31	8.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+214	FXR2	E339D	NPRDEGMVP	NPREEGMVP	4	0.100	3/30	1469.91	5554.37	10.53	0.0229	5554.4	50000.0	4753.79	0.86	8.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+215	ARHGEF37	G259W	QLLKQEAWL	QLLKQEAGL	8	0.118	4/34	7.16	234.75	1.45	0.2942	205.6	268.0	303.49	1.29	8.3	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+216	NAA30	P118H	HDGGPRATA	PDGGPRATA	1	0.125	3/24	342.76	5295.94	26.12	0.0105	5295.9	50000.0	2390.94	0.45	8.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+217	ZFHX4	T2889R	RQMSNLQLK	TQMSNLQLK	1	0.098	11/112	585.96	6105.34	11.04	0.0489	2937.3	12690.1	7301.75	1.20	8.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+218	IRAK2	R566L	LLVIVGREA	LRVIVGREA	2	0.079	3/38	54.08	2016.57	3.54	0.2143	1542.6	2636.1	24618.80	12.21	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+219	RGS20	A193S	AQDTPGSAP	AQDTPGAAP	7	0.086	3/35	1157.59	3678.09	4.23	0.0619	3678.1	50000.0	2309.79	0.63	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+220	RDH13	S249Y	GIHGSTFYS	GIHGSTFSS	8	0.094	5/53	497.13	5316.26	21.08	0.0127	5316.3	50000.0	5979.51	1.12	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+221	CNTRL	Q698H	SLQQTHGDL	SLQQTQGDL	6	0.115	6/52	442.69	5711.33	12.23	0.0174	4618.3	7063.0	5425.59	0.95	8.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+222	TBX18	G556V	FLVSSPSGT	FLGSSPSGT	3	0.087	4/46	15.76	331.35	1.90	0.2651	202.2	542.9	504.87	1.52	7.9	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+223	CHST12	P115Q	SQDQGRQQA	SPDQGRQQA	2	0.099	7/71	487.46	6166.95	16.15	0.0317	1900.3	20012.9	6502.14	1.05	7.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+224	RYR1	P2001Q	QPQEQINML	PPQEQINML	1	0.100	3/30	131.45	4214.80	25.04	0.3558	535.5	33173.8	6873.68	1.63	7.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+225	UHRF2	W606L	SSHGFLVLR	SSHGFLVWR	8	0.094	3/32	283.67	5309.17	4.22	0.0620	5309.2	50000.0	9656.88	1.82	7.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+226	GALC	G104C	HILKVEIGC	HILKVEIGG	9	0.105	4/38	554.80	8332.35	18.59	0.0138	4920.5	14110.1	15500.02	1.86	7.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+227	POLQ	L1982F	LLLSCGISF	LLLSCGISL	9	0.086	3/35	146.85	1228.66	4.03	0.0932	662.1	2279.9	22.65	0.02	7.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+228	CDC37L1	G79C	EAQQKLCSL	EAQQKLGSL	7	0.115	3/26	80.95	2824.06	7.29	0.0317	2824.1	50000.0	2274.04	0.81	7.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+229	GBP3	L348I	LPAETIQEL	LPAETLQEL	6	0.100	4/40	25.43	1211.35	10.04	0.9397	94.7	15490.0	1231.85	1.02	7.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+230	NIPBL	M1480I	DIDGEPMYI	DMDGEPMYI	2	0.088	3/34	1006.81	4144.37	8.85	0.1124	1641.5	10463.6	1176.21	0.28	7.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+231	ASXL2	G1324W	QIWPSYRGM	QIGPSYRGM	3	0.086	3/35	933.38	7046.62	26.01	0.0105	7046.6	50000.0	13400.97	1.90	7.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+232	LRP3	P207H	HPGSLCPGG	PPGSLCPGG	1	0.079	3/38	823.95	3380.02	14.91	0.0170	3380.0	50000.0	2424.63	0.72	7.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+233	PLCH2	R531L	SLIKESKIL	SLIKESKIR	9	0.129	4/31	5.37	1105.36	3.45	0.2674	447.6	2729.4	12952.94	11.72	7.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+234	NPHP4	W1153L	RLPPLHTFP	RLPPWHTFP	5	0.095	4/42	268.27	3636.60	9.21	0.0258	3636.6	50000.0	2909.14	0.80	7.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+235	EXOC1	S490Y	SQSYSLLDM	SQSSSLLDM	4	0.103	3/29	783.31	6419.68	18.46	0.0109	5456.3	7553.1	4511.96	0.70	7.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+236	MMP24	W449C	YCVFKEVTV	YWVFKEVTV	2	0.079	3/38	266.12	3872.56	5.03	0.2030	2799.7	5356.6	5863.86	1.51	7.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+237	MEI1	G898E	LLVEHEASP	LLVEHGASP	6	0.246	17/69	8.95	4292.34	8.63	0.0303	2777.2	6634.0	3137.68	0.73	7.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+238	NFIX	G147V	GIPLESTDV	GIPLESTDG	9	0.148	4/27	19.34	5200.35	18.65	0.0141	5200.4	50000.0	19747.57	3.80	7.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+239	CATSPERT	G72W	GTWHRLLNM	GTGHRLLNM	3	0.083	3/36	31.88	2053.40	4.47	0.0743	1656.0	2546.2	13137.35	6.40	7.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+240	TRPM6	G821V	NQHFGLESV	NQHFGLESG	9	0.081	3/37	7.88	354.89	1.41	0.7052	214.5	587.0	20808.39	58.63	7.0	Tier 3: Deprioritized	REJECT: Subclonal / low presentation probability.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+241	SFI1	P1070Q	APGQKQPPT	APGPKQPPT	4	0.103	3/29	237.82	4416.29	41.55	0.1589	465.3	41914.3	2308.94	0.52	7.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+242	ERCC5	P909H	RPNHHDTKV	RPNPHDTKV	4	0.098	4/41	1106.38	6818.60	25.41	0.0526	1456.9	31911.6	3905.86	0.57	7.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+243	ATP6V1B2	G466C	CPYENRTVF	GPYENRTVF	1	0.098	5/51	1823.07	8017.22	23.27	0.2394	2030.5	31654.4	5961.03	0.74	7.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+244	TLE1	L203M	MVPDSLRGT	LVPDSLRGT	1	0.097	3/31	67.34	3260.89	4.26	0.0613	3260.9	50000.0	3697.36	1.13	6.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+245	KAT5	R510M	FTPKDWSKM	FTPKDWSKR	9	0.088	3/34	565.58	8562.54	13.22	0.0230	6167.5	11887.7	24613.96	2.87	6.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+246	PCDH1	G1007W	NTFVGTWDT	NTFVGTGDT	7	0.104	5/48	1706.30	12940.46	30.34	0.0091	12940.5	50000.0	20846.99	1.61	6.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+247	TRIM52	G36W	VSISCWHNF	VSISCGHNF	6	0.097	3/31	94.91	4836.60	18.11	0.0145	4836.6	50000.0	6294.27	1.30	6.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+248	MACROD2	Q59K	ENTKETSQV	ENTQETSQV	4	0.121	4/33	429.44	11916.94	56.88	0.0045	11916.9	50000.0	12356.91	1.04	6.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+249	UPF3A	S356Y	EQEYEAQRY	EQESEAQRY	4	0.093	4/43	570.92	6157.20	14.69	0.0172	6157.2	50000.0	3145.34	0.51	6.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+250	ZFP90	L325I	KAFQRSSSI	KAFQRSSSL	9	0.079	3/38	448.78	4138.59	10.29	0.0558	1434.1	11943.6	2911.06	0.70	6.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+251	ABRAXAS2	P352H	GLKYHGSGA	GLKYPGSGA	5	0.102	5/49	327.01	6122.76	22.88	0.0118	6122.8	50000.0	2574.17	0.42	6.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+252	FNBP1L	E570D	IEDDKGDGW	IEEDKGDGW	3	0.081	3/37	972.06	9006.97	14.20	0.0177	9007.0	50000.0	13160.25	1.46	6.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+253	ACAD11	P196T	AAAHQDITA	AAAHQDIPA	8	0.081	3/37	369.27	4386.75	5.38	0.0456	4386.8	50000.0	2980.21	0.68	6.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+254	SMARCD3	H300N	LQDSNDKEY	LQDSHDKEY	5	0.100	3/30	806.59	8851.85	26.17	0.0315	2469.5	31729.5	6226.24	0.70	6.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+255	MAST1	Q618K	ALPTEAKLL	ALPTEAQLL	7	0.101	8/79	34.38	1868.72	5.10	0.2464	613.1	5695.5	655.83	0.35	5.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+256	CENPE	P620T	ESIEDTKQM	ESIEDPKQM	6	0.102	5/49	167.26	6062.42	22.71	0.0119	6062.4	50000.0	5919.39	0.98	5.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+257	NDUFB4	Q42K	AERLAIRAK	AERLAIRAQ	9	0.118	4/34	926.58	12485.74	7.66	0.0303	12485.7	50000.0	11417.15	0.91	5.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+258	KDM4A	P887H	CFRHKIHNL	CFRHKIPNL	7	0.125	4/32	2164.40	15632.24	33.14	0.0083	9471.9	25799.1	13557.43	0.87	5.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+259	UTP15	P32H	YWNNYKTHV	YWNNYKTPV	8	0.103	4/39	412.97	8258.28	20.42	0.0102	6633.1	10281.7	6798.45	0.82	5.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+260	ABCA4	G1886W	FAMVVEWVV	FAMVVEGVV	7	0.107	3/28	1.79	90.45	0.55	0.4578	262.9	31.1	1625.59	17.97	5.6	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+261	HCCS	P26Q	SPPSGCQMH	SPPSGCPMH	7	0.091	3/33	205.23	5027.45	17.55	0.0149	5027.4	50000.0	1893.78	0.38	5.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+262	SAMD9L	E830K	LRYKKTLVI	LRYEKTLVI	4	0.155	23/148	61.25	8953.30	5.76	0.0417	8953.3	50000.0	4048.23	0.45	5.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+263	ZFP41	R104H	KTDHIHHQR	KTDHIRHQR	6	0.092	16/174	1236.87	12771.64	57.21	0.0044	12771.6	50000.0	17051.95	1.34	5.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+264	PHKA2	R62S	LGMAYSKNA	LGMAYRKNA	6	0.105	4/38	753.45	14215.64	34.62	0.0061	10241.8	19731.2	21713.25	1.53	5.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+265	TTN	P6820H	TVQEPHSFV	TVQEPPSFV	6	0.081	3/37	39.91	1378.55	3.77	0.0826	1156.0	1643.9	845.42	0.61	5.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+266	TPD52L1	P170H	HNGGSFEEV	PNGGSFEEV	1	0.098	5/51	345.99	11157.72	19.87	0.0225	5349.2	23273.5	17045.90	1.53	5.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+267	SLIT2	Q1042K	KLDFCAKDL	KLDFCAQDL	7	0.100	3/30	22.92	1681.53	4.42	0.0599	1529.9	1848.2	539.66	0.32	5.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+268	PCDHA11	P620Q	IQFRVGLYT	IPFRVGLYT	2	0.080	4/50	33.00	3475.65	7.78	0.0259	3454.9	3496.5	14118.63	4.06	5.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+269	PCDHA11	R742S	PTLVCSSAV	PTLVCSRAV	7	0.088	3/34	33.00	3570.22	16.28	0.0158	3570.2	50000.0	6934.21	1.94	5.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+270	KIF26A	G448W	QAEVCSWTV	QAEVCSGTV	7	0.100	4/40	23.28	4361.76	9.75	0.0218	3500.2	5435.4	14184.99	3.25	5.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+271	MRC2	G922C	APGKPRPVC	APGKPRPVG	9	0.081	3/37	50.86	3868.49	40.95	0.4281	356.6	41968.8	5288.28	1.37	5.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+272	FBN1	G470W	CIPTPWSYR	CIPTPGSYR	6	0.125	4/32	250.00	12753.48	50.66	0.0052	12753.5	50000.0	11076.41	0.87	5.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+273	ADHFE1	D390N	ILGANTRTA	ILGADTRTA	5	0.097	23/238	16.83	1615.45	3.52	0.2384	971.6	2686.0	1098.06	0.68	4.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+274	UBTD1	Q205H	HETKIQKDF	QETKIQKDF	1	0.081	3/37	195.56	5505.43	11.74	0.0207	5505.4	50000.0	3557.49	0.65	4.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+275	SPTBN2	H1720N	EVVAASNEL	EVVAASHEL	7	0.098	5/51	413.68	9838.35	13.28	0.0437	5706.2	16962.9	4829.47	0.49	4.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+276	EBF1	P148Q	QEMCRVLLT	PEMCRVLLT	1	0.097	3/31	34.74	5289.40	18.43	0.0143	5289.4	50000.0	5371.85	1.02	4.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+277	SRPX	G136C	GGFKCVDCA	GGFKCVDGA	8	0.081	3/37	1916.91	11146.93	27.20	0.0112	5213.5	23833.1	9224.62	0.83	4.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+278	PIGV	P444T	KPLAEDSTP	KPLAEDSPP	8	0.083	3/36	183.74	5876.21	26.37	0.0104	5876.2	50000.0	2952.92	0.50	4.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+279	CETN2	M10I	ASNFKKANI	ASNFKKANM	9	0.093	4/43	654.01	14645.97	36.87	0.0074	14646.0	50000.0	21277.89	1.45	4.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+280	PRKAA1	E205D	DVDIWSSGV	EVDIWSSGV	1	0.077	3/39	574.50	8096.55	25.61	0.0069	8138.5	8054.8	5538.49	0.68	4.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+281	KMT2D	G78W	SLHWQRELR	SLHGQRELR	4	0.077	3/39	4169.01	12263.66	29.13	0.0095	12263.7	50000.0	7282.55	0.59	4.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+282	FBLN5	G175C	YCYCQQLCA	YGYCQQLCA	2	0.091	4/44	25.07	4485.70	10.84	0.0206	2915.5	6901.5	5296.62	1.18	4.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+283	ZCCHC10	P4H	MATHMHRLI	MATPMHRLI	4	0.097	3/31	204.87	10116.02	13.54	0.0237	8051.0	12710.7	6928.57	0.68	4.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+284	ZNF33A	G502W	KSYECNACW	KSYECNACG	9	0.088	3/34	376.07	13484.56	27.69	0.0099	13484.6	50000.0	15098.12	1.12	4.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+285	REPS2	Q186H	HSPTMSPLA	QSPTMSPLA	1	0.094	3/32	37.61	4889.13	21.08	0.0127	4889.1	50000.0	4121.55	0.84	4.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+286	ZEB1	G281V	KRFSHSVSY	KRFSHSGSY	7	0.077	3/39	87.39	7682.16	18.95	0.1839	2182.8	27036.5	14014.38	1.82	4.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+287	BEND3	P691H	FEGPPLPHE	FEGPPLPPE	8	0.086	3/35	215.26	7862.16	6.23	0.0377	7862.2	50000.0	2156.34	0.27	4.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+288	CUBN	G2753W	NGWSPESPI	NGGSPESPI	3	0.115	3/26	59.46	9367.45	42.77	0.0063	9367.5	50000.0	7672.29	0.82	4.2	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+289	GATA1	G86W	WIPGGSPYA	GIPGGSPYA	1	0.103	3/29	2.87	470.22	2.33	0.2743	210.0	1052.7	554.98	1.18	4.1	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+290	GRK5	H576N	NHNINSNHV	NHHINSNHV	3	0.098	4/41	317.69	15374.74	54.07	0.0048	15374.7	50000.0	16301.98	1.06	4.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+291	CFAP251	L530M	KFYDHTMSI	KFYDHTLSI	7	0.114	4/35	1.79	217.81	1.39	0.7326	82.6	574.4	288.09	1.32	4.0	Tier 3: Deprioritized	REJECT: Insufficient transcript expression in tumor.	Consensus_Ensemble(MHCflurry+NetMHCpan)
+292	NDUFS2	P64Q	KPQPWNDVD	KPPPWNDVD	3	0.083	3/36	4765.76	17272.83	48.88	0.0054	17272.8	50000.0	16169.73	0.94	4.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+293	KLHDC1	L306F	RLWHTACFG	RLWHTACLG	8	0.091	3/33	10.03	1678.51	4.14	0.0610	1929.3	1460.3	1588.64	0.95	3.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+294	XPNPEP2	P582Q	KYQGSYLTF	KYPGSYLTF	3	0.100	3/30	6.81	2463.84	17.20	0.7030	232.5	26109.7	2582.51	1.05	3.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+295	REPS2	G211C	PLSHCYSKL	PLSHGYSKL	5	0.088	3/34	37.61	7612.03	20.01	0.0102	6191.7	9358.2	9999.21	1.31	3.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+296	DMRTA1	L248I	ISKSHQLYI	ISKSHQLYL	9	0.111	3/27	49.79	10017.61	13.10	0.0380	6273.6	15995.9	8964.82	0.89	3.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+297	PSTK	M258I	IEQKDTDRI	MEQKDTDRI	1	0.091	3/33	31.52	5886.72	5.92	0.0404	5886.7	50000.0	4871.22	0.83	3.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+298	RNF38	P453H	QLPSYRFNH	QLPSYRFNP	9	0.116	5/43	526.86	20481.07	12.21	0.0199	20481.1	50000.0	15618.90	0.76	3.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+299	MTCL1	G929W	NLWKELGPD	NLGKELGPD	3	0.083	4/48	18.27	6195.54	7.43	0.0312	6195.5	50000.0	9376.08	1.51	3.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+300	ZNF559	P324Q	HTGEKQYEC	HTGEKPYEC	6	0.094	3/32	209.88	15402.03	66.79	0.0036	15402.0	50000.0	9544.81	0.62	3.0	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+301	ASH2L	Q212K	RKRPGKMTW	RQRPGKMTW	2	0.103	3/29	751.43	21046.80	9.67	0.0247	21046.8	50000.0	5993.38	0.28	2.9	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+302	PDE1C	G181V	SVDHALKFI	SGDHALKFI	2	0.107	6/56	1.79	1631.40	4.61	0.1234	700.7	3798.2	8128.99	4.98	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+303	PAK3	E385D	AVCRDCLQA	AVCRECLQA	5	0.174	4/23	1.79	2705.73	8.31	0.0283	2705.7	50000.0	2572.77	0.95	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+304	ITGB7	G600V	CSVDMDSCI	CSGDMDSCI	3	0.079	3/38	13.25	6235.87	31.61	0.0087	6235.9	50000.0	10043.50	1.61	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+305	TMEM121B	H268N	HHNHAAPPL	HHHHAAPPL	3	0.120	3/25	7.52	8417.91	27.99	0.0098	8417.9	50000.0	8677.72	1.03	2.8	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+306	PCDHGA9	L200M	AMDREEATA	ALDREEATA	2	0.097	3/31	3.39	1269.03	4.31	0.1471	462.9	3478.8	941.94	0.74	2.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+307	GDF9	L281I	QAYHSWYSI	QAYHSWYSL	9	0.081	3/37	5.01	2732.85	5.81	0.0440	2367.7	3154.3	3176.91	1.16	2.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+308	TRPM6	P1748H	YRLEESSHL	YRLEESSPL	8	0.097	3/31	7.88	4872.06	10.00	0.0952	1897.0	12512.9	4551.00	0.93	2.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+309	PPP1R36	H61N	WLLKHHPNF	WLLKHHPHF	8	0.083	3/36	4.66	1732.81	5.06	0.0583	1037.8	2893.2	1293.04	0.75	2.5	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+310	XIRP1	P876H	NIEDMDHEL	NIEDMDPEL	7	0.091	3/33	2.87	2109.65	5.37	0.2610	706.4	6300.4	2620.01	1.24	2.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+311	HECW1	P790T	GLESTVAGP	GLESPVAGP	5	0.100	3/30	5.73	4126.02	7.23	0.0319	4126.0	50000.0	2111.30	0.51	2.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+312	CAMK4	P205T	LMKTVCGTT	LMKTVCGTP	9	0.083	3/36	8.24	5963.82	28.27	0.0097	5963.8	50000.0	5982.97	1.00	2.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+313	CACNA1A	G411W	TDWEQRHPF	TDGEQRHPF	3	0.115	3/26	4.66	7610.73	7.69	0.0303	7610.7	50000.0	9953.00	1.31	2.4	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+314	USP43	E202D	LDGSSRGPV	LEGSSRGPV	2	0.111	3/27	7.88	10878.28	30.89	0.0162	3687.4	32092.3	14258.41	1.31	2.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+315	HYAL3	H362N	RCNGHGRCA	RCHGHGRCA	3	0.089	4/45	65.76	18370.13	76.94	0.0028	18370.1	50000.0	18554.40	1.01	2.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+316	PLCH1	Q886H	RQLHGLKGL	RQLQGLKGL	4	0.111	3/27	1.43	893.20	2.98	0.1451	633.9	1258.5	820.77	0.92	2.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+317	GLIS3	P708H	LVHTSMGQA	LVPTSMGQA	3	0.129	4/31	4.30	7099.81	22.75	0.0119	7099.8	50000.0	3651.51	0.51	2.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+318	PCDHGB6	P160H	HDININSIK	PDININSIK	1	0.086	3/35	7.16	7893.59	8.99	0.0263	7893.6	50000.0	8791.24	1.11	2.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+319	COL4A6	P812Q	VGQQGTPGS	VGQPGTPGS	4	0.079	3/38	5.37	5144.37	25.09	0.0109	5144.4	50000.0	1639.34	0.32	1.7	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+320	ABCA4	D915Y	PEHPEGIHY	PEHPEGIHD	9	0.079	3/38	1.79	3623.98	2.78	0.1072	3624.0	50000.0	18720.07	5.17	1.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+321	MAOB	P277T	MKIHFNPTL	MKIHFNPPL	8	0.100	3/30	1.43	4656.97	2.48	0.1261	4657.0	50000.0	5351.02	1.15	1.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+322	ABCA4	Q1475H	TQLFHKQKW	TQLFQKQKW	5	0.150	3/20	1.79	10034.91	9.67	0.0247	10034.9	50000.0	8989.14	0.90	1.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+323	JAM2	P226H	RCHGKRMQV	RCPGKRMQV	3	0.107	3/28	7.52	16431.46	42.73	0.0058	9365.8	28827.5	14367.29	0.87	1.3	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+324	SPTBN5	R1961S	ASVRQDLQV	ARVRQDLQV	2	0.083	3/36	1.79	7030.16	13.23	0.0576	2811.2	17580.7	15354.66	2.18	1.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	Consensus_Ensemble(MHCflurry+NetMHCpan)
+325	TEX11	G695W	VDLEQWRKA	VDLEQGRKA	6	0.129	4/31	1.43	8202.55	12.00	0.0203	8202.5	50000.0	5344.87	0.65	1.1	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
+326	CIMIP2B	K140N	NDTEKDQVP	KDTEKDQVP	1	0.106	5/47	1.79	18015.92	52.34	0.0050	18015.9	50000.0	14047.37	0.78	0.6	Tier 3: Deprioritized	REJECT: Failed HLA-A*02:01 presentation (IC50 > 500 nM).	MHCflurry_Filter_NonBinder
